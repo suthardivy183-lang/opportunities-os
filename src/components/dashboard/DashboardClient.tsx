@@ -1,7 +1,7 @@
 "use client";
 
 import { useMemo, useState } from "react";
-import { seedOpportunities } from "@/data/opportunities";
+import { allOpportunities } from "@/data/merged";
 import { useProfile } from "@/lib/profile-store";
 import { rankOpportunities } from "@/lib/scoring";
 import { effectiveDeadline, daysUntil } from "@/lib/dates";
@@ -16,7 +16,7 @@ const ACTIONS: (ActionType | "all")[] = ["all", "apply", "build", "attend", "pub
 
 export function DashboardClient() {
   const { profile } = useProfile();
-  const ranked = useMemo(() => rankOpportunities(seedOpportunities, profile), [profile]);
+  const ranked = useMemo(() => rankOpportunities(allOpportunities, profile), [profile]);
 
   const [query, setQuery] = useState("");
   const [category, setCategory] = useState<Category | "all">("all");

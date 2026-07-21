@@ -1,0 +1,46 @@
+name: Refresh hackathons
+
+on:
+  schedule:
+    - cron: "17 3 * * *" # ~03:17 UTC daily (avoid the top-of-hour spike)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - run: npm ci
+
+      - name: Fetch latest Devpost hackathons
+        run: npm run ingest:devpost
+
+      - name: Commit updated data if changed
+        id: commit
+        run: |
+          git config user.name "radar-bot"
+          git config user.email "radar-bot@users.noreply.github.com"
+          if git diff --quiet -- data/ingested/devpost.json; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            git add data/ingested/devpost.json
+            git commit -m "chore: refresh Devpost hackathons"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Deploy to Vercel
+        if: steps.commit.outputs.changed == 'true'
+        run: npx vercel deploy --prod --token "$VERCEL_TOKEN" --yes
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+          VERCEL_ORG_ID: ${{ vars.VERCEL_ORG_ID }}
+          VERCEL_PROJECT_ID: ${{ vars.VERCEL_PROJECT_ID }}

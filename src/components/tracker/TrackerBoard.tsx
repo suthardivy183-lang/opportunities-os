@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useMemo, useState } from "react";
-import { seedOpportunities } from "@/data/opportunities";
+import { allOpportunities } from "@/data/merged";
 import { useProfile } from "@/lib/profile-store";
 import { rankOpportunities, ACTION_META } from "@/lib/scoring";
 import { effectiveDeadline, deadlineLabel } from "@/lib/dates";
@@ -22,7 +22,7 @@ type Store = Record<string, Override>;
 
 export function TrackerBoard() {
   const { profile } = useProfile();
-  const ranked = useMemo(() => rankOpportunities(seedOpportunities, profile), [profile]);
+  const ranked = useMemo(() => rankOpportunities(allOpportunities, profile), [profile]);
   const defaults = useMemo(() => {
     const m: Record<string, ActionType> = {};
     ranked.forEach(({ opp, scored }) => (m[opp.id] = scored.action));

@@ -1,43 +1,23 @@
 [
   {
-    "id": "dp-4o4xq8",
-    "title": "Pinch Me! I Want 50K: A Nationwide Australian Payments & Fintech Hackathon",
+    "id": "dp-1upakfu",
+    "title": "Dev Clash",
     "organizer": "Devpost host",
     "category": "hackathon",
-    "url": "https://pinch-me-i-want-50k.devpost.com/",
+    "url": "https://dev-clash.devpost.com/",
     "source": "Devpost",
     "isOnline": true,
-    "registrationDeadline": "2026-07-22",
-    "eventDate": "Jun 23 - Jul 22, 2026",
-    "prize": "$50,000",
-    "techTags": [
-      "fintech",
-      "machine-learning-ai",
-      "open-ended"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-4o4xq8"
-  },
-  {
-    "id": "dp-10eenok",
-    "title": "ICON x Lyra Hackathon",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://icon-hackathon.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "UNSW",
-    "registrationDeadline": "2026-07-19",
-    "eventDate": "Jul 19 - 22, 2026",
-    "prize": "$500",
+    "registrationDeadline": "2026-07-23",
+    "eventDate": "Jul 23, 2026",
+    "prize": "$0",
     "techTags": [
       "beginner-friendly",
-      "open-ended"
+      "blockchain",
+      "devops"
     ],
     "status": "open",
     "confidence": "verify",
-    "rawHash": "dp-10eenok"
+    "rawHash": "dp-1upakfu"
   },
   {
     "id": "dp-1wrcq2i",
@@ -58,6 +38,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1wrcq2i"
+  },
+  {
+    "id": "dp-1rwunmm",
+    "title": "Technoviz Summer of Code",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://technoviz-summer-of-code.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-07-23",
+    "eventDate": "Jun 28 - Jul 23, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly",
+      "enterprise",
+      "fintech"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1rwunmm"
   },
   {
     "id": "dp-18xmmze",
@@ -301,6 +301,26 @@
     "rawHash": "dp-3vh1xp"
   },
   {
+    "id": "dp-1m1gzsz",
+    "title": "DTI Hackathon 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://dti-hackathon-2026-30476.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-07-31",
+    "eventDate": "Jun 18 - Jul 31, 2026",
+    "prize": "₹ 0",
+    "techTags": [
+      "blockchain",
+      "cybersecurity",
+      "web"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1m1gzsz"
+  },
+  {
     "id": "dp-52j0jy",
     "title": "Brainwave 2026 – X402 Blockchain Track",
     "organizer": "Devpost host",
@@ -338,26 +358,6 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1oz9zr3"
-  },
-  {
-    "id": "dp-1m1gzsz",
-    "title": "DTI Hackathon 2026",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://dti-hackathon-2026-30476.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-07-31",
-    "eventDate": "Jun 18 - Jul 31, 2026",
-    "prize": "₹ 0",
-    "techTags": [
-      "blockchain",
-      "cybersecurity",
-      "web"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1m1gzsz"
   },
   {
     "id": "dp-12x8lps",
@@ -462,26 +462,6 @@
     "rawHash": "dp-ckp5ne"
   },
   {
-    "id": "dp-1xo42de",
-    "title": "BASK(Business Achievement Spotlight for Kids) Monthly Pitch Competition",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://baskchallenge.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-07-01",
-    "eventDate": "Jul 01 - 31, 2026",
-    "prize": "$600",
-    "techTags": [
-      "communication",
-      "open-ended",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1xo42de"
-  },
-  {
     "id": "dp-1252oon",
     "title": "305 SummerCodex Edition July 2026 ",
     "organizer": "Devpost host",
@@ -500,6 +480,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1252oon"
+  },
+  {
+    "id": "dp-1xo42de",
+    "title": "BASK(Business Achievement Spotlight for Kids) Monthly Pitch Competition",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://baskchallenge.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-07-01",
+    "eventDate": "Jul 01 - 31, 2026",
+    "prize": "$600",
+    "techTags": [
+      "communication",
+      "open-ended",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1xo42de"
   },
   {
     "id": "dp-196qcmh",

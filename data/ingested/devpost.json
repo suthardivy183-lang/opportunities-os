@@ -1,43 +1,84 @@
 [
   {
-    "id": "dp-ll4h15",
-    "title": "M&TSI 2026 (Deliwala/Babin)",
+    "id": "dp-lsrrig",
+    "title": "HackDays Delhi",
     "organizer": "Devpost host",
     "category": "hackathon",
-    "url": "https://mtsi2026.devpost.com/",
+    "url": "https://hackdays-delhi.devpost.com/",
     "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-07-06",
-    "eventDate": "Jul 06 - 24, 2026",
-    "prize": "$0",
-    "techTags": [
-      "design",
-      "education",
-      "iot"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-ll4h15"
-  },
-  {
-    "id": "dp-g7hj60",
-    "title": "Global Tech Innovation Challenge",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://global-tech-challenge.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-07-17",
-    "eventDate": "Jul 17 - 24, 2026",
+    "isOnline": false,
+    "city": "India",
+    "registrationDeadline": "2026-07-25",
+    "eventDate": "Jul 25, 2026",
     "prize": "$0",
     "techTags": [
       "beginner-friendly",
-      "machine-learning-ai",
-      "social-good"
+      "low-no-code",
+      "web"
     ],
     "status": "open",
     "confidence": "verify",
-    "rawHash": "dp-g7hj60"
+    "rawHash": "dp-lsrrig"
+  },
+  {
+    "id": "dp-ew42l8",
+    "title": "DevsUnite Hiring Hackathon",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://devsunite-hiring-hackathon.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-07-24",
+    "eventDate": "Jul 24 - 25, 2026",
+    "prize": "₹ 3,000",
+    "techTags": [
+      "beginner-friendly",
+      "education",
+      "machine-learning-ai"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-ew42l8"
+  },
+  {
+    "id": "dp-fn52g3",
+    "title": "MIT BWSI Cyber Operations Cohort Hackathon 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://mit-bwsi-cyber-hackathon-2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-07-24",
+    "eventDate": "Jul 24 - 25, 2026",
+    "prize": "£0",
+    "techTags": [
+      "beginner-friendly",
+      "cybersecurity",
+      "devops"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-fn52g3"
+  },
+  {
+    "id": "dp-1rwunmm",
+    "title": "Technoviz Summer of Code",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://technoviz-summer-of-code.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-07-25",
+    "eventDate": "Jun 28 - Jul 25, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly",
+      "enterprise",
+      "fintech"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1rwunmm"
   },
   {
     "id": "dp-10vuhqy",
@@ -47,8 +88,8 @@
     "url": "https://dsoc-summer-edition.devpost.com/",
     "source": "Devpost",
     "isOnline": true,
-    "registrationDeadline": "2026-07-24",
-    "eventDate": "Jun 03 - Jul 24, 2026",
+    "registrationDeadline": "2026-07-25",
+    "eventDate": "Jun 03 - Jul 25, 2026",
     "prize": "$0",
     "techTags": [
       "enterprise",
@@ -67,8 +108,8 @@
     "url": "https://hacknomicshack.devpost.com/",
     "source": "Devpost",
     "isOnline": true,
-    "registrationDeadline": "2026-07-24",
-    "eventDate": "May 24 - Jul 24, 2026",
+    "registrationDeadline": "2026-07-25",
+    "eventDate": "May 24 - Jul 25, 2026",
     "prize": "$0",
     "techTags": [
       "enterprise",
@@ -80,23 +121,45 @@
     "rawHash": "dp-19zuxzr"
   },
   {
-    "id": "dp-1h8uo2a",
-    "title": "Prompt Insights News",
+    "id": "dp-1w26aa3",
+    "title": "DIVE 2026",
     "organizer": "Devpost host",
     "category": "hackathon",
-    "url": "https://prompt-insights-news.devpost.com/",
+    "url": "https://dive2026.devpost.com/",
     "source": "Devpost",
     "isOnline": false,
-    "city": "Pitkin, CO, USA",
-    "registrationDeadline": "2026-07-16",
-    "eventDate": "Jul 16 - 25, 2026",
-    "prize": "$0",
+    "city": "4F, BEXCO Exhibition Center 2",
+    "registrationDeadline": "2026-07-25",
+    "eventDate": "Jul 25 - 26, 2026",
+    "prize": "$2,900",
     "techTags": [
-      "web"
+      "databases",
+      "machine-learning-ai"
     ],
     "status": "open",
     "confidence": "verify",
-    "rawHash": "dp-1h8uo2a"
+    "rawHash": "dp-1w26aa3"
+  },
+  {
+    "id": "dp-qrms6c",
+    "title": "Esri's Weekend of Innovation 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://esri-woi-2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Redlands",
+    "registrationDeadline": "2026-07-24",
+    "eventDate": "Jul 24 - 26, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly",
+      "open-ended",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-qrms6c"
   },
   {
     "id": "dp-1e21l1y",
@@ -200,6 +263,24 @@
     "rawHash": "dp-17mhuw9"
   },
   {
+    "id": "dp-17tg3f1",
+    "title": "CYPER HACKATHON (Testing)",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://hacksphere-26.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-07-23",
+    "eventDate": "Jul 23 - 29, 2026",
+    "prize": "$1,000",
+    "techTags": [
+      "blockchain"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-17tg3f1"
+  },
+  {
     "id": "dp-lwapsw",
     "title": "Next Byte Hacks V3",
     "organizer": "Devpost host",
@@ -260,6 +341,26 @@
     "rawHash": "dp-3vh1xp"
   },
   {
+    "id": "dp-1oz9zr3",
+    "title": "India High School Exoplanet Data Challenge",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://celesta-exoplanet-challenge.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-07-31",
+    "eventDate": "Jun 15 - Jul 31, 2026",
+    "prize": "$10,300",
+    "techTags": [
+      "beginner-friendly",
+      "low-no-code",
+      "machine-learning-ai"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1oz9zr3"
+  },
+  {
     "id": "dp-52j0jy",
     "title": "Brainwave 2026 – X402 Blockchain Track",
     "organizer": "Devpost host",
@@ -299,26 +400,6 @@
     "rawHash": "dp-1m1gzsz"
   },
   {
-    "id": "dp-1oz9zr3",
-    "title": "India High School Exoplanet Data Challenge",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://celesta-exoplanet-challenge.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-07-31",
-    "eventDate": "Jun 15 - Jul 31, 2026",
-    "prize": "$10,300",
-    "techTags": [
-      "beginner-friendly",
-      "low-no-code",
-      "machine-learning-ai"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1oz9zr3"
-  },
-  {
     "id": "dp-12x8lps",
     "title": "IGAD Hackathon 2026: Smarter Early Warning, Stronger Communities",
     "organizer": "Devpost host",
@@ -340,26 +421,6 @@
     "rawHash": "dp-12x8lps"
   },
   {
-    "id": "dp-1inobp6",
-    "title": "Sound for All",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://sound-for-all.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-07-31",
-    "eventDate": "Jun 26 - Jul 31, 2026",
-    "prize": "$0",
-    "techTags": [
-      "communication",
-      "productivity",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1inobp6"
-  },
-  {
     "id": "dp-12d8bru",
     "title": "Kuki Designed group ",
     "organizer": "Devpost host",
@@ -379,6 +440,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-12d8bru"
+  },
+  {
+    "id": "dp-1inobp6",
+    "title": "Sound for All",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://sound-for-all.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-07-31",
+    "eventDate": "Jun 26 - Jul 31, 2026",
+    "prize": "$0",
+    "techTags": [
+      "communication",
+      "productivity",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1inobp6"
   },
   {
     "id": "dp-1yxzdpd",
@@ -421,26 +502,6 @@
     "rawHash": "dp-ckp5ne"
   },
   {
-    "id": "dp-1xo42de",
-    "title": "BASK(Business Achievement Spotlight for Kids) Monthly Pitch Competition",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://baskchallenge.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-07-01",
-    "eventDate": "Jul 01 - 31, 2026",
-    "prize": "$600",
-    "techTags": [
-      "communication",
-      "open-ended",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1xo42de"
-  },
-  {
     "id": "dp-1252oon",
     "title": "305 SummerCodex Edition July 2026 ",
     "organizer": "Devpost host",
@@ -461,83 +522,23 @@
     "rawHash": "dp-1252oon"
   },
   {
-    "id": "dp-196qcmh",
-    "title": "Assistive Innovation Challenge 2026",
+    "id": "dp-1xo42de",
+    "title": "BASK(Business Achievement Spotlight for Kids) Monthly Pitch Competition",
     "organizer": "Devpost host",
     "category": "hackathon",
-    "url": "https://assistive-innovation-challenge.devpost.com/",
+    "url": "https://baskchallenge.devpost.com/",
     "source": "Devpost",
     "isOnline": true,
-    "registrationDeadline": "2026-08-01",
-    "eventDate": "May 04 - Aug 01, 2026",
-    "prize": "$0",
+    "registrationDeadline": "2026-07-01",
+    "eventDate": "Jul 01 - 31, 2026",
+    "prize": "$600",
     "techTags": [
-      "beginner-friendly",
-      "health",
+      "communication",
+      "open-ended",
       "social-good"
     ],
     "status": "open",
     "confidence": "verify",
-    "rawHash": "dp-196qcmh"
-  },
-  {
-    "id": "dp-f5ehmq",
-    "title": "Hack the Arts",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://hackthearts.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-01",
-    "eventDate": "Jul 01 - Aug 01, 2026",
-    "prize": "$1,000",
-    "techTags": [
-      "beginner-friendly",
-      "design",
-      "open-ended"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-f5ehmq"
-  },
-  {
-    "id": "dp-qxxz0g",
-    "title": "Backblaze Generative Media Hackathon: Build with Genblaze on B2",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://backblaze-generative-media.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-03",
-    "eventDate": "Jun 22 - Aug 03, 2026",
-    "prize": "$10,000",
-    "techTags": [
-      "machine-learning-ai",
-      "music-art",
-      "voice-skills"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-qxxz0g"
-  },
-  {
-    "id": "dp-1oacz0i",
-    "title": "Creation Code",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://creation-code-30750.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Jaipur, India",
-    "registrationDeadline": "2026-08-04",
-    "eventDate": "Jul 17 - Aug 04, 2026",
-    "prize": "$0",
-    "techTags": [
-      "machine-learning-ai",
-      "open-ended"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1oacz0i"
+    "rawHash": "dp-1xo42de"
   }
 ]

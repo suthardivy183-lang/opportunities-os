@@ -1,25 +1,5 @@
 [
   {
-    "id": "dp-10vuhqy",
-    "title": "DSOC : Summer Edition",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://dsoc-summer-edition.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-07-29",
-    "eventDate": "Jun 03 - Jul 29, 2026",
-    "prize": "$0",
-    "techTags": [
-      "enterprise",
-      "fintech",
-      "productivity"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-10vuhqy"
-  },
-  {
     "id": "dp-1rwunmm",
     "title": "Technoviz Summer of Code",
     "organizer": "Devpost host",
@@ -27,8 +7,8 @@
     "url": "https://technoviz-summer-of-code.devpost.com/",
     "source": "Devpost",
     "isOnline": true,
-    "registrationDeadline": "2026-07-29",
-    "eventDate": "Jun 28 - Jul 29, 2026",
+    "registrationDeadline": "2026-07-30",
+    "eventDate": "Jun 28 - Jul 30, 2026",
     "prize": "$0",
     "techTags": [
       "beginner-friendly",
@@ -38,87 +18,6 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1rwunmm"
-  },
-  {
-    "id": "dp-1vxkios",
-    "title": "Steph Hack Day",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://steph-hack-day.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Boma Inn",
-    "registrationDeadline": "2026-07-27",
-    "eventDate": "Jul 27 - 29, 2026",
-    "prize": "$0",
-    "techTags": [
-      "design",
-      "machine-learning-ai",
-      "web"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1vxkios"
-  },
-  {
-    "id": "dp-17mhuw9",
-    "title": "Zero to Query: LingoQL Hackathon",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://ztq.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-07-08",
-    "eventDate": "Jul 08 - 29, 2026",
-    "prize": "$500",
-    "techTags": [
-      "education",
-      "productivity",
-      "web"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-17mhuw9"
-  },
-  {
-    "id": "dp-1usx0e2",
-    "title": "AICOO HACKATHON",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://aicoo-hackathon.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-07-29",
-    "eventDate": "Jun 27 - Jul 29, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly",
-      "communication",
-      "cybersecurity"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1usx0e2"
-  },
-  {
-    "id": "dp-1qznri2",
-    "title": "Ventura Challenge",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://ventura-challenge.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-07-29",
-    "eventDate": "Jun 01 - Jul 29, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly",
-      "design",
-      "e-commerce-retail"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1qznri2"
   },
   {
     "id": "dp-lwapsw",
@@ -220,26 +119,6 @@
     "rawHash": "dp-52j0jy"
   },
   {
-    "id": "dp-1oz9zr3",
-    "title": "India High School Exoplanet Data Challenge",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://celesta-exoplanet-challenge.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-07-31",
-    "eventDate": "Jun 15 - Jul 31, 2026",
-    "prize": "$10,300",
-    "techTags": [
-      "beginner-friendly",
-      "low-no-code",
-      "machine-learning-ai"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1oz9zr3"
-  },
-  {
     "id": "dp-1m1gzsz",
     "title": "DTI Hackathon 2026",
     "organizer": "Devpost host",
@@ -258,6 +137,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1m1gzsz"
+  },
+  {
+    "id": "dp-1oz9zr3",
+    "title": "India High School Exoplanet Data Challenge",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://celesta-exoplanet-challenge.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-07-31",
+    "eventDate": "Jun 15 - Jul 31, 2026",
+    "prize": "$10,300",
+    "techTags": [
+      "beginner-friendly",
+      "low-no-code",
+      "machine-learning-ai"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1oz9zr3"
   },
   {
     "id": "dp-1s3cxcq",
@@ -541,5 +440,105 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-9p17fd"
+  },
+  {
+    "id": "dp-11mvfye",
+    "title": "Build with Paritok: The Token-Efficiency Hackathon",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://build-with-paritok.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-05",
+    "eventDate": "Jul 20 - Aug 05, 2026",
+    "prize": "$630",
+    "techTags": [
+      "machine-learning-ai",
+      "open-ended",
+      "productivity"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-11mvfye"
+  },
+  {
+    "id": "dp-5wpeba",
+    "title": "OrionHackathon ",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://orionhackathon.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-05",
+    "eventDate": "Jul 17 - Aug 05, 2026",
+    "prize": "$1,000",
+    "techTags": [
+      "e-commerce-retail",
+      "fintech",
+      "machine-learning-ai"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-5wpeba"
+  },
+  {
+    "id": "dp-1tuc0n7",
+    "title": "Girls In STEM Global Hackathon",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://girlsinstemhackathon.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-05",
+    "eventDate": "Jun 23 - Aug 05, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly",
+      "low-no-code",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1tuc0n7"
+  },
+  {
+    "id": "dp-228yn1",
+    "title": "NextGen Innovation2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://nextgen-innovation-2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-08",
+    "eventDate": "Jul 11 - Aug 08, 2026",
+    "prize": "$0",
+    "techTags": [
+      "health",
+      "machine-learning-ai",
+      "web"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-228yn1"
+  },
+  {
+    "id": "dp-xjmtr2",
+    "title": "Brainwave 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://brainwaves.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-09",
+    "eventDate": "Jun 12 - Aug 09, 2026",
+    "prize": "$550",
+    "techTags": [
+      "ar-vr",
+      "blockchain",
+      "communication"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-xjmtr2"
   }
 ]

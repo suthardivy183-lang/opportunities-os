@@ -1,85 +1,5 @@
 [
   {
-    "id": "dp-1rwunmm",
-    "title": "Technoviz Summer of Code",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://technoviz-summer-of-code.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-07-30",
-    "eventDate": "Jun 28 - Jul 30, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly",
-      "enterprise",
-      "fintech"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1rwunmm"
-  },
-  {
-    "id": "dp-lwapsw",
-    "title": "Next Byte Hacks V3",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://next-byte-hacks-v3.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-07-30",
-    "eventDate": "Jun 15 - Jul 30, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly",
-      "open-ended",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-lwapsw"
-  },
-  {
-    "id": "dp-19kir22",
-    "title": "Prometheus July AI Challenge",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://prometheus-july-ai-challenge.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-07-17",
-    "eventDate": "Jul 17 - 30, 2026",
-    "prize": "$1,500",
-    "techTags": [
-      "beginner-friendly",
-      "design",
-      "machine-learning-ai"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-19kir22"
-  },
-  {
-    "id": "dp-3vh1xp",
-    "title": "Vitalitics 2026",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://vitalitics26.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-07-31",
-    "eventDate": "Jun 20 - Jul 31, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly",
-      "health",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-3vh1xp"
-  },
-  {
     "id": "dp-1d8yase",
     "title": " HARDWIRED 2026 MUEEC X CISSA",
     "organizer": "Devpost host",
@@ -119,6 +39,26 @@
     "rawHash": "dp-52j0jy"
   },
   {
+    "id": "dp-1oz9zr3",
+    "title": "India High School Exoplanet Data Challenge",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://celesta-exoplanet-challenge.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-07-31",
+    "eventDate": "Jun 15 - Jul 31, 2026",
+    "prize": "$10,300",
+    "techTags": [
+      "beginner-friendly",
+      "low-no-code",
+      "machine-learning-ai"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1oz9zr3"
+  },
+  {
     "id": "dp-1m1gzsz",
     "title": "DTI Hackathon 2026",
     "organizer": "Devpost host",
@@ -139,24 +79,24 @@
     "rawHash": "dp-1m1gzsz"
   },
   {
-    "id": "dp-1oz9zr3",
-    "title": "India High School Exoplanet Data Challenge",
+    "id": "dp-1o12nhg",
+    "title": "CodeNova 2026 – National AI & Innovation Hackathon",
     "organizer": "Devpost host",
     "category": "hackathon",
-    "url": "https://celesta-exoplanet-challenge.devpost.com/",
+    "url": "https://codenova-2026.devpost.com/",
     "source": "Devpost",
     "isOnline": true,
-    "registrationDeadline": "2026-07-31",
-    "eventDate": "Jun 15 - Jul 31, 2026",
-    "prize": "$10,300",
+    "registrationDeadline": "2026-07-30",
+    "eventDate": "Jul 30 - 31, 2026",
+    "prize": "$0",
     "techTags": [
-      "beginner-friendly",
-      "low-no-code",
+      "education",
+      "health",
       "machine-learning-ai"
     ],
     "status": "open",
     "confidence": "verify",
-    "rawHash": "dp-1oz9zr3"
+    "rawHash": "dp-1o12nhg"
   },
   {
     "id": "dp-1s3cxcq",
@@ -221,6 +161,25 @@
     "rawHash": "dp-1g4hvk9"
   },
   {
+    "id": "dp-1idhk6w",
+    "title": "Developer Portal",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://developer-portal.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "The Promenade",
+    "registrationDeadline": "2026-07-28",
+    "eventDate": "Jul 28 - 31, 2026",
+    "prize": "$100",
+    "techTags": [
+      "fintech"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1idhk6w"
+  },
+  {
     "id": "dp-1inobp6",
     "title": "Sound for All",
     "organizer": "Devpost host",
@@ -239,6 +198,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1inobp6"
+  },
+  {
+    "id": "dp-1yxzdpd",
+    "title": "The Blueprint Hackathon  (For All Ages, July 17th-31st)",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://the-blueprint-hackathon.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-07-17",
+    "eventDate": "Jul 17 - 31, 2026",
+    "prize": "$8,176",
+    "techTags": [
+      "beginner-friendly",
+      "education",
+      "open-ended"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1yxzdpd"
   },
   {
     "id": "dp-12d8bru",
@@ -262,44 +241,25 @@
     "rawHash": "dp-12d8bru"
   },
   {
-    "id": "dp-1yxzdpd",
-    "title": "The Blueprint Hackathon  (For All Ages, July 17th-31st)",
+    "id": "dp-rl4z58",
+    "title": "The Atlassian X Mistral X AISoc Hack",
     "organizer": "Devpost host",
     "category": "hackathon",
-    "url": "https://the-blueprint-hackathon.devpost.com/",
+    "url": "https://aisoc-atlassian-mistral.devpost.com/",
     "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-07-17",
-    "eventDate": "Jul 17 - 31, 2026",
-    "prize": "$8,176",
+    "isOnline": false,
+    "city": "Kensington, Australia",
+    "registrationDeadline": "2026-07-30",
+    "eventDate": "Jul 30 - 31, 2026",
+    "prize": "$1,200",
     "techTags": [
       "beginner-friendly",
-      "education",
-      "open-ended"
+      "social-good",
+      "machine-learning-ai"
     ],
     "status": "open",
     "confidence": "verify",
-    "rawHash": "dp-1yxzdpd"
-  },
-  {
-    "id": "dp-ckp5ne",
-    "title": "3D Websites Hackathon",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://3d-websites-hackathon.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-07-31",
-    "eventDate": "Jun 22 - Jul 31, 2026",
-    "prize": "$55",
-    "techTags": [
-      "design",
-      "web",
-      "beginner-friendly"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-ckp5ne"
+    "rawHash": "dp-rl4z58"
   },
   {
     "id": "dp-1252oon",
@@ -402,6 +362,27 @@
     "rawHash": "dp-f5ehmq"
   },
   {
+    "id": "dp-x24w83",
+    "title": "Hack Days in Delhi",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://hack-days-in-delhi-30766.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Thoughtwork Technology, Gurugram",
+    "registrationDeadline": "2026-08-02",
+    "eventDate": "Jul 31 - Aug 02, 2026",
+    "prize": "₹ 0",
+    "techTags": [
+      "ar-vr",
+      "iot",
+      "machine-learning-ai"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-x24w83"
+  },
+  {
     "id": "dp-qxxz0g",
     "title": "Backblaze Generative Media Hackathon: Build with Genblaze on B2",
     "organizer": "Devpost host",
@@ -440,6 +421,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-9p17fd"
+  },
+  {
+    "id": "dp-3vh1xp",
+    "title": "Vitalitics 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://vitalitics26.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-05",
+    "eventDate": "Jun 20 - Aug 05, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly",
+      "health",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-3vh1xp"
   },
   {
     "id": "dp-11mvfye",

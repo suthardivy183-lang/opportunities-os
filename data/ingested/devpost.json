@@ -1,145 +1,23 @@
 [
   {
-    "id": "dp-1rwunmm",
-    "title": "Technoviz Summer of Code",
+    "id": "dp-19zuxzr",
+    "title": "HackNomics",
     "organizer": "Devpost host",
     "category": "hackathon",
-    "url": "https://technoviz-summer-of-code.devpost.com/",
+    "url": "https://hacknomicshack.devpost.com/",
     "source": "Devpost",
     "isOnline": true,
-    "registrationDeadline": "2026-08-01",
-    "eventDate": "Jun 28 - Aug 01, 2026",
+    "registrationDeadline": "2026-08-02",
+    "eventDate": "May 24 - Aug 02, 2026",
     "prize": "$0",
     "techTags": [
-      "beginner-friendly",
       "enterprise",
-      "fintech"
+      "fintech",
+      "health"
     ],
     "status": "open",
     "confidence": "verify",
-    "rawHash": "dp-1rwunmm"
-  },
-  {
-    "id": "dp-ajfztg",
-    "title": "MLH Hack Day @ Kristu Jayanti",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://mlhackday.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Kristu Jayanti (Deemed to be University)",
-    "registrationDeadline": "2026-08-01",
-    "eventDate": "Aug 01, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly",
-      "machine-learning-ai",
-      "open-ended"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-ajfztg"
-  },
-  {
-    "id": "dp-5oawyi",
-    "title": "Neuu Hack DAy",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://neuu-hack-day.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Kikao 64 Hub",
-    "registrationDeadline": "2026-08-01",
-    "eventDate": "Jul 31 - Aug 01, 2026",
-    "prize": "$0",
-    "techTags": [
-      "mobile",
-      "serverless",
-      "web"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-5oawyi"
-  },
-  {
-    "id": "dp-196qcmh",
-    "title": "Assistive Innovation Challenge 2026",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://assistive-innovation-challenge.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-01",
-    "eventDate": "May 04 - Aug 01, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly",
-      "health",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-196qcmh"
-  },
-  {
-    "id": "dp-j7frca",
-    "title": "Maverick Hackathon",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://maverick-hackathon.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Alpharetta, GA, USA",
-    "registrationDeadline": "2026-08-01",
-    "eventDate": "Aug 01, 2026",
-    "prize": "$500",
-    "techTags": [
-      "gaming",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-j7frca"
-  },
-  {
-    "id": "dp-8nwzfc",
-    "title": "The Email Game",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://the-email-game.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-01",
-    "eventDate": "Jul 24 - Aug 01, 2026",
-    "prize": "$1,700",
-    "techTags": [
-      "communication",
-      "machine-learning-ai",
-      "cybersecurity"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-8nwzfc"
-  },
-  {
-    "id": "dp-f5ehmq",
-    "title": "Hack the Arts",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://hackthearts.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-01",
-    "eventDate": "Jul 01 - Aug 01, 2026",
-    "prize": "$1,000",
-    "techTags": [
-      "beginner-friendly",
-      "design",
-      "open-ended"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-f5ehmq"
+    "rawHash": "dp-19zuxzr"
   },
   {
     "id": "dp-kv8zpx",
@@ -163,6 +41,67 @@
     "rawHash": "dp-kv8zpx"
   },
   {
+    "id": "dp-5wuomy",
+    "title": "Hack Days in Bansal",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://hack-days-in-bansal.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Main Auditorium - Bansal Institute",
+    "registrationDeadline": "2026-08-02",
+    "eventDate": "Aug 02, 2026",
+    "prize": "₹ 1,000",
+    "techTags": [
+      "machine-learning-ai",
+      "open-ended",
+      "web"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-5wuomy"
+  },
+  {
+    "id": "dp-6gache",
+    "title": "Revolute Hackathon",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://revolute-hackathon.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "FabLab, Cambridge, MA",
+    "registrationDeadline": "2026-08-01",
+    "eventDate": "Aug 01 - 02, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly",
+      "machine-learning-ai",
+      "robotic-process-automation"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-6gache"
+  },
+  {
+    "id": "dp-1ppb6a2",
+    "title": "revolutetest",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://revolutetest.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Cambridge, MA, USA",
+    "registrationDeadline": "2026-08-02",
+    "eventDate": "Aug 02, 2026",
+    "prize": "$10",
+    "techTags": [
+      "ar-vr"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1ppb6a2"
+  },
+  {
     "id": "dp-x24w83",
     "title": "Hack Days in Delhi",
     "organizer": "Devpost host",
@@ -184,6 +123,27 @@
     "rawHash": "dp-x24w83"
   },
   {
+    "id": "dp-xgpigo",
+    "title": "MarinHacks",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://marinhacks.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Marin Catholic High School",
+    "registrationDeadline": "2026-08-02",
+    "eventDate": "Aug 02, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly",
+      "low-no-code",
+      "machine-learning-ai"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-xgpigo"
+  },
+  {
     "id": "dp-p87dmq",
     "title": "STEMist Hacks IV",
     "organizer": "Devpost host",
@@ -202,6 +162,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-p87dmq"
+  },
+  {
+    "id": "dp-3ppa0q",
+    "title": "Katy Youth Hacks 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://katy-youth-hacks-2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-01",
+    "eventDate": "Aug 01 - 03, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly",
+      "open-ended",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-3ppa0q"
   },
   {
     "id": "dp-qxxz0g",
@@ -324,6 +304,26 @@
     "rawHash": "dp-1tuc0n7"
   },
   {
+    "id": "dp-1qvibtx",
+    "title": "Hackonomics 2027",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://hackonomics27.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-07",
+    "eventDate": "Jul 01 - Aug 07, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly",
+      "education",
+      "open-ended"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1qvibtx"
+  },
+  {
     "id": "dp-228yn1",
     "title": "NextGen Innovation2026",
     "organizer": "Devpost host",
@@ -342,6 +342,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-228yn1"
+  },
+  {
+    "id": "dp-8bpof",
+    "title": "IncludAI - The Neurodiversity Hackathon, in Partnership with Stanford NNEA",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://includai-2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-01",
+    "eventDate": "Aug 01 - 09, 2026",
+    "prize": "$3,000",
+    "techTags": [
+      "beginner-friendly",
+      "education",
+      "machine-learning-ai"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-8bpof"
   },
   {
     "id": "dp-xjmtr2",
@@ -413,7 +433,7 @@
     "isOnline": true,
     "registrationDeadline": "2026-08-12",
     "eventDate": "Jul 28 - Aug 12, 2026",
-    "prize": "$1,700",
+    "prize": "$1,900",
     "techTags": [
       "beginner-friendly",
       "machine-learning-ai",
@@ -521,25 +541,5 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1hr0c3e"
-  },
-  {
-    "id": "dp-1qwqb2z",
-    "title": "GatewayGS & The AEI Initiative:  AI 4 Earth Hackathon",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://gatewaygs-ai-4-earth-hackathon.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-15",
-    "eventDate": "Jul 25 - Aug 15, 2026",
-    "prize": "$25",
-    "techTags": [
-      "beginner-friendly",
-      "machine-learning-ai",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1qwqb2z"
   }
 ]

@@ -1,169 +1,5 @@
 [
   {
-    "id": "dp-19zuxzr",
-    "title": "HackNomics",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://hacknomicshack.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-02",
-    "eventDate": "May 24 - Aug 02, 2026",
-    "prize": "$0",
-    "techTags": [
-      "enterprise",
-      "fintech",
-      "health"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-19zuxzr"
-  },
-  {
-    "id": "dp-kv8zpx",
-    "title": "Build Nepal",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://buildnepal.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Mid valley International College",
-    "registrationDeadline": "2026-08-01",
-    "eventDate": "Aug 01 - 02, 2026",
-    "prize": "$484",
-    "techTags": [
-      "beginner-friendly",
-      "cybersecurity",
-      "fintech"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-kv8zpx"
-  },
-  {
-    "id": "dp-5wuomy",
-    "title": "Hack Days in Bansal",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://hack-days-in-bansal.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Main Auditorium - Bansal Institute",
-    "registrationDeadline": "2026-08-02",
-    "eventDate": "Aug 02, 2026",
-    "prize": "₹ 1,000",
-    "techTags": [
-      "machine-learning-ai",
-      "open-ended",
-      "web"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-5wuomy"
-  },
-  {
-    "id": "dp-6gache",
-    "title": "Revolute Hackathon",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://revolute-hackathon.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "FabLab, Cambridge, MA",
-    "registrationDeadline": "2026-08-01",
-    "eventDate": "Aug 01 - 02, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly",
-      "machine-learning-ai",
-      "robotic-process-automation"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-6gache"
-  },
-  {
-    "id": "dp-1ppb6a2",
-    "title": "revolutetest",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://revolutetest.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Cambridge, MA, USA",
-    "registrationDeadline": "2026-08-02",
-    "eventDate": "Aug 02, 2026",
-    "prize": "$10",
-    "techTags": [
-      "ar-vr"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1ppb6a2"
-  },
-  {
-    "id": "dp-x24w83",
-    "title": "Hack Days in Delhi",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://hack-days-in-delhi-30766.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Thoughtwork Technology, Gurugram",
-    "registrationDeadline": "2026-08-02",
-    "eventDate": "Jul 31 - Aug 02, 2026",
-    "prize": "₹ 0",
-    "techTags": [
-      "ar-vr",
-      "iot",
-      "machine-learning-ai"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-x24w83"
-  },
-  {
-    "id": "dp-xgpigo",
-    "title": "MarinHacks",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://marinhacks.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Marin Catholic High School",
-    "registrationDeadline": "2026-08-02",
-    "eventDate": "Aug 02, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly",
-      "low-no-code",
-      "machine-learning-ai"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-xgpigo"
-  },
-  {
-    "id": "dp-p87dmq",
-    "title": "STEMist Hacks IV",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://stemist-hacks-iv.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-02",
-    "eventDate": "Jul 31 - Aug 02, 2026",
-    "prize": "$2,550",
-    "techTags": [
-      "beginner-friendly",
-      "education",
-      "open-ended"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-p87dmq"
-  },
-  {
     "id": "dp-3ppa0q",
     "title": "Katy Youth Hacks 2026",
     "organizer": "Devpost host",
@@ -541,5 +377,164 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1hr0c3e"
+  },
+  {
+    "id": "dp-1qwqb2z",
+    "title": "GatewayGS & The AEI Initiative:  AI 4 Earth Hackathon",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://gatewaygs-ai-4-earth-hackathon.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-15",
+    "eventDate": "Jul 25 - Aug 15, 2026",
+    "prize": "$25",
+    "techTags": [
+      "beginner-friendly",
+      "machine-learning-ai",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1qwqb2z"
+  },
+  {
+    "id": "dp-xo2smt",
+    "title": "AceSAT Education AI-Agent",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://acesat-ai-agent.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-15",
+    "eventDate": "Jun 12 - Aug 15, 2026",
+    "prize": "$100",
+    "techTags": [
+      "education",
+      "machine-learning-ai"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-xo2smt"
+  },
+  {
+    "id": "dp-u53atr",
+    "title": "INNOVIK 6.0 : International Hackathon 2026 ",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://innovik-6-0-hackathon-2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "VITM, Indore",
+    "registrationDeadline": "2026-08-15",
+    "eventDate": "Jul 15 - Aug 15, 2026",
+    "prize": "₹ 200,000",
+    "techTags": [
+      "machine-learning-ai"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-u53atr"
+  },
+  {
+    "id": "dp-yo94si",
+    "title": "Build Beyond Hackathon",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://build-beyond-hackathon.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-16",
+    "eventDate": "Jun 18 - Aug 16, 2026",
+    "prize": "$500",
+    "techTags": [
+      "beginner-friendly",
+      "low-no-code",
+      "open-ended"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-yo94si"
+  },
+  {
+    "id": "dp-qvy5lg",
+    "title": "Nexora",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://nexora.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "SNS Innovation HUB",
+    "registrationDeadline": "2026-08-16",
+    "eventDate": "Jul 30 - Aug 16, 2026",
+    "prize": "₹ 30,000",
+    "techTags": [
+      "blockchain",
+      "cybersecurity",
+      "machine-learning-ai"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-qvy5lg"
+  },
+  {
+    "id": "dp-1kspmhi",
+    "title": "Reverie Hacks 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://reverie-hacks-2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-02",
+    "eventDate": "Aug 02 - 17, 2026",
+    "prize": "$189,020",
+    "techTags": [
+      "beginner-friendly",
+      "machine-learning-ai",
+      "open-ended"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1kspmhi"
+  },
+  {
+    "id": "dp-5hjlx1",
+    "title": "YouCam API Skin AI & Apparel VTO Hackathon ",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://youcam-api.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-17",
+    "eventDate": "Jul 06 - Aug 17, 2026",
+    "prize": "$6,000",
+    "techTags": [
+      "machine-learning-ai",
+      "ar-vr",
+      "e-commerce-retail"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-5hjlx1"
+  },
+  {
+    "id": "dp-d3lboe",
+    "title": "Build with Gemini XPRIZE",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://xprize.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-17",
+    "eventDate": "May 19 - Aug 17, 2026",
+    "prize": "$2,000,000",
+    "techTags": [
+      "machine-learning-ai",
+      "education",
+      "productivity"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-d3lboe"
   }
 ]

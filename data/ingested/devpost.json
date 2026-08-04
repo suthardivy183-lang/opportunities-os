@@ -1,63 +1,45 @@
 [
   {
-    "id": "dp-3ppa0q",
-    "title": "Katy Youth Hacks 2026",
+    "id": "dp-1nv9con",
+    "title": "Disney Streaming NYC Intern Hackathon ‘26",
     "organizer": "Devpost host",
     "category": "hackathon",
-    "url": "https://katy-youth-hacks-2026.devpost.com/",
+    "url": "https://disney-streaming-nyc-26.devpost.com/",
     "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-01",
-    "eventDate": "Aug 01 - 03, 2026",
+    "isOnline": false,
+    "city": "The Walt Disney Company",
+    "registrationDeadline": "2026-08-03",
+    "eventDate": "Aug 03 - 04, 2026",
+    "prize": "$0",
+    "techTags": [
+      "databases",
+      "design",
+      "productivity"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1nv9con"
+  },
+  {
+    "id": "dp-1yiozv",
+    "title": "SIP Hackathon 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://sip-hackathon.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "UCSC",
+    "registrationDeadline": "2026-08-03",
+    "eventDate": "Aug 03 - 04, 2026",
     "prize": "$0",
     "techTags": [
       "beginner-friendly",
-      "open-ended",
+      "education",
       "social-good"
     ],
     "status": "open",
     "confidence": "verify",
-    "rawHash": "dp-3ppa0q"
-  },
-  {
-    "id": "dp-qxxz0g",
-    "title": "Backblaze Generative Media Hackathon: Build with Genblaze on B2",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://backblaze-generative-media.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-03",
-    "eventDate": "Jun 22 - Aug 03, 2026",
-    "prize": "$10,000",
-    "techTags": [
-      "machine-learning-ai",
-      "music-art",
-      "voice-skills"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-qxxz0g"
-  },
-  {
-    "id": "dp-9p17fd",
-    "title": "RLC Hacks 2026",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://rlc-hacks-30705.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-04",
-    "eventDate": "Jul 26 - Aug 04, 2026",
-    "prize": "$0",
-    "techTags": [
-      "cybersecurity",
-      "machine-learning-ai",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-9p17fd"
+    "rawHash": "dp-1yiozv"
   },
   {
     "id": "dp-3vh1xp",
@@ -80,6 +62,26 @@
     "rawHash": "dp-3vh1xp"
   },
   {
+    "id": "dp-1bsm5ne",
+    "title": "Resource Renewal Initiative",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://resource-renewal-initiative.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-04",
+    "eventDate": "Aug 04 - 05, 2026",
+    "prize": "$0",
+    "techTags": [
+      "education",
+      "open-ended",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1bsm5ne"
+  },
+  {
     "id": "dp-11mvfye",
     "title": "Build with Paritok: The Token-Efficiency Hackathon",
     "organizer": "Devpost host",
@@ -98,26 +100,6 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-11mvfye"
-  },
-  {
-    "id": "dp-5wpeba",
-    "title": "OrionHackathon ",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://orionhackathon.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-05",
-    "eventDate": "Jul 17 - Aug 05, 2026",
-    "prize": "$1,000",
-    "techTags": [
-      "e-commerce-retail",
-      "fintech",
-      "machine-learning-ai"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-5wpeba"
   },
   {
     "id": "dp-1tuc0n7",
@@ -220,6 +202,26 @@
     "rawHash": "dp-xjmtr2"
   },
   {
+    "id": "dp-1ma7dfp",
+    "title": "YouTube Automation Hackathon",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://youtube-automate-hackathon.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-03",
+    "eventDate": "Aug 03 - 09, 2026",
+    "prize": "$11,000",
+    "techTags": [
+      "beginner-friendly",
+      "open-ended",
+      "web"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1ma7dfp"
+  },
+  {
     "id": "dp-15v0qni",
     "title": "CSC Summer Impactathon",
     "organizer": "Devpost host",
@@ -269,7 +271,7 @@
     "isOnline": true,
     "registrationDeadline": "2026-08-12",
     "eventDate": "Jul 28 - Aug 12, 2026",
-    "prize": "$1,900",
+    "prize": "$14,500",
     "techTags": [
       "beginner-friendly",
       "machine-learning-ai",
@@ -487,7 +489,7 @@
     "isOnline": true,
     "registrationDeadline": "2026-08-02",
     "eventDate": "Aug 02 - 17, 2026",
-    "prize": "$189,020",
+    "prize": "$208,798",
     "techTags": [
       "beginner-friendly",
       "machine-learning-ai",

@@ -1,67 +1,5 @@
 [
   {
-    "id": "dp-1nv9con",
-    "title": "Disney Streaming NYC Intern Hackathon ‘26",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://disney-streaming-nyc-26.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "The Walt Disney Company",
-    "registrationDeadline": "2026-08-03",
-    "eventDate": "Aug 03 - 04, 2026",
-    "prize": "$0",
-    "techTags": [
-      "databases",
-      "design",
-      "productivity"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1nv9con"
-  },
-  {
-    "id": "dp-1yiozv",
-    "title": "SIP Hackathon 2026",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://sip-hackathon.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "UCSC",
-    "registrationDeadline": "2026-08-03",
-    "eventDate": "Aug 03 - 04, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly",
-      "education",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1yiozv"
-  },
-  {
-    "id": "dp-3vh1xp",
-    "title": "Vitalitics 2026",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://vitalitics26.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-05",
-    "eventDate": "Jun 20 - Aug 05, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly",
-      "health",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-3vh1xp"
-  },
-  {
     "id": "dp-1bsm5ne",
     "title": "Resource Renewal Initiative",
     "organizer": "Devpost host",
@@ -262,26 +200,6 @@
     "rawHash": "dp-vnhy4g"
   },
   {
-    "id": "dp-15q78fd",
-    "title": "Caspian Buildathon: Build agents that can reach anyone",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://caspian.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-12",
-    "eventDate": "Jul 28 - Aug 12, 2026",
-    "prize": "$14,500",
-    "techTags": [
-      "beginner-friendly",
-      "machine-learning-ai",
-      "open-ended"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-15q78fd"
-  },
-  {
     "id": "dp-oq76kt",
     "title": "NTU InnovateX Hackathon 2026",
     "organizer": "Devpost host",
@@ -381,6 +299,25 @@
     "rawHash": "dp-1hr0c3e"
   },
   {
+    "id": "dp-xo2smt",
+    "title": "AceSAT Education AI-Agent",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://acesat-ai-agent.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-15",
+    "eventDate": "Jun 12 - Aug 15, 2026",
+    "prize": "$100",
+    "techTags": [
+      "education",
+      "machine-learning-ai"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-xo2smt"
+  },
+  {
     "id": "dp-1qwqb2z",
     "title": "GatewayGS & The AEI Initiative:  AI 4 Earth Hackathon",
     "organizer": "Devpost host",
@@ -399,25 +336,6 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1qwqb2z"
-  },
-  {
-    "id": "dp-xo2smt",
-    "title": "AceSAT Education AI-Agent",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://acesat-ai-agent.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-15",
-    "eventDate": "Jun 12 - Aug 15, 2026",
-    "prize": "$100",
-    "techTags": [
-      "education",
-      "machine-learning-ai"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-xo2smt"
   },
   {
     "id": "dp-u53atr",
@@ -459,6 +377,26 @@
     "rawHash": "dp-yo94si"
   },
   {
+    "id": "dp-15q78fd",
+    "title": "Caspian Buildathon: Build agents that can reach anyone",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://caspian.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-16",
+    "eventDate": "Jul 28 - Aug 16, 2026",
+    "prize": "$14,500",
+    "techTags": [
+      "beginner-friendly",
+      "machine-learning-ai",
+      "open-ended"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-15q78fd"
+  },
+  {
     "id": "dp-qvy5lg",
     "title": "Nexora",
     "organizer": "Devpost host",
@@ -489,7 +427,7 @@
     "isOnline": true,
     "registrationDeadline": "2026-08-02",
     "eventDate": "Aug 02 - 17, 2026",
-    "prize": "$208,798",
+    "prize": "$236,098",
     "techTags": [
       "beginner-friendly",
       "machine-learning-ai",
@@ -538,5 +476,64 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-d3lboe"
+  },
+  {
+    "id": "dp-135abgp",
+    "title": "Win4AISafety - Open Research Summer Challenge",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://win4aisafety-sain-utrecht.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-17",
+    "eventDate": "Jul 06 - Aug 17, 2026",
+    "prize": "$0",
+    "techTags": [
+      "machine-learning-ai"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-135abgp"
+  },
+  {
+    "id": "dp-1pzy95b",
+    "title": "CockroachDB × AWS Hackathon - Build with Agentic Memory",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://cockroachdb-ai.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-18",
+    "eventDate": "Jun 30 - Aug 18, 2026",
+    "prize": "$8,750",
+    "techTags": [
+      "machine-learning-ai",
+      "databases",
+      "devops"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1pzy95b"
+  },
+  {
+    "id": "dp-fk0aew",
+    "title": "Hack days in KGI",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://hack-days-in-kgi.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Hosur",
+    "registrationDeadline": "2026-08-02",
+    "eventDate": "Aug 02 - 19, 2026",
+    "prize": "₹ 0",
+    "techTags": [
+      "mobile",
+      "productivity",
+      "web"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-fk0aew"
   }
 ]

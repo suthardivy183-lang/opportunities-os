@@ -1,63 +1,65 @@
 [
   {
-    "id": "dp-1bsm5ne",
-    "title": "Resource Renewal Initiative",
+    "id": "dp-k1vh96",
+    "title": "DPI CS Innovators Hackathon",
     "organizer": "Devpost host",
     "category": "hackathon",
-    "url": "https://resource-renewal-initiative.devpost.com/",
+    "url": "https://dpi-cs-innovators-hackathon.devpost.com/",
     "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-04",
-    "eventDate": "Aug 04 - 05, 2026",
+    "isOnline": false,
+    "city": "DPI Illini Center ",
+    "registrationDeadline": "2026-08-06",
+    "eventDate": "Aug 06, 2026",
     "prize": "$0",
-    "techTags": [
-      "education",
-      "open-ended",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1bsm5ne"
-  },
-  {
-    "id": "dp-11mvfye",
-    "title": "Build with Paritok: The Token-Efficiency Hackathon",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://build-with-paritok.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-05",
-    "eventDate": "Jul 20 - Aug 05, 2026",
-    "prize": "$630",
     "techTags": [
       "machine-learning-ai",
-      "open-ended",
-      "productivity"
+      "social-good",
+      "web"
     ],
     "status": "open",
     "confidence": "verify",
-    "rawHash": "dp-11mvfye"
+    "rawHash": "dp-k1vh96"
   },
   {
-    "id": "dp-1tuc0n7",
-    "title": "Girls In STEM Global Hackathon",
+    "id": "dp-38jjfi",
+    "title": "Build With AI Hack Days @ Southeast University",
     "organizer": "Devpost host",
     "category": "hackathon",
-    "url": "https://girlsinstemhackathon.devpost.com/",
+    "url": "https://build-with-ai-hack-days-seu.devpost.com/",
     "source": "Devpost",
     "isOnline": true,
     "registrationDeadline": "2026-08-05",
-    "eventDate": "Jun 23 - Aug 05, 2026",
+    "eventDate": "Aug 05 - 07, 2026",
     "prize": "$0",
     "techTags": [
-      "beginner-friendly",
       "low-no-code",
-      "social-good"
+      "machine-learning-ai",
+      "web"
     ],
     "status": "open",
     "confidence": "verify",
-    "rawHash": "dp-1tuc0n7"
+    "rawHash": "dp-38jjfi"
+  },
+  {
+    "id": "dp-1lzymy",
+    "title": "Puff Hack Day",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://puff-hack-day.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "University of Eldoret",
+    "registrationDeadline": "2026-08-05",
+    "eventDate": "Aug 05 - 07, 2026",
+    "prize": "$0",
+    "techTags": [
+      "design",
+      "mobile",
+      "web"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1lzymy"
   },
   {
     "id": "dp-1qvibtx",
@@ -138,26 +140,6 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-xjmtr2"
-  },
-  {
-    "id": "dp-1ma7dfp",
-    "title": "YouTube Automation Hackathon",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://youtube-automate-hackathon.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-03",
-    "eventDate": "Aug 03 - 09, 2026",
-    "prize": "$11,000",
-    "techTags": [
-      "beginner-friendly",
-      "open-ended",
-      "web"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1ma7dfp"
   },
   {
     "id": "dp-15v0qni",
@@ -357,6 +339,26 @@
     "rawHash": "dp-u53atr"
   },
   {
+    "id": "dp-1wp760s",
+    "title": "AQX Sports Analytics Data Bowl 3.0",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://aqxanalyticsthree.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-05",
+    "eventDate": "Aug 05 - 16, 2026",
+    "prize": "$50",
+    "techTags": [
+      "beginner-friendly",
+      "databases",
+      "gaming"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1wp760s"
+  },
+  {
     "id": "dp-yo94si",
     "title": "Build Beyond Hackathon",
     "organizer": "Devpost host",
@@ -427,7 +429,7 @@
     "isOnline": true,
     "registrationDeadline": "2026-08-02",
     "eventDate": "Aug 02 - 17, 2026",
-    "prize": "$236,098",
+    "prize": "$263,398",
     "techTags": [
       "beginner-friendly",
       "machine-learning-ai",

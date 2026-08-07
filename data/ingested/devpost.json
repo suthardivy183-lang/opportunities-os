@@ -1,26 +1,5 @@
 [
   {
-    "id": "dp-k1vh96",
-    "title": "DPI CS Innovators Hackathon",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://dpi-cs-innovators-hackathon.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "DPI Illini Center ",
-    "registrationDeadline": "2026-08-06",
-    "eventDate": "Aug 06, 2026",
-    "prize": "$0",
-    "techTags": [
-      "machine-learning-ai",
-      "social-good",
-      "web"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-k1vh96"
-  },
-  {
     "id": "dp-38jjfi",
     "title": "Build With AI Hack Days @ Southeast University",
     "organizer": "Devpost host",
@@ -60,26 +39,6 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1lzymy"
-  },
-  {
-    "id": "dp-1qvibtx",
-    "title": "Hackonomics 2027",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://hackonomics27.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-07",
-    "eventDate": "Jul 01 - Aug 07, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly",
-      "education",
-      "open-ended"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1qvibtx"
   },
   {
     "id": "dp-228yn1",
@@ -122,6 +81,24 @@
     "rawHash": "dp-8bpof"
   },
   {
+    "id": "dp-16w07a2",
+    "title": "GTPN Hackathon 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://gtpn-hackathon-2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-07",
+    "eventDate": "Aug 07 - 09, 2026",
+    "prize": "$0",
+    "techTags": [
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-16w07a2"
+  },
+  {
     "id": "dp-xjmtr2",
     "title": "Brainwave 2026",
     "organizer": "Devpost host",
@@ -140,6 +117,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-xjmtr2"
+  },
+  {
+    "id": "dp-2wn3s9",
+    "title": "OurPlanet.Rocks",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://ourplanetrocks.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-07",
+    "eventDate": "Aug 07 - 09, 2026",
+    "prize": "$250",
+    "techTags": [
+      "beginner-friendly",
+      "open-ended",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-2wn3s9"
   },
   {
     "id": "dp-15v0qni",
@@ -180,6 +177,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-vnhy4g"
+  },
+  {
+    "id": "dp-1qvibtx",
+    "title": "Hackonomics 2027",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://hackonomics27.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-12",
+    "eventDate": "Jul 01 - Aug 12, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly",
+      "education",
+      "open-ended"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1qvibtx"
   },
   {
     "id": "dp-oq76kt",
@@ -281,25 +298,6 @@
     "rawHash": "dp-1hr0c3e"
   },
   {
-    "id": "dp-xo2smt",
-    "title": "AceSAT Education AI-Agent",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://acesat-ai-agent.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-15",
-    "eventDate": "Jun 12 - Aug 15, 2026",
-    "prize": "$100",
-    "techTags": [
-      "education",
-      "machine-learning-ai"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-xo2smt"
-  },
-  {
     "id": "dp-1qwqb2z",
     "title": "GatewayGS & The AEI Initiative:  AI 4 Earth Hackathon",
     "organizer": "Devpost host",
@@ -318,6 +316,25 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1qwqb2z"
+  },
+  {
+    "id": "dp-xo2smt",
+    "title": "AceSAT Education AI-Agent",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://acesat-ai-agent.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-15",
+    "eventDate": "Jun 12 - Aug 15, 2026",
+    "prize": "$100",
+    "techTags": [
+      "education",
+      "machine-learning-ai"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-xo2smt"
   },
   {
     "id": "dp-u53atr",
@@ -429,7 +446,7 @@
     "isOnline": true,
     "registrationDeadline": "2026-08-02",
     "eventDate": "Aug 02 - 17, 2026",
-    "prize": "$263,398",
+    "prize": "$297,648",
     "techTags": [
       "beginner-friendly",
       "machine-learning-ai",
@@ -516,26 +533,5 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1pzy95b"
-  },
-  {
-    "id": "dp-fk0aew",
-    "title": "Hack days in KGI",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://hack-days-in-kgi.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Hosur",
-    "registrationDeadline": "2026-08-02",
-    "eventDate": "Aug 02 - 19, 2026",
-    "prize": "₹ 0",
-    "techTags": [
-      "mobile",
-      "productivity",
-      "web"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-fk0aew"
   }
 ]

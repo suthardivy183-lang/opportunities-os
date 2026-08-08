@@ -1,46 +1,5 @@
 [
   {
-    "id": "dp-38jjfi",
-    "title": "Build With AI Hack Days @ Southeast University",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://build-with-ai-hack-days-seu.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-05",
-    "eventDate": "Aug 05 - 07, 2026",
-    "prize": "$0",
-    "techTags": [
-      "low-no-code",
-      "machine-learning-ai",
-      "web"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-38jjfi"
-  },
-  {
-    "id": "dp-1lzymy",
-    "title": "Puff Hack Day",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://puff-hack-day.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "University of Eldoret",
-    "registrationDeadline": "2026-08-05",
-    "eventDate": "Aug 05 - 07, 2026",
-    "prize": "$0",
-    "techTags": [
-      "design",
-      "mobile",
-      "web"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1lzymy"
-  },
-  {
     "id": "dp-228yn1",
     "title": "NextGen Innovation2026",
     "organizer": "Devpost host",
@@ -61,6 +20,46 @@
     "rawHash": "dp-228yn1"
   },
   {
+    "id": "dp-iju8rt",
+    "title": "Code Jam ",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://code-jam-29953.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "TIIPS",
+    "registrationDeadline": "2026-08-08",
+    "eventDate": "May 07 - Aug 08, 2026",
+    "prize": "₹ 12,000",
+    "techTags": [
+      "machine-learning-ai",
+      "open-ended",
+      "web"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-iju8rt"
+  },
+  {
+    "id": "dp-6frs4e",
+    "title": "Hack Days Nagaland",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://hack-days-nagaland.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Dimapur, Nagaland",
+    "registrationDeadline": "2026-08-07",
+    "eventDate": "Aug 07 - 08, 2026",
+    "prize": "$0",
+    "techTags": [
+      "open-ended"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-6frs4e"
+  },
+  {
     "id": "dp-8bpof",
     "title": "IncludAI - The Neurodiversity Hackathon, in Partnership with Stanford NNEA",
     "organizer": "Devpost host",
@@ -79,6 +78,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-8bpof"
+  },
+  {
+    "id": "dp-wouoas",
+    "title": "NGN Hacks 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://ngn-hacks-2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-07",
+    "eventDate": "Aug 07 - 09, 2026",
+    "prize": "$712",
+    "techTags": [
+      "beginner-friendly",
+      "education",
+      "open-ended"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-wouoas"
   },
   {
     "id": "dp-16w07a2",
@@ -396,26 +415,6 @@
     "rawHash": "dp-yo94si"
   },
   {
-    "id": "dp-15q78fd",
-    "title": "Caspian Buildathon: Build agents that can reach anyone",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://caspian.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-16",
-    "eventDate": "Jul 28 - Aug 16, 2026",
-    "prize": "$14,500",
-    "techTags": [
-      "beginner-friendly",
-      "machine-learning-ai",
-      "open-ended"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-15q78fd"
-  },
-  {
     "id": "dp-qvy5lg",
     "title": "Nexora",
     "organizer": "Devpost host",
@@ -446,7 +445,7 @@
     "isOnline": true,
     "registrationDeadline": "2026-08-02",
     "eventDate": "Aug 02 - 17, 2026",
-    "prize": "$297,648",
+    "prize": "$356,298",
     "techTags": [
       "beginner-friendly",
       "machine-learning-ai",

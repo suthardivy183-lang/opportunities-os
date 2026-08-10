@@ -1,201 +1,5 @@
 [
   {
-    "id": "dp-12q18pa",
-    "title": "SpaceXAI Grokathon",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://spacexai-grokathon.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "San Francisco",
-    "registrationDeadline": "2026-08-08",
-    "eventDate": "Aug 08 - 09, 2026",
-    "prize": "$0",
-    "techTags": [
-      "machine-learning-ai"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-12q18pa"
-  },
-  {
-    "id": "dp-8bpof",
-    "title": "IncludAI - The Neurodiversity Hackathon, in Partnership with Stanford NNEA",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://includai-2026.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-01",
-    "eventDate": "Aug 01 - 09, 2026",
-    "prize": "$3,000",
-    "techTags": [
-      "beginner-friendly",
-      "education",
-      "machine-learning-ai"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-8bpof"
-  },
-  {
-    "id": "dp-1hc7yvw",
-    "title": "SISPIK HACKS 1.0",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://sispik-hacks-1-0.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Singapore School Pantai Indah Kapuk",
-    "registrationDeadline": "2026-08-08",
-    "eventDate": "Aug 08 - 09, 2026",
-    "prize": "$252",
-    "techTags": [
-      "beginner-friendly"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1hc7yvw"
-  },
-  {
-    "id": "dp-wouoas",
-    "title": "NGN Hacks 2026",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://ngn-hacks-2026.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-07",
-    "eventDate": "Aug 07 - 09, 2026",
-    "prize": "$712",
-    "techTags": [
-      "beginner-friendly",
-      "education",
-      "open-ended"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-wouoas"
-  },
-  {
-    "id": "dp-5t5pp4",
-    "title": "SummerHacks",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://summerhacksca.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Stackt Marketplace",
-    "registrationDeadline": "2026-08-08",
-    "eventDate": "Aug 08 - 09, 2026",
-    "prize": "$CAD 5,200",
-    "techTags": [
-      "open-ended"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-5t5pp4"
-  },
-  {
-    "id": "dp-16w07a2",
-    "title": "GTPN Hackathon 2026",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://gtpn-hackathon-2026.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-07",
-    "eventDate": "Aug 07 - 09, 2026",
-    "prize": "$0",
-    "techTags": [
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-16w07a2"
-  },
-  {
-    "id": "dp-xjmtr2",
-    "title": "Brainwave 2026",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://brainwaves.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-09",
-    "eventDate": "Jun 12 - Aug 09, 2026",
-    "prize": "$550",
-    "techTags": [
-      "ar-vr",
-      "blockchain",
-      "communication"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-xjmtr2"
-  },
-  {
-    "id": "dp-gpqs4a",
-    "title": "Iris Hacks IV",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://iris-hacks-iv.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-08",
-    "eventDate": "Aug 08 - 09, 2026",
-    "prize": "$400",
-    "techTags": [
-      "machine-learning-ai",
-      "open-ended",
-      "beginner-friendly"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-gpqs4a"
-  },
-  {
-    "id": "dp-15r5dwa",
-    "title": "Firehacks",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://firehacks.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Pleasanton, CA, USA",
-    "registrationDeadline": "2026-08-08",
-    "eventDate": "Aug 08 - 09, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly",
-      "low-no-code",
-      "machine-learning-ai"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-15r5dwa"
-  },
-  {
-    "id": "dp-2wn3s9",
-    "title": "OurPlanet.Rocks",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://ourplanetrocks.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-07",
-    "eventDate": "Aug 07 - 09, 2026",
-    "prize": "$250",
-    "techTags": [
-      "beginner-friendly",
-      "open-ended",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-2wn3s9"
-  },
-  {
     "id": "dp-15v0qni",
     "title": "CSC Summer Impactathon",
     "organizer": "Devpost host",
@@ -234,6 +38,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-c89mev"
+  },
+  {
+    "id": "dp-2wn3s9",
+    "title": "OurPlanet.Rocks",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://ourplanetrocks.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-07",
+    "eventDate": "Aug 07 - 10, 2026",
+    "prize": "$250",
+    "techTags": [
+      "beginner-friendly",
+      "open-ended",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-2wn3s9"
   },
   {
     "id": "dp-vnhy4g",
@@ -473,26 +297,6 @@
     "rawHash": "dp-u53atr"
   },
   {
-    "id": "dp-1wp760s",
-    "title": "AQX Sports Analytics Data Bowl 3.0",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://aqxanalyticsthree.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-05",
-    "eventDate": "Aug 05 - 16, 2026",
-    "prize": "$50",
-    "techTags": [
-      "beginner-friendly",
-      "databases",
-      "gaming"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1wp760s"
-  },
-  {
     "id": "dp-yo94si",
     "title": "Build Beyond Hackathon",
     "organizer": "Devpost host",
@@ -511,6 +315,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-yo94si"
+  },
+  {
+    "id": "dp-1wp760s",
+    "title": "AQX Sports Analytics Data Bowl 3.0",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://aqxanalyticsthree.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-05",
+    "eventDate": "Aug 05 - 16, 2026",
+    "prize": "$50",
+    "techTags": [
+      "beginner-friendly",
+      "databases",
+      "gaming"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1wp760s"
   },
   {
     "id": "dp-qvy5lg",
@@ -532,5 +356,185 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-qvy5lg"
+  },
+  {
+    "id": "dp-1kspmhi",
+    "title": "Reverie Hacks 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://reverie-hacks-2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-02",
+    "eventDate": "Aug 02 - 17, 2026",
+    "prize": "$420,898",
+    "techTags": [
+      "beginner-friendly",
+      "machine-learning-ai",
+      "open-ended"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1kspmhi"
+  },
+  {
+    "id": "dp-5hjlx1",
+    "title": "YouCam API Skin AI & Apparel VTO Hackathon ",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://youcam-api.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-17",
+    "eventDate": "Jul 06 - Aug 17, 2026",
+    "prize": "$6,000",
+    "techTags": [
+      "machine-learning-ai",
+      "ar-vr",
+      "e-commerce-retail"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-5hjlx1"
+  },
+  {
+    "id": "dp-d3lboe",
+    "title": "Build with Gemini XPRIZE",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://xprize.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-17",
+    "eventDate": "May 19 - Aug 17, 2026",
+    "prize": "$2,000,000",
+    "techTags": [
+      "machine-learning-ai",
+      "education",
+      "productivity"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-d3lboe"
+  },
+  {
+    "id": "dp-135abgp",
+    "title": "Win4AISafety - Open Research Summer Challenge",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://win4aisafety-sain-utrecht.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-17",
+    "eventDate": "Jul 06 - Aug 17, 2026",
+    "prize": "$0",
+    "techTags": [
+      "machine-learning-ai"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-135abgp"
+  },
+  {
+    "id": "dp-1pzy95b",
+    "title": "CockroachDB × AWS Hackathon - Build with Agentic Memory",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://cockroachdb-ai.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-18",
+    "eventDate": "Jun 30 - Aug 18, 2026",
+    "prize": "$8,750",
+    "techTags": [
+      "machine-learning-ai",
+      "databases",
+      "devops"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1pzy95b"
+  },
+  {
+    "id": "dp-fk0aew",
+    "title": "Hack days in KGI",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://hack-days-in-kgi.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Hosur",
+    "registrationDeadline": "2026-08-02",
+    "eventDate": "Aug 02 - 19, 2026",
+    "prize": "₹ 0",
+    "techTags": [
+      "mobile",
+      "productivity",
+      "web"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-fk0aew"
+  },
+  {
+    "id": "dp-1ciour6",
+    "title": "Vidhyarthi Sewa EduHack Karnataka 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://vidhyarthi-sewa-eduhack.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Primus B School",
+    "registrationDeadline": "2026-08-20",
+    "eventDate": "Jul 31 - Aug 20, 2026",
+    "prize": "₹ 50,000",
+    "techTags": [
+      "education",
+      "machine-learning-ai",
+      "web"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1ciour6"
+  },
+  {
+    "id": "dp-2a7u14",
+    "title": "QuantumHacks",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://quantumhacks.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-20",
+    "eventDate": "Jun 21 - Aug 20, 2026",
+    "prize": "$1,000",
+    "techTags": [
+      "databases",
+      "fintech",
+      "quantum"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-2a7u14"
+  },
+  {
+    "id": "dp-1567zhn",
+    "title": "BTT Web Game Jam - Summer 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://btt-web-game-jam.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-07",
+    "eventDate": "Aug 07 - 21, 2026",
+    "prize": "€100",
+    "techTags": [
+      "beginner-friendly",
+      "gaming",
+      "web"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1567zhn"
   }
 ]

@@ -1,103 +1,24 @@
 [
   {
-    "id": "dp-15v0qni",
-    "title": "CSC Summer Impactathon",
+    "id": "dp-1c1sxb8",
+    "title": "PIXEL.GEMINI 3.0",
     "organizer": "Devpost host",
     "category": "hackathon",
-    "url": "https://csc-summer-impactathon.devpost.com/",
+    "url": "https://pixel-gemini-3-0.devpost.com/",
     "source": "Devpost",
-    "isOnline": true,
+    "isOnline": false,
+    "city": "Valarpuram, India",
     "registrationDeadline": "2026-08-10",
-    "eventDate": "Jul 09 - Aug 10, 2026",
-    "prize": "$80",
-    "techTags": [
-      "beginner-friendly",
-      "open-ended",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-15v0qni"
-  },
-  {
-    "id": "dp-c89mev",
-    "title": "Global Builders Hackathon: Code for Impact",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://global-builders.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-08",
-    "eventDate": "Aug 08 - 10, 2026",
+    "eventDate": "Aug 10 - 11, 2026",
     "prize": "$0",
     "techTags": [
-      "beginner-friendly",
-      "social-good",
-      "web"
+      "cybersecurity",
+      "health",
+      "machine-learning-ai"
     ],
     "status": "open",
     "confidence": "verify",
-    "rawHash": "dp-c89mev"
-  },
-  {
-    "id": "dp-2wn3s9",
-    "title": "OurPlanet.Rocks",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://ourplanetrocks.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-07",
-    "eventDate": "Aug 07 - 10, 2026",
-    "prize": "$250",
-    "techTags": [
-      "beginner-friendly",
-      "open-ended",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-2wn3s9"
-  },
-  {
-    "id": "dp-vnhy4g",
-    "title": "Build with DataHub: The Agent Hackathon",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://datahub.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-10",
-    "eventDate": "Jul 06 - Aug 10, 2026",
-    "prize": "$20,500",
-    "techTags": [
-      "machine-learning-ai",
-      "devops",
-      "open-ended"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-vnhy4g"
-  },
-  {
-    "id": "dp-1qvibtx",
-    "title": "Hackonomics 2027",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://hackonomics27.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-12",
-    "eventDate": "Jul 01 - Aug 12, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly",
-      "education",
-      "open-ended"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1qvibtx"
+    "rawHash": "dp-1c1sxb8"
   },
   {
     "id": "dp-8rm8m2",
@@ -179,6 +100,27 @@
     "rawHash": "dp-c919d5"
   },
   {
+    "id": "dp-1kmh3qn",
+    "title": "INNOVIK 6.0 – International Hackathon 2026 | Indore Edition",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://innovik6-indore.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "VITM Indore",
+    "registrationDeadline": "2026-08-10",
+    "eventDate": "Aug 10 - 15, 2026",
+    "prize": "₹ 200,000",
+    "techTags": [
+      "education",
+      "machine-learning-ai",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1kmh3qn"
+  },
+  {
     "id": "dp-1nojleg",
     "title": "ML Empowerment Build Challenge 2.0",
     "organizer": "Devpost host",
@@ -188,7 +130,7 @@
     "isOnline": true,
     "registrationDeadline": "2026-08-15",
     "eventDate": "Jun 30 - Aug 15, 2026",
-    "prize": "$1,000",
+    "prize": "$66,945",
     "techTags": [
       "beginner-friendly",
       "machine-learning-ai",
@@ -278,6 +220,27 @@
     "rawHash": "dp-1qwqb2z"
   },
   {
+    "id": "dp-wzwiag",
+    "title": "Hackdays Maa Chandika Convent School ",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://hackdays-mccs-lucknow.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Maa Chandika Convent School",
+    "registrationDeadline": "2026-08-11",
+    "eventDate": "Aug 11 - 15, 2026",
+    "prize": "$0",
+    "techTags": [
+      "iot",
+      "low-no-code",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-wzwiag"
+  },
+  {
     "id": "dp-u53atr",
     "title": "INNOVIK 6.0 : International Hackathon 2026 ",
     "organizer": "Devpost host",
@@ -295,26 +258,6 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-u53atr"
-  },
-  {
-    "id": "dp-yo94si",
-    "title": "Build Beyond Hackathon",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://build-beyond-hackathon.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-16",
-    "eventDate": "Jun 18 - Aug 16, 2026",
-    "prize": "$500",
-    "techTags": [
-      "beginner-friendly",
-      "low-no-code",
-      "open-ended"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-yo94si"
   },
   {
     "id": "dp-1wp760s",
@@ -335,6 +278,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1wp760s"
+  },
+  {
+    "id": "dp-yo94si",
+    "title": "Build Beyond Hackathon",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://build-beyond-hackathon.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-16",
+    "eventDate": "Jun 18 - Aug 16, 2026",
+    "prize": "$500",
+    "techTags": [
+      "beginner-friendly",
+      "low-no-code",
+      "open-ended"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-yo94si"
   },
   {
     "id": "dp-qvy5lg",
@@ -367,7 +330,7 @@
     "isOnline": true,
     "registrationDeadline": "2026-08-02",
     "eventDate": "Aug 02 - 17, 2026",
-    "prize": "$420,898",
+    "prize": "$469,348",
     "techTags": [
       "beginner-friendly",
       "machine-learning-ai",
@@ -398,6 +361,25 @@
     "rawHash": "dp-5hjlx1"
   },
   {
+    "id": "dp-1nc4c6y",
+    "title": "Brainwave 2026 – Midnight Track",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://brainwave-2026-midnight-track.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-10",
+    "eventDate": "Aug 10 - 17, 2026",
+    "prize": "$220",
+    "techTags": [
+      "blockchain",
+      "fintech"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1nc4c6y"
+  },
+  {
     "id": "dp-d3lboe",
     "title": "Build with Gemini XPRIZE",
     "organizer": "Devpost host",
@@ -416,6 +398,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-d3lboe"
+  },
+  {
+    "id": "dp-1qvibtx",
+    "title": "Hackonomics 2027",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://hackonomics27.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-17",
+    "eventDate": "Jul 01 - Aug 17, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly",
+      "education",
+      "open-ended"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1qvibtx"
   },
   {
     "id": "dp-135abgp",

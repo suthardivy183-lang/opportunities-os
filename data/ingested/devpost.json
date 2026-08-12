@@ -1,24 +1,24 @@
 [
   {
-    "id": "dp-1c1sxb8",
-    "title": "PIXEL.GEMINI 3.0",
+    "id": "dp-84qjew",
+    "title": "Hack RenderATL",
     "organizer": "Devpost host",
     "category": "hackathon",
-    "url": "https://pixel-gemini-3-0.devpost.com/",
+    "url": "https://hack-renderatl.devpost.com/",
     "source": "Devpost",
     "isOnline": false,
-    "city": "Valarpuram, India",
-    "registrationDeadline": "2026-08-10",
-    "eventDate": "Aug 10 - 11, 2026",
+    "city": "AmericasMart",
+    "registrationDeadline": "2026-08-12",
+    "eventDate": "Aug 12, 2026",
     "prize": "$0",
     "techTags": [
-      "cybersecurity",
-      "health",
-      "machine-learning-ai"
+      "beginner-friendly",
+      "machine-learning-ai",
+      "social-good"
     ],
     "status": "open",
     "confidence": "verify",
-    "rawHash": "dp-1c1sxb8"
+    "rawHash": "dp-84qjew"
   },
   {
     "id": "dp-8rm8m2",
@@ -39,6 +39,46 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-8rm8m2"
+  },
+  {
+    "id": "dp-1jbzed5",
+    "title": "The Orchestra",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://ao-orchestra.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-12",
+    "eventDate": "Aug 12 - 13, 2026",
+    "prize": "$200",
+    "techTags": [
+      "beginner-friendly",
+      "open-ended",
+      "machine-learning-ai"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1jbzed5"
+  },
+  {
+    "id": "dp-jfh7h6",
+    "title": "GDGoC Summer DevSprint",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://gdgoc-summer-devsprint.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-11",
+    "eventDate": "Aug 11 - 14, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly",
+      "machine-learning-ai",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-jfh7h6"
   },
   {
     "id": "dp-oq76kt",
@@ -130,7 +170,7 @@
     "isOnline": true,
     "registrationDeadline": "2026-08-15",
     "eventDate": "Jun 30 - Aug 15, 2026",
-    "prize": "$66,945",
+    "prize": "$70,345",
     "techTags": [
       "beginner-friendly",
       "machine-learning-ai",
@@ -200,26 +240,6 @@
     "rawHash": "dp-xo2smt"
   },
   {
-    "id": "dp-1qwqb2z",
-    "title": "GatewayGS & The AEI Initiative:  AI 4 Earth Hackathon",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://gatewaygs-ai-4-earth-hackathon.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-15",
-    "eventDate": "Jul 25 - Aug 15, 2026",
-    "prize": "$25",
-    "techTags": [
-      "beginner-friendly",
-      "machine-learning-ai",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1qwqb2z"
-  },
-  {
     "id": "dp-wzwiag",
     "title": "Hackdays Maa Chandika Convent School ",
     "organizer": "Devpost host",
@@ -239,6 +259,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-wzwiag"
+  },
+  {
+    "id": "dp-1qwqb2z",
+    "title": "GatewayGS & The AEI Initiative:  AI 4 Earth Hackathon",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://gatewaygs-ai-4-earth-hackathon.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-15",
+    "eventDate": "Jul 25 - Aug 15, 2026",
+    "prize": "$25",
+    "techTags": [
+      "beginner-friendly",
+      "machine-learning-ai",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1qwqb2z"
   },
   {
     "id": "dp-u53atr",
@@ -269,7 +309,7 @@
     "isOnline": true,
     "registrationDeadline": "2026-08-05",
     "eventDate": "Aug 05 - 16, 2026",
-    "prize": "$50",
+    "prize": "$0",
     "techTags": [
       "beginner-friendly",
       "databases",
@@ -319,26 +359,6 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-qvy5lg"
-  },
-  {
-    "id": "dp-1kspmhi",
-    "title": "Reverie Hacks 2026",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://reverie-hacks-2026.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-02",
-    "eventDate": "Aug 02 - 17, 2026",
-    "prize": "$469,348",
-    "techTags": [
-      "beginner-friendly",
-      "machine-learning-ai",
-      "open-ended"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1kspmhi"
   },
   {
     "id": "dp-5hjlx1",
@@ -458,6 +478,26 @@
     "rawHash": "dp-1pzy95b"
   },
   {
+    "id": "dp-1dvzwca",
+    "title": "Spatial Hack AI",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://spatial-hack-ai.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Singapore, Singapore",
+    "registrationDeadline": "2026-08-12",
+    "eventDate": "Aug 12 - 19, 2026",
+    "prize": "$0",
+    "techTags": [
+      "ar-vr",
+      "health"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1dvzwca"
+  },
+  {
     "id": "dp-fk0aew",
     "title": "Hack days in KGI",
     "organizer": "Devpost host",
@@ -498,45 +538,5 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1ciour6"
-  },
-  {
-    "id": "dp-2a7u14",
-    "title": "QuantumHacks",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://quantumhacks.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-20",
-    "eventDate": "Jun 21 - Aug 20, 2026",
-    "prize": "$1,000",
-    "techTags": [
-      "databases",
-      "fintech",
-      "quantum"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-2a7u14"
-  },
-  {
-    "id": "dp-1567zhn",
-    "title": "BTT Web Game Jam - Summer 2026",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://btt-web-game-jam.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-07",
-    "eventDate": "Aug 07 - 21, 2026",
-    "prize": "€100",
-    "techTags": [
-      "beginner-friendly",
-      "gaming",
-      "web"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1567zhn"
   }
 ]

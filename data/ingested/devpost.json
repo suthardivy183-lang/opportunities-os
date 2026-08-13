@@ -1,44 +1,24 @@
 [
   {
-    "id": "dp-84qjew",
-    "title": "Hack RenderATL",
+    "id": "dp-6l6t5a",
+    "title": "Build The Next Big Thing with AI - Devmarketplace",
     "organizer": "Devpost host",
     "category": "hackathon",
-    "url": "https://hack-renderatl.devpost.com/",
+    "url": "https://build-the-next-big-thing-ai.devpost.com/",
     "source": "Devpost",
     "isOnline": false,
-    "city": "AmericasMart",
-    "registrationDeadline": "2026-08-12",
-    "eventDate": "Aug 12, 2026",
-    "prize": "$0",
+    "city": "SSUET",
+    "registrationDeadline": "2026-08-13",
+    "eventDate": "Aug 13, 2026",
+    "prize": "₹ 80,000",
     "techTags": [
-      "beginner-friendly",
       "machine-learning-ai",
-      "social-good"
+      "mobile",
+      "web"
     ],
     "status": "open",
     "confidence": "verify",
-    "rawHash": "dp-84qjew"
-  },
-  {
-    "id": "dp-8rm8m2",
-    "title": "AI Passport Ideathon ",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://ai-passport-ideathon.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-08",
-    "eventDate": "Aug 08 - 12, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly",
-      "machine-learning-ai",
-      "open-ended"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-8rm8m2"
+    "rawHash": "dp-6l6t5a"
   },
   {
     "id": "dp-1jbzed5",
@@ -59,6 +39,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1jbzed5"
+  },
+  {
+    "id": "dp-1jv4sv3",
+    "title": "Prism Build Challenge",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://prismbuild.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-12",
+    "eventDate": "Aug 12 - 13, 2026",
+    "prize": "$0",
+    "techTags": [
+      "enterprise",
+      "productivity",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1jv4sv3"
   },
   {
     "id": "dp-jfh7h6",
@@ -221,6 +221,26 @@
     "rawHash": "dp-1hr0c3e"
   },
   {
+    "id": "dp-1qwqb2z",
+    "title": "GatewayGS & The AEI Initiative:  AI 4 Earth Hackathon",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://gatewaygs-ai-4-earth-hackathon.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-15",
+    "eventDate": "Jul 25 - Aug 15, 2026",
+    "prize": "$25",
+    "techTags": [
+      "beginner-friendly",
+      "machine-learning-ai",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1qwqb2z"
+  },
+  {
     "id": "dp-xo2smt",
     "title": "AceSAT Education AI-Agent",
     "organizer": "Devpost host",
@@ -261,26 +281,6 @@
     "rawHash": "dp-wzwiag"
   },
   {
-    "id": "dp-1qwqb2z",
-    "title": "GatewayGS & The AEI Initiative:  AI 4 Earth Hackathon",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://gatewaygs-ai-4-earth-hackathon.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-15",
-    "eventDate": "Jul 25 - Aug 15, 2026",
-    "prize": "$25",
-    "techTags": [
-      "beginner-friendly",
-      "machine-learning-ai",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1qwqb2z"
-  },
-  {
     "id": "dp-u53atr",
     "title": "INNOVIK 6.0 : International Hackathon 2026 ",
     "organizer": "Devpost host",
@@ -298,26 +298,6 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-u53atr"
-  },
-  {
-    "id": "dp-1wp760s",
-    "title": "AQX Sports Analytics Data Bowl 3.0",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://aqxanalyticsthree.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-05",
-    "eventDate": "Aug 05 - 16, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly",
-      "databases",
-      "gaming"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1wp760s"
   },
   {
     "id": "dp-yo94si",
@@ -338,6 +318,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-yo94si"
+  },
+  {
+    "id": "dp-1wp760s",
+    "title": "AQX Sports Analytics Data Bowl 3.0",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://aqxanalyticsthree.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-05",
+    "eventDate": "Aug 05 - 16, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly",
+      "databases",
+      "gaming"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1wp760s"
   },
   {
     "id": "dp-qvy5lg",

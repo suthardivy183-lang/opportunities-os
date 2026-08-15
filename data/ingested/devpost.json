@@ -1,124 +1,5 @@
 [
   {
-    "id": "dp-jfh7h6",
-    "title": "GDGoC Summer DevSprint",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://gdgoc-summer-devsprint.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-11",
-    "eventDate": "Aug 11 - 14, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly",
-      "machine-learning-ai",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-jfh7h6"
-  },
-  {
-    "id": "dp-1vlrjp4",
-    "title": "Build with AI @RUET",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://build-with-ai-ruet.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "CSE Building, RUET",
-    "registrationDeadline": "2026-08-14",
-    "eventDate": "Aug 14, 2026",
-    "prize": "$0",
-    "techTags": [
-      "machine-learning-ai",
-      "open-ended"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1vlrjp4"
-  },
-  {
-    "id": "dp-oq76kt",
-    "title": "NTU InnovateX Hackathon 2026",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://ntu-cctf-snz-innovatex-2026.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Nanyang Technological University",
-    "registrationDeadline": "2026-08-14",
-    "eventDate": "Jul 27 - Aug 14, 2026",
-    "prize": "$20,000",
-    "techTags": [
-      "blockchain",
-      "machine-learning-ai"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-oq76kt"
-  },
-  {
-    "id": "dp-1jv4sv3",
-    "title": "Prism Build Challenge",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://prismbuild.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-12",
-    "eventDate": "Aug 12 - 14, 2026",
-    "prize": "$0",
-    "techTags": [
-      "enterprise",
-      "productivity",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1jv4sv3"
-  },
-  {
-    "id": "dp-ksvgm6",
-    "title": "Canal Startup Sprint Hackathon ",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://canal-startup-sprint-hackathon.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Creativa Innovation Hub Ismailia",
-    "registrationDeadline": "2026-08-14",
-    "eventDate": "Jul 26 - Aug 14, 2026",
-    "prize": "$800",
-    "techTags": [
-      "iot",
-      "machine-learning-ai",
-      "robotic-process-automation"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-ksvgm6"
-  },
-  {
-    "id": "dp-c919d5",
-    "title": "Arm Create: AI Optimization Challenge",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://arm-ai-optimization-challenge.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-14",
-    "eventDate": "Jun 04 - Aug 14, 2026",
-    "prize": "$8,000",
-    "techTags": [
-      "machine-learning-ai"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-c919d5"
-  },
-  {
     "id": "dp-1kmh3qn",
     "title": "INNOVIK 6.0 – International Hackathon 2026 | Indore Edition",
     "organizer": "Devpost host",
@@ -158,6 +39,27 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1nojleg"
+  },
+  {
+    "id": "dp-6djvui",
+    "title": "Techweek Hackathon",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://techweek-hackathon.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "The foundry, 2nd floor",
+    "registrationDeadline": "2026-08-14",
+    "eventDate": "Aug 14 - 15, 2026",
+    "prize": "$CAD 0",
+    "techTags": [
+      "beginner-friendly",
+      "design",
+      "machine-learning-ai"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-6djvui"
   },
   {
     "id": "dp-1xmjeo",
@@ -238,6 +140,46 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-xo2smt"
+  },
+  {
+    "id": "dp-1jv4sv3",
+    "title": "Prism Build Challenge",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://prismbuild.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-12",
+    "eventDate": "Aug 12 - 15, 2026",
+    "prize": "$0",
+    "techTags": [
+      "enterprise",
+      "productivity",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1jv4sv3"
+  },
+  {
+    "id": "dp-1gb6hp6",
+    "title": "Inspire Hackathon ",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://inspire-hackathon.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-14",
+    "eventDate": "Aug 14 - 15, 2026",
+    "prize": "$0",
+    "techTags": [
+      "enterprise",
+      "fintech",
+      "productivity"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1gb6hp6"
   },
   {
     "id": "dp-1qwqb2z",
@@ -339,6 +281,26 @@
     "rawHash": "dp-kuprxy"
   },
   {
+    "id": "dp-1337r7n",
+    "title": "CS Girlies Annual Hackathon - Technology For Wellness",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://cs-girlies-wellness-hackathon.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-14",
+    "eventDate": "Aug 14 - 16, 2026",
+    "prize": "$5,000",
+    "techTags": [
+      "beginner-friendly",
+      "machine-learning-ai",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1337r7n"
+  },
+  {
     "id": "dp-1lhlee1",
     "title": "Social Media Automation Hackathon",
     "organizer": "Devpost host",
@@ -357,6 +319,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1lhlee1"
+  },
+  {
+    "id": "dp-1sa691i",
+    "title": "Impact Forge: Summer 2026 Hackathon",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://impactforge26.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-14",
+    "eventDate": "Aug 14 - 16, 2026",
+    "prize": "$6,600",
+    "techTags": [
+      "machine-learning-ai",
+      "open-ended",
+      "web"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1sa691i"
   },
   {
     "id": "dp-qvy5lg",
@@ -378,6 +360,27 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-qvy5lg"
+  },
+  {
+    "id": "dp-orsplm",
+    "title": "CISSA Product-thon 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://cissa-product-thon-2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Parkville, Australia",
+    "registrationDeadline": "2026-08-14",
+    "eventDate": "Aug 14 - 17, 2026",
+    "prize": "$550",
+    "techTags": [
+      "design",
+      "mobile",
+      "web"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-orsplm"
   },
   {
     "id": "dp-5hjlx1",

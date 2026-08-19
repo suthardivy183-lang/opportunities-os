@@ -1,83 +1,5 @@
 [
   {
-    "id": "dp-1jv4sv3",
-    "title": "Prism Build Challenge",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://prismbuild.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-12",
-    "eventDate": "Aug 12 - 18, 2026",
-    "prize": "$0",
-    "techTags": [
-      "enterprise",
-      "productivity",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1jv4sv3"
-  },
-  {
-    "id": "dp-135abgp",
-    "title": "Win4AISafety - Open Research Summer Challenge",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://win4aisafety-sain-utrecht.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-18",
-    "eventDate": "Jul 06 - Aug 18, 2026",
-    "prize": "$0",
-    "techTags": [
-      "machine-learning-ai"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-135abgp"
-  },
-  {
-    "id": "dp-1gb6hp6",
-    "title": "Inspire Hackathon ",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://inspire-hackathon.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-14",
-    "eventDate": "Aug 14 - 18, 2026",
-    "prize": "$0",
-    "techTags": [
-      "enterprise",
-      "fintech",
-      "productivity"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1gb6hp6"
-  },
-  {
-    "id": "dp-1pzy95b",
-    "title": "CockroachDB × AWS Hackathon - Build with Agentic Memory",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://cockroachdb-ai.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-18",
-    "eventDate": "Jun 30 - Aug 18, 2026",
-    "prize": "$8,750",
-    "techTags": [
-      "machine-learning-ai",
-      "databases",
-      "devops"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1pzy95b"
-  },
-  {
     "id": "dp-1dvzwca",
     "title": "Spatial Hack AI",
     "organizer": "Devpost host",
@@ -96,6 +18,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1dvzwca"
+  },
+  {
+    "id": "dp-1jv4sv3",
+    "title": "Prism Build Challenge",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://prismbuild.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-12",
+    "eventDate": "Aug 12 - 19, 2026",
+    "prize": "$0",
+    "techTags": [
+      "enterprise",
+      "productivity",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1jv4sv3"
   },
   {
     "id": "dp-fk0aew",
@@ -117,6 +59,47 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-fk0aew"
+  },
+  {
+    "id": "dp-3u3god",
+    "title": "HACKNOVA'26",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://hacknova-26-30838.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": " Chembarambakkam in Tamil Nadu, India.",
+    "registrationDeadline": "2026-08-18",
+    "eventDate": "Aug 18 - 19, 2026",
+    "prize": "₹ 1,000",
+    "techTags": [
+      "iot",
+      "machine-learning-ai",
+      "robotic-process-automation"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-3u3god"
+  },
+  {
+    "id": "dp-1gb6hp6",
+    "title": "Inspire Hackathon ",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://inspire-hackathon.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-14",
+    "eventDate": "Aug 14 - 19, 2026",
+    "prize": "$0",
+    "techTags": [
+      "enterprise",
+      "fintech",
+      "productivity"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1gb6hp6"
   },
   {
     "id": "dp-1ciour6",
@@ -180,26 +163,6 @@
     "rawHash": "dp-1567zhn"
   },
   {
-    "id": "dp-yo94si",
-    "title": "Build Beyond Hackathon",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://build-beyond-hackathon.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-22",
-    "eventDate": "Jun 18 - Aug 22, 2026",
-    "prize": "$500",
-    "techTags": [
-      "beginner-friendly",
-      "low-no-code",
-      "open-ended"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-yo94si"
-  },
-  {
     "id": "dp-7flvy4",
     "title": "Suvidha AI Virtual Hackathon",
     "organizer": "Devpost host",
@@ -218,6 +181,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-7flvy4"
+  },
+  {
+    "id": "dp-yo94si",
+    "title": "Build Beyond Hackathon",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://build-beyond-hackathon.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-22",
+    "eventDate": "Jun 18 - Aug 22, 2026",
+    "prize": "$500",
+    "techTags": [
+      "beginner-friendly",
+      "low-no-code",
+      "open-ended"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-yo94si"
   },
   {
     "id": "dp-84bn8a",
@@ -310,7 +293,7 @@
     "isOnline": true,
     "registrationDeadline": "2026-08-02",
     "eventDate": "Aug 02 - 24, 2026",
-    "prize": "$1,096,950",
+    "prize": "$1,302,600",
     "techTags": [
       "beginner-friendly",
       "machine-learning-ai",
@@ -501,6 +484,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1qvibtx"
+  },
+  {
+    "id": "dp-324g06",
+    "title": "Prometheus August AI Challenge",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://august-ai-challenge-31059.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-18",
+    "eventDate": "Aug 18 - 30, 2026",
+    "prize": "$1,500",
+    "techTags": [
+      "beginner-friendly",
+      "design",
+      "machine-learning-ai"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-324g06"
   },
   {
     "id": "dp-gfryn8",

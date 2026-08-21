@@ -1,67 +1,5 @@
 [
   {
-    "id": "dp-3qu7mi",
-    "title": "Agent Memory Hack Night ",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://agent-memory-hack-night.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Elastic SF Office ",
-    "registrationDeadline": "2026-08-19",
-    "eventDate": "Aug 19 - 20, 2026",
-    "prize": "$0",
-    "techTags": [
-      "databases",
-      "machine-learning-ai",
-      "serverless"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-3qu7mi"
-  },
-  {
-    "id": "dp-1jv4sv3",
-    "title": "Prism Build Challenge",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://prismbuild.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-12",
-    "eventDate": "Aug 12 - 20, 2026",
-    "prize": "$0",
-    "techTags": [
-      "enterprise",
-      "productivity",
-      "fintech"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1jv4sv3"
-  },
-  {
-    "id": "dp-1ciour6",
-    "title": "Vidhyarthi Sewa EduHack Karnataka 2026",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://vidhyarthi-sewa-eduhack.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Primus B School",
-    "registrationDeadline": "2026-08-20",
-    "eventDate": "Jul 31 - Aug 20, 2026",
-    "prize": "₹ 50,000",
-    "techTags": [
-      "education",
-      "machine-learning-ai",
-      "web"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1ciour6"
-  },
-  {
     "id": "dp-1567zhn",
     "title": "BTT Web Game Jam - Summer 2026",
     "organizer": "Devpost host",
@@ -80,6 +18,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1567zhn"
+  },
+  {
+    "id": "dp-7flvy4",
+    "title": "Suvidha AI Virtual Hackathon",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://suvidha-ai-virtual-hackathon.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-15",
+    "eventDate": "Aug 15 - 22, 2026",
+    "prize": "$800",
+    "techTags": [
+      "beginner-friendly",
+      "low-no-code",
+      "machine-learning-ai"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-7flvy4"
   },
   {
     "id": "dp-yo94si",
@@ -102,24 +60,23 @@
     "rawHash": "dp-yo94si"
   },
   {
-    "id": "dp-7flvy4",
-    "title": "Suvidha AI Virtual Hackathon",
+    "id": "dp-oge0td",
+    "title": "AI & Innovation Day @ AITR Indore",
     "organizer": "Devpost host",
     "category": "hackathon",
-    "url": "https://suvidha-ai-virtual-hackathon.devpost.com/",
+    "url": "https://ai-innovation-day-31076.devpost.com/",
     "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-15",
-    "eventDate": "Aug 15 - 22, 2026",
-    "prize": "$800",
+    "isOnline": false,
+    "city": "Indore",
+    "registrationDeadline": "2026-08-20",
+    "eventDate": "Aug 20 - 22, 2026",
+    "prize": "₹ 0",
     "techTags": [
-      "beginner-friendly",
-      "low-no-code",
-      "machine-learning-ai"
+      "education"
     ],
     "status": "open",
     "confidence": "verify",
-    "rawHash": "dp-7flvy4"
+    "rawHash": "dp-oge0td"
   },
   {
     "id": "dp-84bn8a",
@@ -161,25 +118,6 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1pp8817"
-  },
-  {
-    "id": "dp-oge0td",
-    "title": "AI & Innovation Day @ AITR Indore",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://ai-innovation-day-31076.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Indore",
-    "registrationDeadline": "2026-08-20",
-    "eventDate": "Aug 20 - 22, 2026",
-    "prize": "₹ 0",
-    "techTags": [
-      "education"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-oge0td"
   },
   {
     "id": "dp-1ulay1o",
@@ -243,24 +181,45 @@
     "rawHash": "dp-1qwqb2z"
   },
   {
-    "id": "dp-a2v7lo",
-    "title": "Proof of Possible 2026",
+    "id": "dp-1uxswh4",
+    "title": "Catalyst 2026",
     "organizer": "Devpost host",
     "category": "hackathon",
-    "url": "https://proof-of-possible-2026.devpost.com/",
+    "url": "https://cissa-catalyst-2026.devpost.com/",
     "source": "Devpost",
-    "isOnline": true,
+    "isOnline": false,
+    "city": "The University of Melbourne, Parkville",
     "registrationDeadline": "2026-08-20",
     "eventDate": "Aug 20 - 22, 2026",
-    "prize": "$9,000",
+    "prize": "$1,700",
     "techTags": [
       "beginner-friendly",
-      "machine-learning-ai",
-      "open-ended"
+      "cybersecurity",
+      "design"
     ],
     "status": "open",
     "confidence": "verify",
-    "rawHash": "dp-a2v7lo"
+    "rawHash": "dp-1uxswh4"
+  },
+  {
+    "id": "dp-1xibr3a",
+    "title": "NextStep Hacks 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://nextstep2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-21",
+    "eventDate": "Aug 21 - 23, 2026",
+    "prize": "$1,750",
+    "techTags": [
+      "beginner-friendly",
+      "machine-learning-ai",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1xibr3a"
   },
   {
     "id": "dp-1kspmhi",
@@ -272,7 +231,7 @@
     "isOnline": true,
     "registrationDeadline": "2026-08-02",
     "eventDate": "Aug 02 - 24, 2026",
-    "prize": "$1,336,350",
+    "prize": "$2,206,164",
     "techTags": [
       "beginner-friendly",
       "machine-learning-ai",
@@ -281,26 +240,6 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1kspmhi"
-  },
-  {
-    "id": "dp-ic31ru",
-    "title": "ImpactForge",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://impactforge.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-24",
-    "eventDate": "Jun 19 - Aug 24, 2026",
-    "prize": "$300",
-    "techTags": [
-      "beginner-friendly",
-      "low-no-code",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-ic31ru"
   },
   {
     "id": "dp-1ji9yx8",
@@ -341,6 +280,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-2a7u14"
+  },
+  {
+    "id": "dp-ic31ru",
+    "title": "ImpactForge",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://impactforge.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-24",
+    "eventDate": "Jun 19 - Aug 24, 2026",
+    "prize": "$300",
+    "techTags": [
+      "beginner-friendly",
+      "low-no-code",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-ic31ru"
   },
   {
     "id": "dp-285th6",
@@ -505,6 +464,26 @@
     "rawHash": "dp-1qvibtx"
   },
   {
+    "id": "dp-324g06",
+    "title": "Prometheus August AI Challenge",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://august-ai-challenge-31059.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-18",
+    "eventDate": "Aug 18 - 30, 2026",
+    "prize": "$1,500",
+    "techTags": [
+      "beginner-friendly",
+      "design",
+      "machine-learning-ai"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-324g06"
+  },
+  {
     "id": "dp-gfryn8",
     "title": "Hack The Limit",
     "organizer": "Devpost host",
@@ -525,23 +504,44 @@
     "rawHash": "dp-gfryn8"
   },
   {
-    "id": "dp-324g06",
-    "title": "Prometheus August AI Challenge",
+    "id": "dp-oeieey",
+    "title": "Smart City Hackathon Lahore",
     "organizer": "Devpost host",
     "category": "hackathon",
-    "url": "https://august-ai-challenge-31059.devpost.com/",
+    "url": "https://smart-city-hackathon-lahore.devpost.com/",
     "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-18",
-    "eventDate": "Aug 18 - 30, 2026",
-    "prize": "$1,500",
+    "isOnline": false,
+    "city": "Lahore Garrison University",
+    "registrationDeadline": "2026-08-19",
+    "eventDate": "Aug 19 - 30, 2026",
+    "prize": "$642",
     "techTags": [
-      "beginner-friendly",
+      "communication",
       "design",
-      "machine-learning-ai"
+      "social-good"
     ],
     "status": "open",
     "confidence": "verify",
-    "rawHash": "dp-324g06"
+    "rawHash": "dp-oeieey"
+  },
+  {
+    "id": "dp-1u8mu8b",
+    "title": "Hack the Habitat",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://hack-the-habitat-2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-07",
+    "eventDate": "Aug 07 - 31, 2026",
+    "prize": "$1,000",
+    "techTags": [
+      "iot",
+      "machine-learning-ai",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1u8mu8b"
   }
 ]

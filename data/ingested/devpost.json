@@ -1,85 +1,5 @@
 [
   {
-    "id": "dp-1hwlpdk",
-    "title": "Graphiques Innovation Challenge ",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://graphiques-challenge.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-21",
-    "eventDate": "Aug 21 - 23, 2026",
-    "prize": "$0",
-    "techTags": [
-      "enterprise",
-      "fintech",
-      "productivity"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1hwlpdk"
-  },
-  {
-    "id": "dp-im823m",
-    "title": "TechNisa Hacks ",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://technisa-hacks.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Toronto Metropolitan University",
-    "registrationDeadline": "2026-08-21",
-    "eventDate": "Aug 21 - 23, 2026",
-    "prize": "$CAD 0",
-    "techTags": [
-      "beginner-friendly",
-      "education",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-im823m"
-  },
-  {
-    "id": "dp-1ulay1o",
-    "title": "Pixel Forge AI Hackathon ($18,000+ in Prizes)",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://pixel-forge-ai-hackathon-08.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-15",
-    "eventDate": "Aug 15 - 23, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly",
-      "web",
-      "machine-learning-ai"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1ulay1o"
-  },
-  {
-    "id": "dp-oge0td",
-    "title": "AI & Innovation Day @ AITR Indore",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://ai-innovation-day-31076.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Indore",
-    "registrationDeadline": "2026-08-20",
-    "eventDate": "Aug 20 - 23, 2026",
-    "prize": "₹ 0",
-    "techTags": [
-      "education"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-oge0td"
-  },
-  {
     "id": "dp-1kspmhi",
     "title": "Reverie Hacks 2026",
     "organizer": "Devpost host",
@@ -89,7 +9,7 @@
     "isOnline": true,
     "registrationDeadline": "2026-08-02",
     "eventDate": "Aug 02 - 24, 2026",
-    "prize": "$3,047,814",
+    "prize": "$3,118,714",
     "techTags": [
       "beginner-friendly",
       "machine-learning-ai",
@@ -98,26 +18,6 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1kspmhi"
-  },
-  {
-    "id": "dp-1ji9yx8",
-    "title": "NeuralSprint",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://neuralsprint.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-24",
-    "eventDate": "Jun 18 - Aug 24, 2026",
-    "prize": "$150",
-    "techTags": [
-      "machine-learning-ai",
-      "social-good",
-      "web"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1ji9yx8"
   },
   {
     "id": "dp-2a7u14",
@@ -160,6 +60,46 @@
     "rawHash": "dp-ic31ru"
   },
   {
+    "id": "dp-1ji9yx8",
+    "title": "NeuralSprint",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://neuralsprint.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-24",
+    "eventDate": "Jun 18 - Aug 24, 2026",
+    "prize": "$150",
+    "techTags": [
+      "machine-learning-ai",
+      "social-good",
+      "web"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1ji9yx8"
+  },
+  {
+    "id": "dp-1hwlpdk",
+    "title": "Graphiques Innovation Challenge ",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://graphiques-challenge.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-21",
+    "eventDate": "Aug 21 - 24, 2026",
+    "prize": "$0",
+    "techTags": [
+      "enterprise",
+      "fintech",
+      "productivity"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1hwlpdk"
+  },
+  {
     "id": "dp-285th6",
     "title": "Gemini Builds",
     "organizer": "Devpost host",
@@ -200,6 +140,27 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-65shcq"
+  },
+  {
+    "id": "dp-14y8pb2",
+    "title": "Hacking  2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://cloudhacks-2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Lahore",
+    "registrationDeadline": "2026-08-24",
+    "eventDate": "Aug 24, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly",
+      "devops",
+      "machine-learning-ai"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-14y8pb2"
   },
   {
     "id": "dp-1gb6hp6",
@@ -283,6 +244,25 @@
     "rawHash": "dp-ytcfy2"
   },
   {
+    "id": "dp-1jwzb7e",
+    "title": "Blockchain amrita",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://blockchain-amrita.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-23",
+    "eventDate": "Aug 23 - 25, 2026",
+    "prize": "₹ 0",
+    "techTags": [
+      "blockchain",
+      "cybersecurity"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1jwzb7e"
+  },
+  {
     "id": "dp-t5xu40",
     "title": "Create with Gemini",
     "organizer": "Devpost host",
@@ -323,24 +303,23 @@
     "rawHash": "dp-1nc4c6y"
   },
   {
-    "id": "dp-1qvibtx",
-    "title": "Hackonomics 2027",
+    "id": "dp-1rcru9s",
+    "title": "Obour G12 Capstone Teams ",
     "organizer": "Devpost host",
     "category": "hackathon",
-    "url": "https://hackonomics27.devpost.com/",
+    "url": "https://ob-g12-capstone-teams.devpost.com/",
     "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-29",
-    "eventDate": "Jul 01 - Aug 29, 2026",
-    "prize": "$0",
+    "isOnline": false,
+    "city": "Al Obour City, Egypt",
+    "registrationDeadline": "2026-08-23",
+    "eventDate": "Aug 23 - 27, 2026",
+    "prize": "MEX$0",
     "techTags": [
-      "beginner-friendly",
-      "education",
-      "open-ended"
+      "beginner-friendly"
     ],
     "status": "open",
     "confidence": "verify",
-    "rawHash": "dp-1qvibtx"
+    "rawHash": "dp-1rcru9s"
   },
   {
     "id": "dp-xu2m9h",
@@ -542,5 +521,25 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-6cvx76"
+  },
+  {
+    "id": "dp-z7u0tq",
+    "title": "DevNetwork [API + Cloud + AI] Hackathon 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://api-cloud-ai-hackathon-2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-09-03",
+    "eventDate": "Aug 17 - Sep 03, 2026",
+    "prize": "$39,500",
+    "techTags": [
+      "iot",
+      "low-no-code",
+      "machine-learning-ai"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-z7u0tq"
   }
 ]

@@ -1,127 +1,5 @@
 [
   {
-    "id": "dp-1kmh3qn",
-    "title": "INNOVIK 6.0 – International Hackathon 2026 | Indore Edition",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://innovik6-indore.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "VITM Indore",
-    "registrationDeadline": "2026-08-10",
-    "eventDate": "Aug 10 - 25, 2026",
-    "prize": "₹ 200,000",
-    "techTags": [
-      "education",
-      "machine-learning-ai",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1kmh3qn"
-  },
-  {
-    "id": "dp-bgvsci",
-    "title": "Africa Deep Tech Challenge 2026",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://adtc-2026.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-25",
-    "eventDate": "Jun 17 - Aug 25, 2026",
-    "prize": "$16,500",
-    "techTags": [
-      "machine-learning-ai",
-      "productivity"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-bgvsci"
-  },
-  {
-    "id": "dp-1hwlpdk",
-    "title": "Graphiques Innovation Challenge ",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://graphiques-challenge.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-21",
-    "eventDate": "Aug 21 - 25, 2026",
-    "prize": "$0",
-    "techTags": [
-      "enterprise",
-      "fintech",
-      "productivity"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1hwlpdk"
-  },
-  {
-    "id": "dp-j0pvma",
-    "title": "Fund My Crazy by Google",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://google-ai-workshop-hackathon.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-25",
-    "eventDate": "Jun 24 - Aug 25, 2026",
-    "prize": "₹ 100,093,499",
-    "techTags": [
-      "machine-learning-ai",
-      "beginner-friendly",
-      "low-no-code"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-j0pvma"
-  },
-  {
-    "id": "dp-ytcfy2",
-    "title": "The Great Agent Hackathon",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://the-great-agent-hackathon.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Freshworks",
-    "registrationDeadline": "2026-08-25",
-    "eventDate": "Jul 23 - Aug 25, 2026",
-    "prize": "₹ 100,000",
-    "techTags": [
-      "enterprise",
-      "machine-learning-ai",
-      "open-ended"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-ytcfy2"
-  },
-  {
-    "id": "dp-t5xu40",
-    "title": "Create with Gemini",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://create-with-gemini.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Applyhub ",
-    "registrationDeadline": "2026-08-12",
-    "eventDate": "Aug 12 - 25, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly",
-      "education",
-      "web"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-t5xu40"
-  },
-  {
     "id": "dp-1nc4c6y",
     "title": "Brainwave 2026 – Midnight Track",
     "organizer": "Devpost host",
@@ -139,6 +17,25 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1nc4c6y"
+  },
+  {
+    "id": "dp-oge0td",
+    "title": "AI & Innovation Day @ AITR Indore",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://ai-innovation-day-31076.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Indore",
+    "registrationDeadline": "2026-08-20",
+    "eventDate": "Aug 20 - 27, 2026",
+    "prize": "₹ 0",
+    "techTags": [
+      "education"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-oge0td"
   },
   {
     "id": "dp-1rcru9s",
@@ -239,6 +136,27 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-oeieey"
+  },
+  {
+    "id": "dp-ytcfy2",
+    "title": "The Great Agent Hackathon",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://the-great-agent-hackathon.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Freshworks",
+    "registrationDeadline": "2026-08-30",
+    "eventDate": "Jul 23 - Aug 30, 2026",
+    "prize": "₹ 100,000",
+    "techTags": [
+      "enterprise",
+      "machine-learning-ai",
+      "open-ended"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-ytcfy2"
   },
   {
     "id": "dp-1u8mu8b",
@@ -381,6 +299,26 @@
     "rawHash": "dp-z7u0tq"
   },
   {
+    "id": "dp-7rdjs",
+    "title": "The WebMCP Challenge",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://webmcp.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-09-03",
+    "eventDate": "Aug 25 - Sep 03, 2026",
+    "prize": "$35,000",
+    "techTags": [
+      "machine-learning-ai",
+      "e-commerce-retail",
+      "web"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-7rdjs"
+  },
+  {
     "id": "dp-o8aivb",
     "title": "Hack for Humanity | Summer 2026 (+13 non-cash prizes)",
     "organizer": "Devpost host",
@@ -503,27 +441,6 @@
     "rawHash": "dp-1nrs8oq"
   },
   {
-    "id": "dp-1816311",
-    "title": "DIALED IN Builder Challenge",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://dialedin.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "The Hub @ Office Logic",
-    "registrationDeadline": "2026-09-08",
-    "eventDate": "Aug 04 - Sep 08, 2026",
-    "prize": "$5,000",
-    "techTags": [
-      "ar-vr",
-      "voice-skills",
-      "beginner-friendly"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1816311"
-  },
-  {
     "id": "dp-15ij0lf",
     "title": "Agentic Cinema: The Blockbuster Hackathon",
     "organizer": "Devpost host",
@@ -542,5 +459,85 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-15ij0lf"
+  },
+  {
+    "id": "dp-732vhi",
+    "title": "Hack2Heal 2.0 - Global Healthcare Innovation Hackathon",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://hack2heal.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-09-10",
+    "eventDate": "Aug 25 - Sep 10, 2026",
+    "prize": "$100",
+    "techTags": [
+      "health",
+      "machine-learning-ai",
+      "beginner-friendly"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-732vhi"
+  },
+  {
+    "id": "dp-1d0la3v",
+    "title": "AnimalHack 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://animalhack2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-09-12",
+    "eventDate": "Jun 14 - Sep 12, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly",
+      "open-ended",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1d0la3v"
+  },
+  {
+    "id": "dp-lfpbgk",
+    "title": "Prometheus September AI Challenge 2",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://prometheus-september-ai-2.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-09-12",
+    "eventDate": "Aug 19 - Sep 12, 2026",
+    "prize": "$1,500",
+    "techTags": [
+      "machine-learning-ai",
+      "beginner-friendly",
+      "design"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-lfpbgk"
+  },
+  {
+    "id": "dp-1xibr3a",
+    "title": "NextStep Hacks 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://nextstep2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-09-13",
+    "eventDate": "Aug 21 - Sep 13, 2026",
+    "prize": "$1,750",
+    "techTags": [
+      "beginner-friendly",
+      "machine-learning-ai",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1xibr3a"
   }
 ]

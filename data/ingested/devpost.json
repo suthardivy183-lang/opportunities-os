@@ -1,24 +1,5 @@
 [
   {
-    "id": "dp-1nc4c6y",
-    "title": "Brainwave 2026 – Midnight Track",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://brainwave-2026-midnight-track.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-10",
-    "eventDate": "Aug 10 - 26, 2026",
-    "prize": "$220",
-    "techTags": [
-      "blockchain",
-      "fintech"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1nc4c6y"
-  },
-  {
     "id": "dp-oge0td",
     "title": "AI & Innovation Day @ AITR Indore",
     "organizer": "Devpost host",
@@ -55,6 +36,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1rcru9s"
+  },
+  {
+    "id": "dp-1hwlpdk",
+    "title": "Graphiques Innovation Challenge ",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://graphiques-challenge.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-21",
+    "eventDate": "Aug 21 - 27, 2026",
+    "prize": "$0",
+    "techTags": [
+      "enterprise",
+      "fintech",
+      "productivity"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1hwlpdk"
   },
   {
     "id": "dp-xu2m9h",
@@ -239,6 +240,26 @@
     "rawHash": "dp-1v0sa5n"
   },
   {
+    "id": "dp-ih7yvh",
+    "title": "305 HackFiesta Miami Edition August 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://305hackfiestamiamiaug2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-26",
+    "eventDate": "Aug 26 - 31, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly",
+      "education",
+      "lifehacks"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-ih7yvh"
+  },
+  {
     "id": "dp-1o5wkur",
     "title": "AI YES :International Youth AI Competition",
     "organizer": "Devpost host",
@@ -317,6 +338,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-7rdjs"
+  },
+  {
+    "id": "dp-rbx6qi",
+    "title": "TechX Rwanda Hackathon",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://techx-rwanda-hackathon.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-09-03",
+    "eventDate": "Aug 27 - Sep 03, 2026",
+    "prize": "$0",
+    "techTags": [
+      "cybersecurity",
+      "machine-learning-ai",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-rbx6qi"
   },
   {
     "id": "dp-o8aivb",
@@ -481,63 +522,21 @@
     "rawHash": "dp-732vhi"
   },
   {
-    "id": "dp-1d0la3v",
-    "title": "AnimalHack 2026",
+    "id": "dp-1qlv30a",
+    "title": "Music from BeatMind",
     "organizer": "Devpost host",
     "category": "hackathon",
-    "url": "https://animalhack2026.devpost.com/",
+    "url": "https://music-from-beatmind.devpost.com/",
     "source": "Devpost",
     "isOnline": true,
     "registrationDeadline": "2026-09-12",
-    "eventDate": "Jun 14 - Sep 12, 2026",
+    "eventDate": "Aug 27 - Sep 12, 2026",
     "prize": "$0",
     "techTags": [
-      "beginner-friendly",
-      "open-ended",
-      "social-good"
+      "music-art"
     ],
     "status": "open",
     "confidence": "verify",
-    "rawHash": "dp-1d0la3v"
-  },
-  {
-    "id": "dp-lfpbgk",
-    "title": "Prometheus September AI Challenge 2",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://prometheus-september-ai-2.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-12",
-    "eventDate": "Aug 19 - Sep 12, 2026",
-    "prize": "$1,500",
-    "techTags": [
-      "machine-learning-ai",
-      "beginner-friendly",
-      "design"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-lfpbgk"
-  },
-  {
-    "id": "dp-1xibr3a",
-    "title": "NextStep Hacks 2026",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://nextstep2026.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-13",
-    "eventDate": "Aug 21 - Sep 13, 2026",
-    "prize": "$1,750",
-    "techTags": [
-      "beginner-friendly",
-      "machine-learning-ai",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1xibr3a"
+    "rawHash": "dp-1qlv30a"
   }
 ]

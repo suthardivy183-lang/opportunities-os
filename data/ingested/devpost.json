@@ -1,61 +1,24 @@
 [
   {
-    "id": "dp-oge0td",
-    "title": "AI & Innovation Day @ AITR Indore",
+    "id": "dp-80qgdu",
+    "title": "Maestro Eldoret Hack Day",
     "organizer": "Devpost host",
     "category": "hackathon",
-    "url": "https://ai-innovation-day-31076.devpost.com/",
+    "url": "https://maestro-eldoret-hack-day.devpost.com/",
     "source": "Devpost",
     "isOnline": false,
-    "city": "Indore",
-    "registrationDeadline": "2026-08-20",
-    "eventDate": "Aug 20 - 27, 2026",
-    "prize": "₹ 0",
-    "techTags": [
-      "education"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-oge0td"
-  },
-  {
-    "id": "dp-1rcru9s",
-    "title": "Obour G12 Capstone Teams ",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://ob-g12-capstone-teams.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Al Obour City, Egypt",
-    "registrationDeadline": "2026-08-23",
-    "eventDate": "Aug 23 - 27, 2026",
-    "prize": "MEX$0",
-    "techTags": [
-      "beginner-friendly"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1rcru9s"
-  },
-  {
-    "id": "dp-1hwlpdk",
-    "title": "Graphiques Innovation Challenge ",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://graphiques-challenge.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-21",
-    "eventDate": "Aug 21 - 27, 2026",
+    "city": "Kikao 64 Hub Eldoret",
+    "registrationDeadline": "2026-08-28",
+    "eventDate": "Aug 28 - 29, 2026",
     "prize": "$0",
     "techTags": [
-      "enterprise",
       "fintech",
-      "productivity"
+      "health",
+      "web"
     ],
     "status": "open",
     "confidence": "verify",
-    "rawHash": "dp-1hwlpdk"
+    "rawHash": "dp-80qgdu"
   },
   {
     "id": "dp-xu2m9h",
@@ -96,26 +59,6 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-gfryn8"
-  },
-  {
-    "id": "dp-324g06",
-    "title": "Prometheus August AI Challenge",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://august-ai-challenge-31059.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-18",
-    "eventDate": "Aug 18 - 30, 2026",
-    "prize": "$1,500",
-    "techTags": [
-      "beginner-friendly",
-      "design",
-      "machine-learning-ai"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-324g06"
   },
   {
     "id": "dp-oeieey",
@@ -160,6 +103,48 @@
     "rawHash": "dp-ytcfy2"
   },
   {
+    "id": "dp-4kwefg",
+    "title": "Veteran Innovation Hackathon",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://veteran-innovation-hackathon.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Hacker Dojo",
+    "registrationDeadline": "2026-08-28",
+    "eventDate": "Aug 28 - 30, 2026",
+    "prize": "$500",
+    "techTags": [
+      "health",
+      "machine-learning-ai",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-4kwefg"
+  },
+  {
+    "id": "dp-1vu1b6i",
+    "title": "Practice Submission",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://practice-submission.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "University of Sydney",
+    "registrationDeadline": "2026-08-27",
+    "eventDate": "Aug 27 - 30, 2026",
+    "prize": "$238,123",
+    "techTags": [
+      "beginner-friendly",
+      "mobile",
+      "web"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1vu1b6i"
+  },
+  {
     "id": "dp-1u8mu8b",
     "title": "Hack the Habitat",
     "organizer": "Devpost host",
@@ -178,6 +163,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1u8mu8b"
+  },
+  {
+    "id": "dp-324g06",
+    "title": "Prometheus August AI Challenge",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://august-ai-challenge-31059.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-08-18",
+    "eventDate": "Aug 18 - 31, 2026",
+    "prize": "$1,500",
+    "techTags": [
+      "beginner-friendly",
+      "design",
+      "machine-learning-ai"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-324g06"
   },
   {
     "id": "dp-1e2ao3v",

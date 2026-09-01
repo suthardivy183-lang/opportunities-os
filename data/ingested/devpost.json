@@ -1,123 +1,22 @@
 [
   {
-    "id": "dp-1e2ao3v",
-    "title": "Hacksocial 2026",
+    "id": "dp-1pug720",
+    "title": "Code Vidya Hack Days",
     "organizer": "Devpost host",
     "category": "hackathon",
-    "url": "https://hacksocial2026.devpost.com/",
+    "url": "https://code-vidya-hack-days.devpost.com/",
     "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-01",
-    "eventDate": "Aug 01 - 31, 2026",
-    "prize": "$3,979",
-    "techTags": [
-      "machine-learning-ai",
-      "open-ended",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1e2ao3v"
-  },
-  {
-    "id": "dp-ckp5ne",
-    "title": "3D Websites Hackathon",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://3d-websites-hackathon.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-31",
-    "eventDate": "Jun 22 - Aug 31, 2026",
-    "prize": "$55",
-    "techTags": [
-      "design",
-      "web",
-      "beginner-friendly"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-ckp5ne"
-  },
-  {
-    "id": "dp-1v0sa5n",
-    "title": "All Things Agentic Hackathon",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://allthingsagentichackathon.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-04",
-    "eventDate": "Aug 04 - 31, 2026",
-    "prize": "$180,000",
-    "techTags": [
-      "enterprise",
-      "machine-learning-ai",
-      "productivity"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1v0sa5n"
-  },
-  {
-    "id": "dp-ih7yvh",
-    "title": "305 HackFiesta Miami Edition August 2026",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://305hackfiestamiamiaug2026.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-08-26",
-    "eventDate": "Aug 26 - 31, 2026",
+    "isOnline": false,
+    "city": "Kanpur Nagar UP",
+    "registrationDeadline": "2026-09-01",
+    "eventDate": "Sep 01, 2026",
     "prize": "$0",
     "techTags": [
-      "beginner-friendly",
-      "education",
-      "lifehacks"
+      "education"
     ],
     "status": "open",
     "confidence": "verify",
-    "rawHash": "dp-ih7yvh"
-  },
-  {
-    "id": "dp-15vqqo0",
-    "title": "TikTok TechJam 2026",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://tiktoktechjam2026.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-01",
-    "eventDate": "Aug 29 - Sep 01, 2026",
-    "prize": "$34,500",
-    "techTags": [
-      "machine-learning-ai",
-      "cybersecurity",
-      "e-commerce-retail"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-15vqqo0"
-  },
-  {
-    "id": "dp-1u8mu8b",
-    "title": "Hack the Habitat",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://hack-the-habitat-2026.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-01",
-    "eventDate": "Aug 07 - Sep 01, 2026",
-    "prize": "$1,000",
-    "techTags": [
-      "iot",
-      "machine-learning-ai",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1u8mu8b"
+    "rawHash": "dp-1pug720"
   },
   {
     "id": "dp-oeieey",
@@ -159,6 +58,46 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1o5wkur"
+  },
+  {
+    "id": "dp-1hwlpdk",
+    "title": "Graphiques Innovation Challenge ",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://graphiques-challenge.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-09-01",
+    "eventDate": "Aug 21 - Sep 01, 2026",
+    "prize": "$0",
+    "techTags": [
+      "enterprise",
+      "fintech",
+      "productivity"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1hwlpdk"
+  },
+  {
+    "id": "dp-ckp5ne",
+    "title": "3D Websites Hackathon",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://3d-websites-hackathon.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-09-02",
+    "eventDate": "Jun 22 - Sep 02, 2026",
+    "prize": "$55",
+    "techTags": [
+      "design",
+      "web",
+      "beginner-friendly"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-ckp5ne"
   },
   {
     "id": "dp-6cvx76",
@@ -302,26 +241,6 @@
     "rawHash": "dp-1lkylru"
   },
   {
-    "id": "dp-1hwbhh6",
-    "title": "Syntax Summit",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://syntax-summit.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-05",
-    "eventDate": "Jul 18 - Sep 05, 2026",
-    "prize": "$0",
-    "techTags": [
-      "devops",
-      "machine-learning-ai",
-      "robotic-process-automation"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1hwbhh6"
-  },
-  {
     "id": "dp-1sicu4a",
     "title": "VoltHacks",
     "organizer": "Devpost host",
@@ -361,6 +280,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1nrs8oq"
+  },
+  {
+    "id": "dp-w3zb7d",
+    "title": "AI Content Engine Hackathon",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://ai-content-engine-hacks.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-09-01",
+    "eventDate": "Sep 01 - 08, 2026",
+    "prize": "$2,000",
+    "techTags": [
+      "beginner-friendly",
+      "machine-learning-ai",
+      "open-ended"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-w3zb7d"
   },
   {
     "id": "dp-15ij0lf",
@@ -539,5 +478,65 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1ckfppj"
+  },
+  {
+    "id": "dp-1lyc27g",
+    "title": "Agents for Humans Hackathon",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://agentsforhumans.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-09-14",
+    "eventDate": "Aug 10 - Sep 14, 2026",
+    "prize": "$40,000",
+    "techTags": [
+      "beginner-friendly",
+      "machine-learning-ai",
+      "open-ended"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1lyc27g"
+  },
+  {
+    "id": "dp-rrqre1",
+    "title": "AI Builders Hackathon",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://ai-builders-hackathon-2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-09-15",
+    "eventDate": "Aug 21 - Sep 15, 2026",
+    "prize": "$33,900",
+    "techTags": [
+      "machine-learning-ai",
+      "open-ended",
+      "beginner-friendly"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-rrqre1"
+  },
+  {
+    "id": "dp-gpu8je",
+    "title": "GatewayGS Hackathon 2 ",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://gatewaygs-hackathon-2.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-09-01",
+    "eventDate": "Sep 01 - 16, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly",
+      "machine-learning-ai",
+      "open-ended"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-gpu8je"
   }
 ]

@@ -1,65 +1,5 @@
 [
   {
-    "id": "dp-1pug720",
-    "title": "Code Vidya Hack Days",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://code-vidya-hack-days.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Kanpur Nagar UP",
-    "registrationDeadline": "2026-09-01",
-    "eventDate": "Sep 01, 2026",
-    "prize": "$0",
-    "techTags": [
-      "education"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1pug720"
-  },
-  {
-    "id": "dp-oeieey",
-    "title": "Smart City Hackathon Lahore",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://smart-city-hackathon-lahore.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Lahore Garrison University",
-    "registrationDeadline": "2026-09-01",
-    "eventDate": "Aug 19 - Sep 01, 2026",
-    "prize": "$642",
-    "techTags": [
-      "communication",
-      "design",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-oeieey"
-  },
-  {
-    "id": "dp-1o5wkur",
-    "title": "AI YES :International Youth AI Competition",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://ai-yes-competition-30441.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-01",
-    "eventDate": "Jun 17 - Sep 01, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly",
-      "education",
-      "machine-learning-ai"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1o5wkur"
-  },
-  {
     "id": "dp-1hwlpdk",
     "title": "Graphiques Innovation Challenge ",
     "organizer": "Devpost host",
@@ -67,8 +7,8 @@
     "url": "https://graphiques-challenge.devpost.com/",
     "source": "Devpost",
     "isOnline": true,
-    "registrationDeadline": "2026-09-01",
-    "eventDate": "Aug 21 - Sep 01, 2026",
+    "registrationDeadline": "2026-09-02",
+    "eventDate": "Aug 21 - Sep 02, 2026",
     "prize": "$0",
     "techTags": [
       "enterprise",
@@ -80,24 +20,46 @@
     "rawHash": "dp-1hwlpdk"
   },
   {
-    "id": "dp-ckp5ne",
-    "title": "3D Websites Hackathon",
+    "id": "dp-1cqyng0",
+    "title": "sloptic test",
     "organizer": "Devpost host",
     "category": "hackathon",
-    "url": "https://3d-websites-hackathon.devpost.com/",
+    "url": "https://sloptic-test.devpost.com/",
     "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-02",
-    "eventDate": "Jun 22 - Sep 02, 2026",
-    "prize": "$55",
+    "isOnline": false,
+    "city": "Boston, MA, USA",
+    "registrationDeadline": "2026-09-01",
+    "eventDate": "Sep 01 - 02, 2026",
+    "prize": "$0",
     "techTags": [
-      "design",
-      "web",
-      "beginner-friendly"
+      "beginner-friendly",
+      "machine-learning-ai",
+      "web"
     ],
     "status": "open",
     "confidence": "verify",
-    "rawHash": "dp-ckp5ne"
+    "rawHash": "dp-1cqyng0"
+  },
+  {
+    "id": "dp-1jcvv5b",
+    "title": "BoxLang + AI Hackathon at FIU",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://fiu-boxlang-ai-2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "FIU MMC – Innovation 1, Room 316",
+    "registrationDeadline": "2026-09-01",
+    "eventDate": "Sep 01 - 02, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly",
+      "machine-learning-ai",
+      "open-ended"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1jcvv5b"
   },
   {
     "id": "dp-6cvx76",
@@ -271,7 +233,7 @@
     "city": "BRAC University",
     "registrationDeadline": "2026-09-06",
     "eventDate": "Aug 23 - Sep 06, 2026",
-    "prize": "$250",
+    "prize": "$480",
     "techTags": [
       "machine-learning-ai",
       "open-ended",
@@ -538,5 +500,45 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-gpu8je"
+  },
+  {
+    "id": "dp-1g5s4ll",
+    "title": "COMPSPHERE 12",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://compsphere12.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-09-17",
+    "eventDate": "Aug 03 - Sep 17, 2026",
+    "prize": "$1,247",
+    "techTags": [
+      "blockchain",
+      "machine-learning-ai",
+      "cybersecurity"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1g5s4ll"
+  },
+  {
+    "id": "dp-1dvb8ch",
+    "title": "The Rice University Urban Sustainability Hackathon",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://rice-urban-sustainability.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-09-18",
+    "eventDate": "Jun 23 - Sep 18, 2026",
+    "prize": "$17,500",
+    "techTags": [
+      "design",
+      "social-good",
+      "databases"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1dvb8ch"
   }
 ]

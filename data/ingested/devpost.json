@@ -7,8 +7,8 @@
     "url": "https://graphiques-challenge.devpost.com/",
     "source": "Devpost",
     "isOnline": true,
-    "registrationDeadline": "2026-09-02",
-    "eventDate": "Aug 21 - Sep 02, 2026",
+    "registrationDeadline": "2026-09-03",
+    "eventDate": "Aug 21 - Sep 03, 2026",
     "prize": "$0",
     "techTags": [
       "enterprise",
@@ -18,48 +18,6 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1hwlpdk"
-  },
-  {
-    "id": "dp-1cqyng0",
-    "title": "sloptic test",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://sloptic-test.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Boston, MA, USA",
-    "registrationDeadline": "2026-09-01",
-    "eventDate": "Sep 01 - 02, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly",
-      "machine-learning-ai",
-      "web"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1cqyng0"
-  },
-  {
-    "id": "dp-1jcvv5b",
-    "title": "BoxLang + AI Hackathon at FIU",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://fiu-boxlang-ai-2026.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "FIU MMC – Innovation 1, Room 316",
-    "registrationDeadline": "2026-09-01",
-    "eventDate": "Sep 01 - 02, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly",
-      "machine-learning-ai",
-      "open-ended"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1jcvv5b"
   },
   {
     "id": "dp-6cvx76",
@@ -262,6 +220,27 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-w3zb7d"
+  },
+  {
+    "id": "dp-1816311",
+    "title": "DIALED IN Builder Challenge",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://dialedin.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "The Hub @ Office Logic",
+    "registrationDeadline": "2026-09-08",
+    "eventDate": "Aug 04 - Sep 08, 2026",
+    "prize": "$5,000",
+    "techTags": [
+      "ar-vr",
+      "voice-skills",
+      "beginner-friendly"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1816311"
   },
   {
     "id": "dp-15ij0lf",
@@ -540,5 +519,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1dvb8ch"
+  },
+  {
+    "id": "dp-yadiwv",
+    "title": "CAST-GNY Startup Pitch Competition 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://castgnypitch2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Fordham University School of Law",
+    "registrationDeadline": "2026-09-01",
+    "eventDate": "Sep 01 - 19, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly",
+      "enterprise",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-yadiwv"
   }
 ]

@@ -7,8 +7,8 @@
     "url": "https://graphiques-challenge.devpost.com/",
     "source": "Devpost",
     "isOnline": true,
-    "registrationDeadline": "2026-09-03",
-    "eventDate": "Aug 21 - Sep 03, 2026",
+    "registrationDeadline": "2026-09-04",
+    "eventDate": "Aug 21 - Sep 04, 2026",
     "prize": "$0",
     "techTags": [
       "enterprise",
@@ -18,106 +18,6 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1hwlpdk"
-  },
-  {
-    "id": "dp-6cvx76",
-    "title": "Build With Gemini - Creation Code",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://creation-code-30750.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Jaipur, India",
-    "registrationDeadline": "2026-09-03",
-    "eventDate": "Jul 17 - Sep 03, 2026",
-    "prize": "$0",
-    "techTags": [
-      "machine-learning-ai",
-      "open-ended"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-6cvx76"
-  },
-  {
-    "id": "dp-z7u0tq",
-    "title": "DevNetwork [API + Cloud + AI] Hackathon 2026",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://api-cloud-ai-hackathon-2026.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-03",
-    "eventDate": "Aug 17 - Sep 03, 2026",
-    "prize": "$39,500",
-    "techTags": [
-      "iot",
-      "low-no-code",
-      "machine-learning-ai"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-z7u0tq"
-  },
-  {
-    "id": "dp-1h231xl",
-    "title": "SPEED August AI Challenge",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://august-ai-challenge-31059.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-03",
-    "eventDate": "Aug 18 - Sep 03, 2026",
-    "prize": "$1,500",
-    "techTags": [
-      "beginner-friendly",
-      "design",
-      "machine-learning-ai"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1h231xl"
-  },
-  {
-    "id": "dp-7rdjs",
-    "title": "The WebMCP Challenge",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://webmcp.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-03",
-    "eventDate": "Aug 25 - Sep 03, 2026",
-    "prize": "$35,000",
-    "techTags": [
-      "machine-learning-ai",
-      "e-commerce-retail",
-      "web"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-7rdjs"
-  },
-  {
-    "id": "dp-rbx6qi",
-    "title": "TechX Rwanda Hackathon",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://techx-rwanda-hackathon.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-03",
-    "eventDate": "Aug 27 - Sep 03, 2026",
-    "prize": "$0",
-    "techTags": [
-      "cybersecurity",
-      "machine-learning-ai",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-rbx6qi"
   },
   {
     "id": "dp-o8aivb",
@@ -179,6 +79,64 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1sicu4a"
+  },
+  {
+    "id": "dp-pslhp1",
+    "title": "SMU LIT Legal-Tech Hackathon 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://smu-lit-hackathon-2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Singapore",
+    "registrationDeadline": "2026-09-03",
+    "eventDate": "Sep 03 - 06, 2026",
+    "prize": "$1,000",
+    "techTags": [
+      "machine-learning-ai"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-pslhp1"
+  },
+  {
+    "id": "dp-1xtfp7i",
+    "title": " SUEDE Designathon 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://suede-designathon-2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Wilkinson Building",
+    "registrationDeadline": "2026-09-04",
+    "eventDate": "Sep 04 - 06, 2026",
+    "prize": "$1,400",
+    "techTags": [
+      "design"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1xtfp7i"
+  },
+  {
+    "id": "dp-191w9qw",
+    "title": "Code to Connect: Women in Tech Hackathon 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://code-to-connect-wit.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-09-04",
+    "eventDate": "Sep 04 - 06, 2026",
+    "prize": "$600",
+    "techTags": [
+      "beginner-friendly",
+      "communication",
+      "gaming"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-191w9qw"
   },
   {
     "id": "dp-1nrs8oq",
@@ -540,5 +498,46 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-yadiwv"
+  },
+  {
+    "id": "dp-5uwpo1",
+    "title": "Prom Virgo Challenge",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://virgo.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-09-19",
+    "eventDate": "Aug 31 - Sep 19, 2026",
+    "prize": "$1,500",
+    "techTags": [
+      "beginner-friendly",
+      "design",
+      "machine-learning-ai"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-5uwpo1"
+  },
+  {
+    "id": "dp-pwbrju",
+    "title": "MunichTech EXPO",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://munichtech-expo.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Munich, Germany",
+    "registrationDeadline": "2026-09-01",
+    "eventDate": "Sep 01 - 20, 2026",
+    "prize": "€0",
+    "techTags": [
+      "low-no-code",
+      "machine-learning-ai",
+      "productivity"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-pwbrju"
   }
 ]

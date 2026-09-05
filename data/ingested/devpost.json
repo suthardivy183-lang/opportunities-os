@@ -1,45 +1,5 @@
 [
   {
-    "id": "dp-1hwlpdk",
-    "title": "Graphiques Innovation Challenge ",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://graphiques-challenge.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-04",
-    "eventDate": "Aug 21 - Sep 04, 2026",
-    "prize": "$0",
-    "techTags": [
-      "enterprise",
-      "fintech",
-      "productivity"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1hwlpdk"
-  },
-  {
-    "id": "dp-o8aivb",
-    "title": "Hack for Humanity | Summer 2026 (+13 non-cash prizes)",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://hack-for-humanity-summer-26.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-04",
-    "eventDate": "Aug 07 - Sep 04, 2026",
-    "prize": "$100",
-    "techTags": [
-      "beginner-friendly",
-      "health",
-      "machine-learning-ai"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-o8aivb"
-  },
-  {
     "id": "dp-1lkylru",
     "title": "Gemini Event - HackMatrix",
     "organizer": "Devpost host",
@@ -59,6 +19,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1lkylru"
+  },
+  {
+    "id": "dp-1hwlpdk",
+    "title": "Graphiques Innovation Challenge ",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://graphiques-challenge.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-09-05",
+    "eventDate": "Aug 21 - Sep 05, 2026",
+    "prize": "$0",
+    "techTags": [
+      "enterprise",
+      "fintech",
+      "productivity"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1hwlpdk"
   },
   {
     "id": "dp-1sicu4a",
@@ -81,25 +61,6 @@
     "rawHash": "dp-1sicu4a"
   },
   {
-    "id": "dp-pslhp1",
-    "title": "SMU LIT Legal-Tech Hackathon 2026",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://smu-lit-hackathon-2026.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Singapore",
-    "registrationDeadline": "2026-09-03",
-    "eventDate": "Sep 03 - 06, 2026",
-    "prize": "$1,000",
-    "techTags": [
-      "machine-learning-ai"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-pslhp1"
-  },
-  {
     "id": "dp-1xtfp7i",
     "title": " SUEDE Designathon 2026",
     "organizer": "Devpost host",
@@ -117,6 +78,25 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1xtfp7i"
+  },
+  {
+    "id": "dp-pslhp1",
+    "title": "SMU LIT Legal-Tech Hackathon 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://smu-lit-hackathon-2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Singapore",
+    "registrationDeadline": "2026-09-03",
+    "eventDate": "Sep 03 - 06, 2026",
+    "prize": "$1,000",
+    "techTags": [
+      "machine-learning-ai"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-pslhp1"
   },
   {
     "id": "dp-191w9qw",
@@ -158,6 +138,45 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1nrs8oq"
+  },
+  {
+    "id": "dp-6rzf1s",
+    "title": "Coppell hackathon 1",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://fintech-hackothon-1.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-09-04",
+    "eventDate": "Sep 04 - 06, 2026",
+    "prize": "$0",
+    "techTags": [
+      "fintech"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-6rzf1s"
+  },
+  {
+    "id": "dp-nx5h96",
+    "title": "Global Psyops Hackathon",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://global-psyops-hackathon.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Distribution Hall",
+    "registrationDeadline": "2026-09-04",
+    "eventDate": "Sep 04 - 07, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly",
+      "low-no-code",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-nx5h96"
   },
   {
     "id": "dp-w3zb7d",
@@ -368,7 +387,7 @@
     "isOnline": true,
     "registrationDeadline": "2026-09-14",
     "eventDate": "Aug 25 - Sep 14, 2026",
-    "prize": "$710",
+    "prize": "$1,710",
     "techTags": [
       "iot",
       "machine-learning-ai",
@@ -498,26 +517,6 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-yadiwv"
-  },
-  {
-    "id": "dp-5uwpo1",
-    "title": "Prom Virgo Challenge",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://virgo.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-19",
-    "eventDate": "Aug 31 - Sep 19, 2026",
-    "prize": "$1,500",
-    "techTags": [
-      "beginner-friendly",
-      "design",
-      "machine-learning-ai"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-5uwpo1"
   },
   {
     "id": "dp-pwbrju",

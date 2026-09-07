@@ -1,205 +1,5 @@
 [
   {
-    "id": "dp-191w9qw",
-    "title": "Code to Connect: Women in Tech Hackathon 2026",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://code-to-connect-wit.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-04",
-    "eventDate": "Sep 04 - 06, 2026",
-    "prize": "$600",
-    "techTags": [
-      "beginner-friendly",
-      "communication",
-      "gaming"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-191w9qw"
-  },
-  {
-    "id": "dp-12vund1",
-    "title": "MYHack: ISNA 2026 ",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://myhack-isna.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Detroit, MI, USA",
-    "registrationDeadline": "2026-09-05",
-    "eventDate": "Sep 05 - 06, 2026",
-    "prize": "$500",
-    "techTags": [
-      "machine-learning-ai",
-      "open-ended",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-12vund1"
-  },
-  {
-    "id": "dp-ch55bu",
-    "title": "MuslimHacks",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://muslimhacks.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": " Concordia University — JMSB",
-    "registrationDeadline": "2026-09-06",
-    "eventDate": "Sep 06, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly",
-      "open-ended",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-ch55bu"
-  },
-  {
-    "id": "dp-1nrs8oq",
-    "title": "Agentic Hackathon",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://agentic-hackathon.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "BRAC University",
-    "registrationDeadline": "2026-09-06",
-    "eventDate": "Aug 23 - Sep 06, 2026",
-    "prize": "$480",
-    "techTags": [
-      "machine-learning-ai",
-      "open-ended",
-      "web"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1nrs8oq"
-  },
-  {
-    "id": "dp-y6jrga",
-    "title": "CodeBox Hacks",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://codebox-hacks.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Cal Poly Advanced Technology Lab",
-    "registrationDeadline": "2026-09-05",
-    "eventDate": "Sep 05 - 06, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly",
-      "education",
-      "machine-learning-ai"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-y6jrga"
-  },
-  {
-    "id": "dp-gi6kj1",
-    "title": "test-event",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://cv-test-hackathon.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "San Francisco, CA, USA",
-    "registrationDeadline": "2026-09-06",
-    "eventDate": "Sep 06, 2026",
-    "prize": "$987",
-    "techTags": [
-      "machine-learning-ai"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-gi6kj1"
-  },
-  {
-    "id": "dp-1hwlpdk",
-    "title": "Graphiques Innovation Challenge ",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://graphiques-challenge.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-06",
-    "eventDate": "Aug 21 - Sep 06, 2026",
-    "prize": "$0",
-    "techTags": [
-      "enterprise",
-      "fintech",
-      "productivity"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1hwlpdk"
-  },
-  {
-    "id": "dp-1m3azik",
-    "title": "EmP Hackfest Summer 2026",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://emp-hackfest-summer-2026.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "DigiPen Institute of Technology",
-    "registrationDeadline": "2026-09-05",
-    "eventDate": "Sep 05 - 06, 2026",
-    "prize": "$720",
-    "techTags": [
-      "beginner-friendly"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1m3azik"
-  },
-  {
-    "id": "dp-7j5okm",
-    "title": "Syndicate by Maximor",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://syndicate-by-maximor.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-05",
-    "eventDate": "Sep 05 - 06, 2026",
-    "prize": "$3,000",
-    "techTags": [
-      "beginner-friendly",
-      "fintech",
-      "open-ended"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-7j5okm"
-  },
-  {
-    "id": "dp-6rzf1s",
-    "title": "Coppell hackathon 1",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://fintech-hackothon-1.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-04",
-    "eventDate": "Sep 04 - 06, 2026",
-    "prize": "$0",
-    "techTags": [
-      "fintech"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-6rzf1s"
-  },
-  {
     "id": "dp-nx5h96",
     "title": "Global Psyops Hackathon",
     "organizer": "Devpost host",
@@ -219,6 +19,46 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-nx5h96"
+  },
+  {
+    "id": "dp-1hwlpdk",
+    "title": "Graphiques Innovation Challenge ",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://graphiques-challenge.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-09-07",
+    "eventDate": "Aug 21 - Sep 07, 2026",
+    "prize": "$0",
+    "techTags": [
+      "enterprise",
+      "fintech",
+      "productivity"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1hwlpdk"
+  },
+  {
+    "id": "dp-16hnt6i",
+    "title": "CloudHacks 2026 Singapore",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://cloudhacks-2026-singapore.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Lorong AI @ one-north",
+    "registrationDeadline": "2026-09-07",
+    "eventDate": "Sep 07, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly",
+      "open-ended"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-16hnt6i"
   },
   {
     "id": "dp-w3zb7d",
@@ -262,26 +102,6 @@
     "rawHash": "dp-1816311"
   },
   {
-    "id": "dp-ja51ma",
-    "title": "Hack The Weather",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://hack-the-weather.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-05",
-    "eventDate": "Sep 05 - 09, 2026",
-    "prize": "$300",
-    "techTags": [
-      "machine-learning-ai",
-      "open-ended",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-ja51ma"
-  },
-  {
     "id": "dp-15ij0lf",
     "title": "Agentic Cinema: The Blockbuster Hackathon",
     "organizer": "Devpost host",
@@ -300,6 +120,27 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-15ij0lf"
+  },
+  {
+    "id": "dp-18794gq",
+    "title": "UPAI-Hackdays",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://upai-hackdays.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Virtual",
+    "registrationDeadline": "2026-09-07",
+    "eventDate": "Sep 07 - 10, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly",
+      "blockchain",
+      "open-ended"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-18794gq"
   },
   {
     "id": "dp-732vhi",
@@ -358,6 +199,27 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1qlv30a"
+  },
+  {
+    "id": "dp-1bpj6v2",
+    "title": "Gen Agra",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://gen-agra.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Agra-Delhi Highway, Keetham, Agra",
+    "registrationDeadline": "2026-09-07",
+    "eventDate": "Sep 07 - 12, 2026",
+    "prize": "₹ 0",
+    "techTags": [
+      "education",
+      "machine-learning-ai",
+      "web"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1bpj6v2"
   },
   {
     "id": "dp-1d0la3v",
@@ -539,5 +401,146 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-rrqre1"
+  },
+  {
+    "id": "dp-gpu8je",
+    "title": "GatewayGS Hackathon 2 ",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://gatewaygs-hackathon-2.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-09-01",
+    "eventDate": "Sep 01 - 16, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly",
+      "machine-learning-ai",
+      "open-ended"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-gpu8je"
+  },
+  {
+    "id": "dp-1g5s4ll",
+    "title": "COMPSPHERE 12",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://compsphere12.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-09-17",
+    "eventDate": "Aug 03 - Sep 17, 2026",
+    "prize": "$1,247",
+    "techTags": [
+      "blockchain",
+      "machine-learning-ai",
+      "cybersecurity"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1g5s4ll"
+  },
+  {
+    "id": "dp-1dvb8ch",
+    "title": "The Rice University Urban Sustainability Hackathon",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://rice-urban-sustainability.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-09-18",
+    "eventDate": "Jun 23 - Sep 18, 2026",
+    "prize": "$17,500",
+    "techTags": [
+      "design",
+      "social-good",
+      "databases"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1dvb8ch"
+  },
+  {
+    "id": "dp-yadiwv",
+    "title": "CAST-GNY Startup Pitch Competition 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://castgnypitch2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Fordham University School of Law",
+    "registrationDeadline": "2026-09-01",
+    "eventDate": "Sep 01 - 19, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly",
+      "enterprise",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-yadiwv"
+  },
+  {
+    "id": "dp-pwbrju",
+    "title": "MunichTech EXPO",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://munichtech-expo.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Munich, Germany",
+    "registrationDeadline": "2026-09-01",
+    "eventDate": "Sep 01 - 20, 2026",
+    "prize": "€0",
+    "techTags": [
+      "low-no-code",
+      "machine-learning-ai",
+      "productivity"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-pwbrju"
+  },
+  {
+    "id": "dp-1t2yt4z",
+    "title": "YC Fall 2026 x Moss: The Zero Latency Builder Sprint",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://yc-fall-2026-x-moss.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Bengaluru, India",
+    "registrationDeadline": "2026-09-06",
+    "eventDate": "Sep 06 - 20, 2026",
+    "prize": "₹ 50,000",
+    "techTags": [
+      "machine-learning-ai"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1t2yt4z"
+  },
+  {
+    "id": "dp-nrbowc",
+    "title": "Evorozen Apex: NextGen AI Buildathon",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://evorozen-apex.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-09-20",
+    "eventDate": "Jul 17 - Sep 20, 2026",
+    "prize": "$0",
+    "techTags": [
+      "databases",
+      "machine-learning-ai",
+      "web"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-nrbowc"
   }
 ]

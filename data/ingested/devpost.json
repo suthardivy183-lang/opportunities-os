@@ -1,104 +1,5 @@
 [
   {
-    "id": "dp-w3zb7d",
-    "title": "AI Content Engine Hackathon",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://ai-content-engine-hacks.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-01",
-    "eventDate": "Sep 01 - 08, 2026",
-    "prize": "$2,000",
-    "techTags": [
-      "beginner-friendly",
-      "machine-learning-ai",
-      "open-ended"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-w3zb7d"
-  },
-  {
-    "id": "dp-1hwlpdk",
-    "title": "Graphiques Innovation Challenge ",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://graphiques-challenge.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-08",
-    "eventDate": "Aug 21 - Sep 08, 2026",
-    "prize": "$0",
-    "techTags": [
-      "enterprise",
-      "fintech",
-      "productivity"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1hwlpdk"
-  },
-  {
-    "id": "dp-1816311",
-    "title": "DIALED IN Builder Challenge",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://dialedin.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "The Hub @ Office Logic",
-    "registrationDeadline": "2026-09-08",
-    "eventDate": "Aug 04 - Sep 08, 2026",
-    "prize": "$5,000",
-    "techTags": [
-      "ar-vr",
-      "voice-skills",
-      "beginner-friendly"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1816311"
-  },
-  {
-    "id": "dp-1f7085c",
-    "title": "Codebox Hacks Makeup",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://codebox-hacks-makeup.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-07",
-    "eventDate": "Sep 07 - 09, 2026",
-    "prize": "$0",
-    "techTags": [
-      "design",
-      "education",
-      "machine-learning-ai"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1f7085c"
-  },
-  {
-    "id": "dp-mmttck",
-    "title": "drwwtest",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://test-31278ff.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-08",
-    "eventDate": "Sep 08 - 09, 2026",
-    "prize": "$0",
-    "techTags": [
-      "machine-learning-ai"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-mmttck"
-  },
-  {
     "id": "dp-15ij0lf",
     "title": "Agentic Cinema: The Blockbuster Hackathon",
     "organizer": "Devpost host",
@@ -280,26 +181,6 @@
     "rawHash": "dp-9dxqe6"
   },
   {
-    "id": "dp-1xibr3a",
-    "title": "NextStep Hacks 2026",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://nextstep2026.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-13",
-    "eventDate": "Aug 21 - Sep 13, 2026",
-    "prize": "$1,750",
-    "techTags": [
-      "beginner-friendly",
-      "machine-learning-ai",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1xibr3a"
-  },
-  {
     "id": "dp-1sicu4a",
     "title": "VoltHacks",
     "organizer": "Devpost host",
@@ -318,6 +199,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1sicu4a"
+  },
+  {
+    "id": "dp-1xibr3a",
+    "title": "NextStep Hacks 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://nextstep2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-09-13",
+    "eventDate": "Aug 21 - Sep 13, 2026",
+    "prize": "$1,750",
+    "techTags": [
+      "beginner-friendly",
+      "machine-learning-ai",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1xibr3a"
   },
   {
     "id": "dp-njotpq",
@@ -460,6 +361,24 @@
     "rawHash": "dp-1dvb8ch"
   },
   {
+    "id": "dp-1wsoqfu",
+    "title": "DFA Design Sprint",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://dfa-kickoff.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-09-08",
+    "eventDate": "Sep 08 - 19, 2026",
+    "prize": "$0",
+    "techTags": [
+      "design"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1wsoqfu"
+  },
+  {
     "id": "dp-yadiwv",
     "title": "CAST-GNY Startup Pitch Competition 2026",
     "organizer": "Devpost host",
@@ -539,5 +458,85 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-nrbowc"
+  },
+  {
+    "id": "dp-31u7lt",
+    "title": "BunnieX Hackathon",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://buuniex-hackathon.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-09-22",
+    "eventDate": "Jun 22 - Sep 22, 2026",
+    "prize": "$0",
+    "techTags": [
+      "machine-learning-ai",
+      "open-ended",
+      "productivity"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-31u7lt"
+  },
+  {
+    "id": "dp-1lw6d7x",
+    "title": "Practice to Create [Feedback To All Projects!]",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://practicetocreate.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-09-03",
+    "eventDate": "Sep 03 - 25, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly",
+      "low-no-code",
+      "open-ended"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1lw6d7x"
+  },
+  {
+    "id": "dp-iwx52y",
+    "title": "Zero Origin",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://zero-origin.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-09-26",
+    "eventDate": "Aug 27 - Sep 26, 2026",
+    "prize": "₹ 2,500",
+    "techTags": [
+      "fintech",
+      "machine-learning-ai",
+      "beginner-friendly"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-iwx52y"
+  },
+  {
+    "id": "dp-kta2qm",
+    "title": "3rd-Web-Hack",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://3rd-web-hack.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-09-27",
+    "eventDate": "Aug 22 - Sep 27, 2026",
+    "prize": "$750",
+    "techTags": [
+      "blockchain",
+      "open-ended",
+      "web"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-kta2qm"
   }
 ]

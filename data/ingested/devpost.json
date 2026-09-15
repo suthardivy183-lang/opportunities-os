@@ -1,85 +1,5 @@
 [
   {
-    "id": "dp-njotpq",
-    "title": "CALL-E: Your Code Is Calling",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://call-e.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-14",
-    "eventDate": "Jul 23 - Sep 14, 2026",
-    "prize": "$10,000",
-    "techTags": [
-      "communication",
-      "enterprise",
-      "machine-learning-ai"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-njotpq"
-  },
-  {
-    "id": "dp-1hwlpdk",
-    "title": "Graphiques Innovation Challenge ",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://graphiques-challenge.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-14",
-    "eventDate": "Aug 21 - Sep 14, 2026",
-    "prize": "$0",
-    "techTags": [
-      "enterprise",
-      "fintech",
-      "productivity"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1hwlpdk"
-  },
-  {
-    "id": "dp-1ckfppj",
-    "title": "Hyperbloom September - AI/ML",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://hyperbloom-september.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-14",
-    "eventDate": "Aug 25 - Sep 14, 2026",
-    "prize": "$1,710",
-    "techTags": [
-      "iot",
-      "machine-learning-ai",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1ckfppj"
-  },
-  {
-    "id": "dp-1lyc27g",
-    "title": "Agents for Humans Hackathon",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://agentsforhumans.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-14",
-    "eventDate": "Aug 10 - Sep 14, 2026",
-    "prize": "$40,000",
-    "techTags": [
-      "beginner-friendly",
-      "machine-learning-ai",
-      "open-ended"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1lyc27g"
-  },
-  {
     "id": "dp-rrqre1",
     "title": "AI Builders Hackathon",
     "organizer": "Devpost host",
@@ -98,6 +18,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-rrqre1"
+  },
+  {
+    "id": "dp-1hwlpdk",
+    "title": "Graphiques Innovation Challenge ",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://graphiques-challenge.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-09-16",
+    "eventDate": "Aug 21 - Sep 16, 2026",
+    "prize": "$0",
+    "techTags": [
+      "enterprise",
+      "fintech",
+      "productivity"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1hwlpdk"
   },
   {
     "id": "dp-gpu8je",
@@ -239,25 +179,25 @@
     "rawHash": "dp-1wsoqfu"
   },
   {
-    "id": "dp-yadiwv",
-    "title": "CAST-GNY Startup Pitch Competition 2026",
+    "id": "dp-oeieey",
+    "title": "Smart City Hackathon Lahore",
     "organizer": "Devpost host",
     "category": "hackathon",
-    "url": "https://castgnypitch2026.devpost.com/",
+    "url": "https://smart-city-hackathon-lahore.devpost.com/",
     "source": "Devpost",
     "isOnline": false,
-    "city": "Fordham University School of Law",
-    "registrationDeadline": "2026-09-01",
-    "eventDate": "Sep 01 - 19, 2026",
-    "prize": "$0",
+    "city": "Lahore Garrison University",
+    "registrationDeadline": "2026-09-19",
+    "eventDate": "Aug 19 - Sep 19, 2026",
+    "prize": "$642",
     "techTags": [
-      "beginner-friendly",
-      "enterprise",
+      "communication",
+      "design",
       "social-good"
     ],
     "status": "open",
     "confidence": "verify",
-    "rawHash": "dp-yadiwv"
+    "rawHash": "dp-oeieey"
   },
   {
     "id": "dp-42wx1i",
@@ -278,6 +218,27 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-42wx1i"
+  },
+  {
+    "id": "dp-yadiwv",
+    "title": "CAST-GNY Startup Pitch Competition 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://castgnypitch2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Fordham University School of Law",
+    "registrationDeadline": "2026-09-01",
+    "eventDate": "Sep 01 - 19, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly",
+      "enterprise",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-yadiwv"
   },
   {
     "id": "dp-pwbrju",
@@ -420,6 +381,26 @@
     "rawHash": "dp-1lw6d7x"
   },
   {
+    "id": "dp-vrlpbs",
+    "title": "InfinityX Global Hackathon 2K26",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://infinityx-2k26.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-09-15",
+    "eventDate": "Sep 15 - 25, 2026",
+    "prize": "$0",
+    "techTags": [
+      "machine-learning-ai",
+      "open-ended",
+      "web"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-vrlpbs"
+  },
+  {
     "id": "dp-iwx52y",
     "title": "Zero Origin",
     "organizer": "Devpost host",
@@ -538,5 +519,25 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1fymco2"
+  },
+  {
+    "id": "dp-15fwb4m",
+    "title": "OneAquaHealth IEEE Global Hackathon",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://oneaquahealth-ieee-hackathon.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-10-01",
+    "eventDate": "Sep 14 - Oct 01, 2026",
+    "prize": "$3,500",
+    "techTags": [
+      "health",
+      "machine-learning-ai",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-15fwb4m"
   }
 ]

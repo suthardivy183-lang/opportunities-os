@@ -1,25 +1,5 @@
 [
   {
-    "id": "dp-rrqre1",
-    "title": "AI Builders Hackathon",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://ai-builders-hackathon-2026.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-15",
-    "eventDate": "Aug 21 - Sep 15, 2026",
-    "prize": "$33,900",
-    "techTags": [
-      "machine-learning-ai",
-      "open-ended",
-      "beginner-friendly"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-rrqre1"
-  },
-  {
     "id": "dp-1hwlpdk",
     "title": "Graphiques Innovation Challenge ",
     "organizer": "Devpost host",
@@ -58,26 +38,6 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-gpu8je"
-  },
-  {
-    "id": "dp-etkf9m",
-    "title": "TechCommons Hacks V2 - Hacks to Inspire",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://techcommons-hacks-v2.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-10",
-    "eventDate": "Sep 10 - 17, 2026",
-    "prize": "$29,900",
-    "techTags": [
-      "beginner-friendly",
-      "machine-learning-ai",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-etkf9m"
   },
   {
     "id": "dp-1g5s4ll",
@@ -159,6 +119,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-732vhi"
+  },
+  {
+    "id": "dp-etkf9m",
+    "title": "TechCommons Hacks V2 - Hacks to Inspire",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://techcommons-hacks-v2.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-09-10",
+    "eventDate": "Sep 10 - 18, 2026",
+    "prize": "$29,900",
+    "techTags": [
+      "beginner-friendly",
+      "machine-learning-ai",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-etkf9m"
   },
   {
     "id": "dp-1wsoqfu",
@@ -499,6 +479,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1dwoo8r"
+  },
+  {
+    "id": "dp-1r62pxb",
+    "title": "305 HackShells Edition September 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://305hackshellssep2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-09-15",
+    "eventDate": "Sep 15 - 30, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly",
+      "cybersecurity",
+      "education"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1r62pxb"
   },
   {
     "id": "dp-1fymco2",

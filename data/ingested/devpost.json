@@ -1,45 +1,5 @@
 [
   {
-    "id": "dp-1hwlpdk",
-    "title": "Graphiques Innovation Challenge ",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://graphiques-challenge.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-16",
-    "eventDate": "Aug 21 - Sep 16, 2026",
-    "prize": "$0",
-    "techTags": [
-      "enterprise",
-      "fintech",
-      "productivity"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1hwlpdk"
-  },
-  {
-    "id": "dp-gpu8je",
-    "title": "GatewayGS Hackathon 2 ",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://gatewaygs-hackathon-2.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-01",
-    "eventDate": "Sep 01 - 16, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly",
-      "machine-learning-ai",
-      "open-ended"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-gpu8je"
-  },
-  {
     "id": "dp-1g5s4ll",
     "title": "COMPSPHERE 12",
     "organizer": "Devpost host",
@@ -141,6 +101,26 @@
     "rawHash": "dp-etkf9m"
   },
   {
+    "id": "dp-1hwlpdk",
+    "title": "Graphiques Innovation Challenge ",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://graphiques-challenge.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-09-18",
+    "eventDate": "Aug 21 - Sep 18, 2026",
+    "prize": "$0",
+    "techTags": [
+      "enterprise",
+      "fintech",
+      "productivity"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1hwlpdk"
+  },
+  {
     "id": "dp-1wsoqfu",
     "title": "DFA Design Sprint",
     "organizer": "Devpost host",
@@ -178,26 +158,6 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-oeieey"
-  },
-  {
-    "id": "dp-42wx1i",
-    "title": "STEMinate Wildcard Hack",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://steminate-texas-wildcard-hack.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-12",
-    "eventDate": "Sep 12 - 19, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly",
-      "design",
-      "open-ended"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-42wx1i"
   },
   {
     "id": "dp-yadiwv",
@@ -279,6 +239,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-nrbowc"
+  },
+  {
+    "id": "dp-42wx1i",
+    "title": "STEMinate Wildcard Hack",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://steminate-texas-wildcard-hack.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-09-12",
+    "eventDate": "Sep 12 - 20, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly",
+      "design",
+      "open-ended"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-42wx1i"
   },
   {
     "id": "dp-1xibr3a",
@@ -539,5 +519,25 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-15fwb4m"
+  },
+  {
+    "id": "dp-wxlq2e",
+    "title": "RevenueCat Shipaton 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://revenuecat-shipaton-2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-10-01",
+    "eventDate": "Jul 31 - Oct 01, 2026",
+    "prize": "$740,000",
+    "techTags": [
+      "design",
+      "gaming",
+      "mobile"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-wxlq2e"
   }
 ]

@@ -7,8 +7,8 @@
     "url": "https://compsphere12.devpost.com/",
     "source": "Devpost",
     "isOnline": true,
-    "registrationDeadline": "2026-09-17",
-    "eventDate": "Aug 03 - Sep 17, 2026",
+    "registrationDeadline": "2026-09-18",
+    "eventDate": "Aug 03 - Sep 18, 2026",
     "prize": "$1,247",
     "techTags": [
       "blockchain",
@@ -18,47 +18,6 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1g5s4ll"
-  },
-  {
-    "id": "dp-1ngbg5k",
-    "title": "Poly.Tech mini hackathon",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://poly-tech-mini-hackathon-31322.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Baltimore, MD, USA",
-    "registrationDeadline": "2026-09-11",
-    "eventDate": "Sep 11 - 17, 2026",
-    "prize": "$50",
-    "techTags": [
-      "beginner-friendly",
-      "education",
-      "gaming"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1ngbg5k"
-  },
-  {
-    "id": "dp-1dvb8ch",
-    "title": "The Rice University Urban Sustainability Hackathon",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://rice-urban-sustainability.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-18",
-    "eventDate": "Jun 23 - Sep 18, 2026",
-    "prize": "$17,500",
-    "techTags": [
-      "design",
-      "social-good",
-      "databases"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1dvb8ch"
   },
   {
     "id": "dp-732vhi",
@@ -202,6 +161,25 @@
     "rawHash": "dp-pwbrju"
   },
   {
+    "id": "dp-js3l3u",
+    "title": "ACM Marketsphere 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://acm-marketsphere-2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-09-17",
+    "eventDate": "Sep 17 - 20, 2026",
+    "prize": "₹ 20,000",
+    "techTags": [
+      "enterprise",
+      "fintech"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-js3l3u"
+  },
+  {
     "id": "dp-1t2yt4z",
     "title": "YC Fall 2026 x Moss: The Zero Latency Builder Sprint",
     "organizer": "Devpost host",
@@ -321,6 +299,27 @@
     "rawHash": "dp-vorjth"
   },
   {
+    "id": "dp-1ngbg5k",
+    "title": "Poly.Tech mini hackathon",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://poly-tech-mini-hackathon-31322.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Baltimore, MD, USA",
+    "registrationDeadline": "2026-09-11",
+    "eventDate": "Sep 11 - 24, 2026",
+    "prize": "$50",
+    "techTags": [
+      "beginner-friendly",
+      "education",
+      "gaming"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1ngbg5k"
+  },
+  {
     "id": "dp-1lw6d7x",
     "title": "Practice to Create [Feedback To All Projects!]",
     "organizer": "Devpost host",
@@ -410,7 +409,7 @@
     "isOnline": true,
     "registrationDeadline": "2026-09-11",
     "eventDate": "Sep 11 - 27, 2026",
-    "prize": "$59,560",
+    "prize": "$74,248",
     "techTags": [
       "beginner-friendly",
       "low-no-code",
@@ -461,26 +460,6 @@
     "rawHash": "dp-1dwoo8r"
   },
   {
-    "id": "dp-1r62pxb",
-    "title": "305 HackShells Edition September 2026",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://305hackshellssep2026.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-15",
-    "eventDate": "Sep 15 - 30, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly",
-      "cybersecurity",
-      "education"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1r62pxb"
-  },
-  {
     "id": "dp-1fymco2",
     "title": "Next Byte Hacks: V4",
     "organizer": "Devpost host",
@@ -499,6 +478,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1fymco2"
+  },
+  {
+    "id": "dp-1r62pxb",
+    "title": "305 HackShells Edition September 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://305hackshellssep2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-09-15",
+    "eventDate": "Sep 15 - 30, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly",
+      "cybersecurity",
+      "education"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1r62pxb"
   },
   {
     "id": "dp-15fwb4m",

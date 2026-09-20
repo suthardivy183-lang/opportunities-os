@@ -1,166 +1,24 @@
 [
   {
-    "id": "dp-1lbu83e",
-    "title": "Gotong Royong Hackathon",
+    "id": "dp-47l9zm",
+    "title": "VTHacks 14",
     "organizer": "Devpost host",
     "category": "hackathon",
-    "url": "https://gotong-royong-hackathon.devpost.com/",
+    "url": "https://vthacks-14.devpost.com/",
     "source": "Devpost",
     "isOnline": false,
-    "city": "Cleo Hotels Surabaya",
-    "registrationDeadline": "2026-09-19",
-    "eventDate": "Sep 19, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly",
-      "productivity",
-      "web"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1lbu83e"
-  },
-  {
-    "id": "dp-oeieey",
-    "title": "Smart City Hackathon Lahore",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://smart-city-hackathon-lahore.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Lahore Garrison University",
-    "registrationDeadline": "2026-09-19",
-    "eventDate": "Aug 19 - Sep 19, 2026",
-    "prize": "$642",
-    "techTags": [
-      "communication",
-      "design",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-oeieey"
-  },
-  {
-    "id": "dp-gnp7b4",
-    "title": "HackHERS 2026",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://gwc-hackhers-2026.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Georgia State University-College of Law",
-    "registrationDeadline": "2026-09-18",
-    "eventDate": "Sep 18 - 19, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly",
-      "design",
-      "web"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-gnp7b4"
-  },
-  {
-    "id": "dp-1c9stqo",
-    "title": "Expand your Agents' Horizons - Build with K2 Horizon",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://mdshacks.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-18",
-    "eventDate": "Sep 18 - 19, 2026",
-    "prize": "$0",
-    "techTags": [
-      "education",
-      "machine-learning-ai"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1c9stqo"
-  },
-  {
-    "id": "dp-faxqhe",
-    "title": "Bay Hacks",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://bayhacks-2026.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "USF Hall of Flags",
-    "registrationDeadline": "2026-09-18",
-    "eventDate": "Sep 18 - 19, 2026",
-    "prize": "$1,500",
-    "techTags": [
-      "beginner-friendly",
-      "machine-learning-ai",
-      "health"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-faxqhe"
-  },
-  {
-    "id": "dp-1xvj0dm",
-    "title": "General Learning Hacks",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://general-learning-hacks.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "3/F Lee Garden 3, Causeway Bay",
-    "registrationDeadline": "2026-09-18",
-    "eventDate": "Sep 18 - 19, 2026",
-    "prize": "$25,000",
-    "techTags": [
-      "education"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1xvj0dm"
-  },
-  {
-    "id": "dp-yadiwv",
-    "title": "CAST-GNY Startup Pitch Competition 2026",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://castgnypitch2026.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Fordham University School of Law",
-    "registrationDeadline": "2026-09-01",
-    "eventDate": "Sep 01 - 19, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly",
-      "enterprise",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-yadiwv"
-  },
-  {
-    "id": "dp-133zwhi",
-    "title": "Databricks Hackathon @ Queens College 2026",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://databricks-hackathon-2026.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
+    "city": "Blacksburg, VA",
     "registrationDeadline": "2026-09-18",
     "eventDate": "Sep 18 - 20, 2026",
-    "prize": "$0",
+    "prize": "$6,000",
     "techTags": [
       "beginner-friendly",
-      "machine-learning-ai",
+      "open-ended",
       "social-good"
     ],
     "status": "open",
     "confidence": "verify",
-    "rawHash": "dp-133zwhi"
+    "rawHash": "dp-47l9zm"
   },
   {
     "id": "dp-6nw1fn",
@@ -197,32 +55,31 @@
     "techTags": [
       "social-good",
       "gaming",
-      "machine-learning-ai"
+      "health"
     ],
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-17mcx4q"
   },
   {
-    "id": "dp-47l9zm",
-    "title": "VTHacks 14",
+    "id": "dp-fwqp8f",
+    "title": "TLN Hackathon 2026",
     "organizer": "Devpost host",
     "category": "hackathon",
-    "url": "https://vthacks-14.devpost.com/",
+    "url": "https://tln-cybersecurity-challenge.devpost.com/",
     "source": "Devpost",
-    "isOnline": false,
-    "city": "Blacksburg, VA",
-    "registrationDeadline": "2026-09-18",
-    "eventDate": "Sep 18 - 20, 2026",
-    "prize": "$0",
+    "isOnline": true,
+    "registrationDeadline": "2026-09-19",
+    "eventDate": "Sep 19 - 20, 2026",
+    "prize": "$207,193",
     "techTags": [
       "beginner-friendly",
-      "open-ended",
-      "social-good"
+      "cybersecurity",
+      "machine-learning-ai"
     ],
     "status": "open",
     "confidence": "verify",
-    "rawHash": "dp-47l9zm"
+    "rawHash": "dp-fwqp8f"
   },
   {
     "id": "dp-pwbrju",
@@ -246,6 +103,47 @@
     "rawHash": "dp-pwbrju"
   },
   {
+    "id": "dp-bomvrd",
+    "title": "SteelHacks XIII",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://steelhacksxiii.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "University of Pittsburgh - Posvar Hall ",
+    "registrationDeadline": "2026-09-19",
+    "eventDate": "Sep 19 - 20, 2026",
+    "prize": "$0",
+    "techTags": [
+      "open-ended",
+      "beginner-friendly"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-bomvrd"
+  },
+  {
+    "id": "dp-1l7r5ek",
+    "title": "CuseHacks 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://cusehacks-2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Life Sciences Atrium",
+    "registrationDeadline": "2026-09-19",
+    "eventDate": "Sep 19 - 20, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly",
+      "low-no-code",
+      "open-ended"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1l7r5ek"
+  },
+  {
     "id": "dp-1dwyi8o",
     "title": "Health in Climate 2026 NYC Hackathon",
     "organizer": "Devpost host",
@@ -256,7 +154,7 @@
     "city": "New York, NY, USA",
     "registrationDeadline": "2026-09-19",
     "eventDate": "Sep 19 - 20, 2026",
-    "prize": "$1",
+    "prize": "$5,000",
     "techTags": [
       "beginner-friendly",
       "health",
@@ -305,24 +203,24 @@
     "rawHash": "dp-js3l3u"
   },
   {
-    "id": "dp-42wx1i",
-    "title": "STEMinate Wildcard Hack",
+    "id": "dp-bj2kj2",
+    "title": "Alpaca x Conviction Trading Hackathon",
     "organizer": "Devpost host",
     "category": "hackathon",
-    "url": "https://steminate-texas-wildcard-hack.devpost.com/",
+    "url": "https://conviction-trading-hack.devpost.com/",
     "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-12",
-    "eventDate": "Sep 12 - 20, 2026",
-    "prize": "$0",
+    "isOnline": false,
+    "city": "Frontier Tower",
+    "registrationDeadline": "2026-09-20",
+    "eventDate": "Sep 20, 2026",
+    "prize": "$2,000",
     "techTags": [
-      "beginner-friendly",
-      "design",
-      "open-ended"
+      "fintech",
+      "machine-learning-ai"
     ],
     "status": "open",
     "confidence": "verify",
-    "rawHash": "dp-42wx1i"
+    "rawHash": "dp-bj2kj2"
   },
   {
     "id": "dp-1hwlpdk",
@@ -343,6 +241,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1hwlpdk"
+  },
+  {
+    "id": "dp-42wx1i",
+    "title": "STEMinate Wildcard Hack",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://steminate-texas-wildcard-hack.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-09-12",
+    "eventDate": "Sep 12 - 20, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly",
+      "design",
+      "open-ended"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-42wx1i"
   },
   {
     "id": "dp-1xibr3a",
@@ -425,27 +343,6 @@
     "rawHash": "dp-tyc28q"
   },
   {
-    "id": "dp-t6qe6o",
-    "title": "Bharat Innovation Challenge 2.0",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://bic.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Lovely Professional University",
-    "registrationDeadline": "2026-09-18",
-    "eventDate": "Sep 18 - 21, 2026",
-    "prize": "$10,600",
-    "techTags": [
-      "beginner-friendly",
-      "communication",
-      "education"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-t6qe6o"
-  },
-  {
     "id": "dp-31u7lt",
     "title": "BunnieX Hackathon",
     "organizer": "Devpost host",
@@ -484,6 +381,27 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1g5s4ll"
+  },
+  {
+    "id": "dp-t6qe6o",
+    "title": "Bharat Innovation Challenge 2.0",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://bic.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Lovely Professional University",
+    "registrationDeadline": "2026-09-18",
+    "eventDate": "Sep 18 - 22, 2026",
+    "prize": "$10,600",
+    "techTags": [
+      "beginner-friendly",
+      "communication",
+      "education"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-t6qe6o"
   },
   {
     "id": "dp-vorjth",
@@ -545,5 +463,85 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1lw6d7x"
+  },
+  {
+    "id": "dp-vrlpbs",
+    "title": "InfinityX Global Hackathon 2K26",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://infinityx-2k26.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-09-15",
+    "eventDate": "Sep 15 - 25, 2026",
+    "prize": "$0",
+    "techTags": [
+      "machine-learning-ai",
+      "open-ended",
+      "web"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-vrlpbs"
+  },
+  {
+    "id": "dp-iwx52y",
+    "title": "Zero Origin",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://zero-origin.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-09-26",
+    "eventDate": "Aug 27 - Sep 26, 2026",
+    "prize": "₹ 2,500",
+    "techTags": [
+      "fintech",
+      "machine-learning-ai",
+      "beginner-friendly"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-iwx52y"
+  },
+  {
+    "id": "dp-17hia38",
+    "title": "Acodemic X G.I.R.L.S. Global SDG Hackathon",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://acodemic-hackathon.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-09-19",
+    "eventDate": "Sep 19 - 27, 2026",
+    "prize": "$35",
+    "techTags": [
+      "education",
+      "social-good",
+      "beginner-friendly"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-17hia38"
+  },
+  {
+    "id": "dp-kta2qm",
+    "title": "3rd-Web-Hack",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://3rd-web-hack.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-09-27",
+    "eventDate": "Aug 22 - Sep 27, 2026",
+    "prize": "$750",
+    "techTags": [
+      "blockchain",
+      "open-ended",
+      "web"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-kta2qm"
   }
 ]

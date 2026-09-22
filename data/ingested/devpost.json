@@ -1,25 +1,5 @@
 [
   {
-    "id": "dp-ja51ma",
-    "title": "Hack The Weather",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://hack-the-weather.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-20",
-    "eventDate": "Sep 20 - 21, 2026",
-    "prize": "$309",
-    "techTags": [
-      "machine-learning-ai",
-      "open-ended",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-ja51ma"
-  },
-  {
     "id": "dp-31u7lt",
     "title": "BunnieX Hackathon",
     "organizer": "Devpost host",
@@ -60,27 +40,6 @@
     "rawHash": "dp-1g5s4ll"
   },
   {
-    "id": "dp-t6qe6o",
-    "title": "Bharat Innovation Challenge 2.0",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://bic.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Lovely Professional University",
-    "registrationDeadline": "2026-09-18",
-    "eventDate": "Sep 18 - 22, 2026",
-    "prize": "$10,600",
-    "techTags": [
-      "beginner-friendly",
-      "communication",
-      "education"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-t6qe6o"
-  },
-  {
     "id": "dp-yadiwv",
     "title": "CAST-GNY Startup Pitch Competition 2026",
     "organizer": "Devpost host",
@@ -102,24 +61,25 @@
     "rawHash": "dp-yadiwv"
   },
   {
-    "id": "dp-1hwlpdk",
-    "title": "Graphiques Innovation Challenge ",
+    "id": "dp-t6qe6o",
+    "title": "Bharat Innovation Challenge 2.0",
     "organizer": "Devpost host",
     "category": "hackathon",
-    "url": "https://graphiques-challenge.devpost.com/",
+    "url": "https://bic.devpost.com/",
     "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-23",
-    "eventDate": "Aug 21 - Sep 23, 2026",
-    "prize": "$0",
+    "isOnline": false,
+    "city": "Lovely Professional University",
+    "registrationDeadline": "2026-09-18",
+    "eventDate": "Sep 18 - 23, 2026",
+    "prize": "$10,600",
     "techTags": [
-      "enterprise",
-      "fintech",
-      "productivity"
+      "beginner-friendly",
+      "communication",
+      "education"
     ],
     "status": "open",
     "confidence": "verify",
-    "rawHash": "dp-1hwlpdk"
+    "rawHash": "dp-t6qe6o"
   },
   {
     "id": "dp-vorjth",
@@ -140,6 +100,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-vorjth"
+  },
+  {
+    "id": "dp-1hwlpdk",
+    "title": "Graphiques Innovation Challenge ",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://graphiques-challenge.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-09-23",
+    "eventDate": "Aug 21 - Sep 23, 2026",
+    "prize": "$0",
+    "techTags": [
+      "enterprise",
+      "fintech",
+      "productivity"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1hwlpdk"
   },
   {
     "id": "dp-12kgqb6",
@@ -182,6 +162,27 @@
     "rawHash": "dp-1ngbg5k"
   },
   {
+    "id": "dp-mahcbf",
+    "title": "Hack The City 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://hackthecity2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "NOVA IMS, Almeida Negreiros College",
+    "registrationDeadline": "2026-09-21",
+    "eventDate": "Sep 21 - 25, 2026",
+    "prize": "€6,000",
+    "techTags": [
+      "iot",
+      "machine-learning-ai",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-mahcbf"
+  },
+  {
     "id": "dp-1lw6d7x",
     "title": "Practice to Create [Feedback To All Projects!]",
     "organizer": "Devpost host",
@@ -220,6 +221,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-vrlpbs"
+  },
+  {
+    "id": "dp-ja51ma",
+    "title": "Hack The Weather",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://hack-the-weather.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-09-20",
+    "eventDate": "Sep 20 - 25, 2026",
+    "prize": "$309",
+    "techTags": [
+      "machine-learning-ai",
+      "open-ended",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-ja51ma"
   },
   {
     "id": "dp-iwx52y",
@@ -521,26 +542,5 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1lhsc6s"
-  },
-  {
-    "id": "dp-t2zvq8",
-    "title": "Databricks AI Social Impact (DAISI) Challenge - Singapore",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://daisisg26.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Databricks Singapore",
-    "registrationDeadline": "2026-10-06",
-    "eventDate": "Sep 16 - Oct 06, 2026",
-    "prize": "$0",
-    "techTags": [
-      "education",
-      "machine-learning-ai",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-t2zvq8"
   }
 ]

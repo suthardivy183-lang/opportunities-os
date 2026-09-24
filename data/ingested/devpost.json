@@ -1,84 +1,5 @@
 [
   {
-    "id": "dp-31u7lt",
-    "title": "BunnieX Hackathon",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://buuniex-hackathon.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-23",
-    "eventDate": "Jun 22 - Sep 23, 2026",
-    "prize": "$0",
-    "techTags": [
-      "machine-learning-ai",
-      "open-ended",
-      "productivity"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-31u7lt"
-  },
-  {
-    "id": "dp-1hwlpdk",
-    "title": "Graphiques Innovation Challenge ",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://graphiques-challenge.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-23",
-    "eventDate": "Aug 21 - Sep 23, 2026",
-    "prize": "$0",
-    "techTags": [
-      "enterprise",
-      "fintech",
-      "productivity"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1hwlpdk"
-  },
-  {
-    "id": "dp-vorjth",
-    "title": "Hyperbloom September - Beginer Freindly",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://hyperbloom-september2.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-14",
-    "eventDate": "Sep 14 - 23, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly",
-      "education",
-      "low-no-code"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-vorjth"
-  },
-  {
-    "id": "dp-12kgqb6",
-    "title": "CityCamp Gainesville Hack Day",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://citycamp-hack-day.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Reitz Union",
-    "registrationDeadline": "2026-09-20",
-    "eventDate": "Sep 20 - 23, 2026",
-    "prize": "$900",
-    "techTags": [
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-12kgqb6"
-  },
-  {
     "id": "dp-1ngbg5k",
     "title": "Poly.Tech mini hackathon",
     "organizer": "Devpost host",
@@ -383,6 +304,26 @@
     "rawHash": "dp-nrbowc"
   },
   {
+    "id": "dp-vorjth",
+    "title": "Hyperbloom September - Beginer Freindly",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://hyperbloom-september2.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-09-14",
+    "eventDate": "Sep 14 - 30, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly",
+      "education",
+      "low-no-code"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-vorjth"
+  },
+  {
     "id": "dp-1dwoo8r",
     "title": "Beginner's Paradise - FirstCommit",
     "organizer": "Devpost host",
@@ -523,8 +464,8 @@
     "rawHash": "dp-1lhsc6s"
   },
   {
-    "id": "dp-1s7zz4g",
-    "title": "ML Empowerment Build Challenge 3.0 - FREE Prizes for EVERYONE",
+    "id": "dp-1shw0nx",
+    "title": "ML Empowerment Build Challenge 3.0 - (55k in prizes!)",
     "organizer": "Devpost host",
     "category": "hackathon",
     "url": "https://ml-build-challenge-3.devpost.com/",
@@ -540,6 +481,67 @@
     ],
     "status": "open",
     "confidence": "verify",
-    "rawHash": "dp-1s7zz4g"
+    "rawHash": "dp-1shw0nx"
+  },
+  {
+    "id": "dp-t2zvq8",
+    "title": "Databricks AI Social Impact (DAISI) Challenge - Singapore",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://daisisg26.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Databricks Singapore",
+    "registrationDeadline": "2026-10-06",
+    "eventDate": "Sep 16 - Oct 06, 2026",
+    "prize": "$0",
+    "techTags": [
+      "education",
+      "machine-learning-ai",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-t2zvq8"
+  },
+  {
+    "id": "dp-13mmuwy",
+    "title": "UnivaBio ($40,000 in prizes) ",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://univabio.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-10-06",
+    "eventDate": "Aug 07 - Oct 06, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly",
+      "health",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-13mmuwy"
+  },
+  {
+    "id": "dp-kbkyr",
+    "title": "Hack Away Hunger: Food Insecurity Challenge",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://hack-away-hunger.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Corteva's Pioneer Shull Building",
+    "registrationDeadline": "2026-10-08",
+    "eventDate": "Jul 18 - Oct 08, 2026",
+    "prize": "$5,000",
+    "techTags": [
+      "open-ended",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-kbkyr"
   }
 ]

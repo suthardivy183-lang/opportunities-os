@@ -1,45 +1,5 @@
 [
   {
-    "id": "dp-1hwlpdk",
-    "title": "Graphiques Innovation Challenge ",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://graphiques-challenge.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-28",
-    "eventDate": "Aug 21 - Sep 28, 2026",
-    "prize": "$0",
-    "techTags": [
-      "enterprise",
-      "fintech",
-      "productivity"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1hwlpdk"
-  },
-  {
-    "id": "dp-9frnps",
-    "title": "LUMA Hackathon (September 20th - 28th)",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://luma-hackathon-fall.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-28",
-    "eventDate": "Jun 26 - Sep 28, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly",
-      "machine-learning-ai",
-      "open-ended"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-9frnps"
-  },
-  {
     "id": "dp-1ea99un",
     "title": "Jāgriti Hacks",
     "organizer": "Devpost host",
@@ -79,6 +39,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-t6qe6o"
+  },
+  {
+    "id": "dp-1hwlpdk",
+    "title": "Graphiques Innovation Challenge ",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://graphiques-challenge.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-09-29",
+    "eventDate": "Aug 21 - Sep 29, 2026",
+    "prize": "$0",
+    "techTags": [
+      "enterprise",
+      "fintech",
+      "productivity"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1hwlpdk"
   },
   {
     "id": "dp-1frliiy",
@@ -242,26 +222,6 @@
     "rawHash": "dp-1dwoo8r"
   },
   {
-    "id": "dp-1r62pxb",
-    "title": "305 HackShells Edition September 2026",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://305hackshellssep2026.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-15",
-    "eventDate": "Sep 15 - 30, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly",
-      "cybersecurity",
-      "education"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1r62pxb"
-  },
-  {
     "id": "dp-1fymco2",
     "title": "Next Byte Hacks: V4",
     "organizer": "Devpost host",
@@ -280,6 +240,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1fymco2"
+  },
+  {
+    "id": "dp-1r62pxb",
+    "title": "305 HackShells Edition September 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://305hackshellssep2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-09-15",
+    "eventDate": "Sep 15 - 30, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly",
+      "cybersecurity",
+      "education"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1r62pxb"
   },
   {
     "id": "dp-wxlq2e",
@@ -341,6 +321,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-n0ifh7"
+  },
+  {
+    "id": "dp-tnszfe",
+    "title": "FIK FAIR 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://fik-fair-2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-10-04",
+    "eventDate": "Sep 29 - Oct 04, 2026",
+    "prize": "$360",
+    "techTags": [
+      "education",
+      "health",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-tnszfe"
   },
   {
     "id": "dp-1fgtov2",
@@ -505,6 +505,26 @@
     "rawHash": "dp-1v0dea0"
   },
   {
+    "id": "dp-1jhzbey",
+    "title": "WarriorHacks 2.0",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://warriorhacks-2-0.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-10-14",
+    "eventDate": "Sep 28 - Oct 14, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly",
+      "machine-learning-ai",
+      "open-ended"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1jhzbey"
+  },
+  {
     "id": "dp-jvbu42",
     "title": "HACK47: OFFGRID",
     "organizer": "Devpost host",
@@ -523,26 +543,5 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-jvbu42"
-  },
-  {
-    "id": "dp-bd3z8e",
-    "title": "INDUX 5.0-2026",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://indux-5-0-2026.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Vikrant University , Gwalior",
-    "registrationDeadline": "2026-10-15",
-    "eventDate": "Sep 22 - Oct 15, 2026",
-    "prize": "₹ 225,000",
-    "techTags": [
-      "cybersecurity",
-      "design",
-      "robotic-process-automation"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-bd3z8e"
   }
 ]

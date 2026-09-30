@@ -1,87 +1,5 @@
 [
   {
-    "id": "dp-1ea99un",
-    "title": "Jāgriti Hacks",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://jagriti-hacks1.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-25",
-    "eventDate": "Sep 25 - 29, 2026",
-    "prize": "$850",
-    "techTags": [
-      "cybersecurity",
-      "devops",
-      "machine-learning-ai"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1ea99un"
-  },
-  {
-    "id": "dp-t6qe6o",
-    "title": "Bharat Innovation Challenge 2.0",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://bic.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Lovely Professional University",
-    "registrationDeadline": "2026-09-18",
-    "eventDate": "Sep 18 - 29, 2026",
-    "prize": "$10,600",
-    "techTags": [
-      "beginner-friendly",
-      "communication",
-      "education"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-t6qe6o"
-  },
-  {
-    "id": "dp-1hwlpdk",
-    "title": "Graphiques Innovation Challenge ",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://graphiques-challenge.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-29",
-    "eventDate": "Aug 21 - Sep 29, 2026",
-    "prize": "$0",
-    "techTags": [
-      "enterprise",
-      "fintech",
-      "productivity"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1hwlpdk"
-  },
-  {
-    "id": "dp-1frliiy",
-    "title": "Hack Days Turbhe ",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://hack-days-turbhe.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Navi Mumbai, India",
-    "registrationDeadline": "2026-09-20",
-    "eventDate": "Sep 20 - 29, 2026",
-    "prize": "₹ 0",
-    "techTags": [
-      "beginner-friendly",
-      "education",
-      "lifehacks"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1frliiy"
-  },
-  {
     "id": "dp-10e2ab",
     "title": "CodeSprint by Elite Coders",
     "organizer": "Devpost host",
@@ -222,24 +140,24 @@
     "rawHash": "dp-1dwoo8r"
   },
   {
-    "id": "dp-1fymco2",
-    "title": "Next Byte Hacks: V4",
+    "id": "dp-1hwlpdk",
+    "title": "Graphiques Innovation Challenge ",
     "organizer": "Devpost host",
     "category": "hackathon",
-    "url": "https://next-byte-hacks-v4.devpost.com/",
+    "url": "https://graphiques-challenge.devpost.com/",
     "source": "Devpost",
     "isOnline": true,
-    "registrationDeadline": "2026-09-05",
-    "eventDate": "Sep 05 - 30, 2026",
-    "prize": "$100",
+    "registrationDeadline": "2026-09-30",
+    "eventDate": "Aug 21 - Sep 30, 2026",
+    "prize": "$0",
     "techTags": [
-      "beginner-friendly",
-      "education",
-      "machine-learning-ai"
+      "enterprise",
+      "fintech",
+      "productivity"
     ],
     "status": "open",
     "confidence": "verify",
-    "rawHash": "dp-1fymco2"
+    "rawHash": "dp-1hwlpdk"
   },
   {
     "id": "dp-1r62pxb",
@@ -260,6 +178,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1r62pxb"
+  },
+  {
+    "id": "dp-1fymco2",
+    "title": "Next Byte Hacks: V4",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://next-byte-hacks-v4.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-09-05",
+    "eventDate": "Sep 05 - 30, 2026",
+    "prize": "$100",
+    "techTags": [
+      "beginner-friendly",
+      "education",
+      "machine-learning-ai"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1fymco2"
   },
   {
     "id": "dp-wxlq2e",
@@ -323,6 +261,48 @@
     "rawHash": "dp-n0ifh7"
   },
   {
+    "id": "dp-t6qe6o",
+    "title": "Bharat Innovation Challenge 2.0",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://bic.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Lovely Professional University",
+    "registrationDeadline": "2026-10-02",
+    "eventDate": "Sep 18 - Oct 02, 2026",
+    "prize": "$10,600",
+    "techTags": [
+      "beginner-friendly",
+      "communication",
+      "education"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-t6qe6o"
+  },
+  {
+    "id": "dp-qjimf0",
+    "title": "UIUC Product Hackathon - Hack to the Future",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://product-hackathon-uiuc.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Campus Instructional Facility",
+    "registrationDeadline": "2026-10-03",
+    "eventDate": "Sep 29 - Oct 03, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly",
+      "design",
+      "low-no-code"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-qjimf0"
+  },
+  {
     "id": "dp-tnszfe",
     "title": "FIK FAIR 2026",
     "organizer": "Devpost host",
@@ -352,7 +332,7 @@
     "isOnline": true,
     "registrationDeadline": "2026-10-04",
     "eventDate": "Sep 26 - Oct 04, 2026",
-    "prize": "$250",
+    "prize": "$0",
     "techTags": [
       "beginner-friendly",
       "machine-learning-ai",
@@ -523,6 +503,24 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1jhzbey"
+  },
+  {
+    "id": "dp-1c3ysno",
+    "title": "Multimodal AI Hackathon 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://multimodal-ai-hackathon-2026-7.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-10-14",
+    "eventDate": "Sep 29 - Oct 14, 2026",
+    "prize": "₹ 100,000",
+    "techTags": [
+      "machine-learning-ai"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1c3ysno"
   },
   {
     "id": "dp-jvbu42",

@@ -1,223 +1,22 @@
 [
   {
-    "id": "dp-10e2ab",
-    "title": "CodeSprint by Elite Coders",
+    "id": "dp-1bos1yf",
+    "title": "CCT IT CLUB X INOVEXHQ HACK DAYS",
     "organizer": "Devpost host",
     "category": "hackathon",
-    "url": "https://codesprint-by-elitecoders.devpost.com/",
+    "url": "https://cct-it-club-inovexhq-hack-days.devpost.com/",
     "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-25",
-    "eventDate": "Sep 25 - 30, 2026",
-    "prize": "₹ 30,000",
-    "techTags": [
-      "beginner-friendly",
-      "open-ended",
-      "web"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-10e2ab"
-  },
-  {
-    "id": "dp-1g5s4ll",
-    "title": "COMPSPHERE 12",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://compsphere12.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-30",
-    "eventDate": "Aug 03 - Sep 30, 2026",
-    "prize": "$1,247",
-    "techTags": [
-      "blockchain",
-      "machine-learning-ai",
-      "cybersecurity"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1g5s4ll"
-  },
-  {
-    "id": "dp-1evodzw",
-    "title": "DecentraHack 2.0",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://decentrahack-2-0.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-24",
-    "eventDate": "Sep 24 - 30, 2026",
-    "prize": "₹ 15,000",
-    "techTags": [
-      "blockchain",
-      "machine-learning-ai",
-      "open-ended"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1evodzw"
-  },
-  {
-    "id": "dp-732vhi",
-    "title": "Hack2Heal 2.0 - Global Healthcare Innovation Hackathon",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://hack2heal.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-30",
-    "eventDate": "Aug 25 - Sep 30, 2026",
-    "prize": "$100",
-    "techTags": [
-      "health",
-      "machine-learning-ai",
-      "beginner-friendly"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-732vhi"
-  },
-  {
-    "id": "dp-nrbowc",
-    "title": "Evorozen Apex: NextGen AI Buildathon",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://evorozen-apex.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-30",
-    "eventDate": "Jul 17 - Sep 30, 2026",
-    "prize": "$0",
-    "techTags": [
-      "databases",
-      "machine-learning-ai",
-      "web"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-nrbowc"
-  },
-  {
-    "id": "dp-vorjth",
-    "title": "Hyperbloom September - Beginer Freindly",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://hyperbloom-september2.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-14",
-    "eventDate": "Sep 14 - 30, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly",
-      "education",
-      "low-no-code"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-vorjth"
-  },
-  {
-    "id": "dp-1dwoo8r",
-    "title": "Beginner's Paradise - FirstCommit",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://firstcommit.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-30",
-    "eventDate": "Aug 21 - Sep 30, 2026",
-    "prize": "$1,024",
-    "techTags": [
-      "beginner-friendly",
-      "mobile",
-      "web"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1dwoo8r"
-  },
-  {
-    "id": "dp-1hwlpdk",
-    "title": "Graphiques Innovation Challenge ",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://graphiques-challenge.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-30",
-    "eventDate": "Aug 21 - Sep 30, 2026",
-    "prize": "$0",
-    "techTags": [
-      "enterprise",
-      "fintech",
-      "productivity"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1hwlpdk"
-  },
-  {
-    "id": "dp-1r62pxb",
-    "title": "305 HackShells Edition September 2026",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://305hackshellssep2026.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-15",
-    "eventDate": "Sep 15 - 30, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly",
-      "cybersecurity",
-      "education"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1r62pxb"
-  },
-  {
-    "id": "dp-1fymco2",
-    "title": "Next Byte Hacks: V4",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://next-byte-hacks-v4.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-09-05",
-    "eventDate": "Sep 05 - 30, 2026",
-    "prize": "$100",
-    "techTags": [
-      "beginner-friendly",
-      "education",
-      "machine-learning-ai"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1fymco2"
-  },
-  {
-    "id": "dp-wxlq2e",
-    "title": "RevenueCat Shipaton 2026",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://revenuecat-shipaton-2026.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
+    "isOnline": false,
+    "city": "Chitwan College of Technology",
     "registrationDeadline": "2026-10-01",
-    "eventDate": "Jul 31 - Oct 01, 2026",
-    "prize": "$740,000",
+    "eventDate": "Oct 01, 2026",
+    "prize": "$0",
     "techTags": [
-      "design",
-      "gaming",
-      "mobile"
+      "web"
     ],
     "status": "open",
     "confidence": "verify",
-    "rawHash": "dp-wxlq2e"
+    "rawHash": "dp-1bos1yf"
   },
   {
     "id": "dp-xerpbx",
@@ -238,6 +37,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-xerpbx"
+  },
+  {
+    "id": "dp-wxlq2e",
+    "title": "RevenueCat Shipaton 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://revenuecat-shipaton-2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-10-01",
+    "eventDate": "Jul 31 - Oct 01, 2026",
+    "prize": "$740,000",
+    "techTags": [
+      "design",
+      "gaming",
+      "mobile"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-wxlq2e"
   },
   {
     "id": "dp-n0ifh7",
@@ -261,6 +80,26 @@
     "rawHash": "dp-n0ifh7"
   },
   {
+    "id": "dp-1dwoo8r",
+    "title": "Beginner's Paradise - FirstCommit",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://firstcommit.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-10-02",
+    "eventDate": "Aug 21 - Oct 02, 2026",
+    "prize": "$1,024",
+    "techTags": [
+      "beginner-friendly",
+      "mobile",
+      "web"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1dwoo8r"
+  },
+  {
     "id": "dp-t6qe6o",
     "title": "Bharat Innovation Challenge 2.0",
     "organizer": "Devpost host",
@@ -269,8 +108,8 @@
     "source": "Devpost",
     "isOnline": false,
     "city": "Lovely Professional University",
-    "registrationDeadline": "2026-10-02",
-    "eventDate": "Sep 18 - Oct 02, 2026",
+    "registrationDeadline": "2026-10-03",
+    "eventDate": "Sep 18 - Oct 03, 2026",
     "prize": "$10,600",
     "techTags": [
       "beginner-friendly",
@@ -383,26 +222,6 @@
     "rawHash": "dp-1lhsc6s"
   },
   {
-    "id": "dp-qgmdm5",
-    "title": "ML Empowerment Build Challenge 3.0 - ($80,000 in prizes!)",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://ml-build-challenge-3.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-10-06",
-    "eventDate": "Sep 05 - Oct 06, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly",
-      "machine-learning-ai",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-qgmdm5"
-  },
-  {
     "id": "dp-t2zvq8",
     "title": "Databricks AI Social Impact (DAISI) Challenge - Singapore",
     "organizer": "Devpost host",
@@ -424,24 +243,24 @@
     "rawHash": "dp-t2zvq8"
   },
   {
-    "id": "dp-13mmuwy",
-    "title": "UnivaBio ($40,000 in prizes) ",
+    "id": "dp-1p88iwd",
+    "title": "ImpactHack 2026",
     "organizer": "Devpost host",
     "category": "hackathon",
-    "url": "https://univabio.devpost.com/",
+    "url": "https://impacthack26.devpost.com/",
     "source": "Devpost",
     "isOnline": true,
-    "registrationDeadline": "2026-10-06",
-    "eventDate": "Aug 07 - Oct 06, 2026",
+    "registrationDeadline": "2026-10-01",
+    "eventDate": "Oct 01 - 08, 2026",
     "prize": "$0",
     "techTags": [
       "beginner-friendly",
-      "health",
+      "education",
       "social-good"
     ],
     "status": "open",
     "confidence": "verify",
-    "rawHash": "dp-13mmuwy"
+    "rawHash": "dp-1p88iwd"
   },
   {
     "id": "dp-kbkyr",
@@ -464,6 +283,26 @@
     "rawHash": "dp-kbkyr"
   },
   {
+    "id": "dp-lpowpe",
+    "title": "ML Empowerment Build Challenge 3.0 - ($96,000 in prizes!)",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://ml-build-challenge-3.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-10-10",
+    "eventDate": "Sep 05 - Oct 10, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly",
+      "machine-learning-ai",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-lpowpe"
+  },
+  {
     "id": "dp-1v0dea0",
     "title": "Hackyard Build 2026 | 24-Hour Hackathon at IIT Guwahati",
     "organizer": "Devpost host",
@@ -483,6 +322,45 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1v0dea0"
+  },
+  {
+    "id": "dp-we7rgo",
+    "title": "AIC Internal Competition -2026 (Agentic AI) ",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://aic-ic-2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-10-12",
+    "eventDate": "Sep 30 - Oct 12, 2026",
+    "prize": "$0",
+    "techTags": [
+      "machine-learning-ai",
+      "open-ended"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-we7rgo"
+  },
+  {
+    "id": "dp-13mmuwy",
+    "title": "UnivaBio ($40,000 in prizes) ",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://univabio.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-10-13",
+    "eventDate": "Aug 07 - Oct 13, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly",
+      "health",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-13mmuwy"
   },
   {
     "id": "dp-1jhzbey",
@@ -541,5 +419,123 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-jvbu42"
+  },
+  {
+    "id": "dp-bd3z8e",
+    "title": "INDUX 5.0-2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://indux-5-0-2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Vikrant University , Gwalior",
+    "registrationDeadline": "2026-10-15",
+    "eventDate": "Sep 22 - Oct 15, 2026",
+    "prize": "₹ 225,000",
+    "techTags": [
+      "cybersecurity",
+      "design",
+      "robotic-process-automation"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-bd3z8e"
+  },
+  {
+    "id": "dp-6gcelw",
+    "title": "Next Founders Hackathon",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://next-founders.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-10-15",
+    "eventDate": "Aug 16 - Oct 15, 2026",
+    "prize": "$275",
+    "techTags": [
+      "beginner-friendly",
+      "low-no-code",
+      "open-ended"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-6gcelw"
+  },
+  {
+    "id": "dp-171dt8l",
+    "title": "Hack Apertus",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://hackapertus.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Grand Finals 2027 ",
+    "registrationDeadline": "2026-10-01",
+    "eventDate": "Oct 01 - 16, 2026",
+    "prize": "€10,680",
+    "techTags": [
+      "education",
+      "machine-learning-ai",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-171dt8l"
+  },
+  {
+    "id": "dp-1muyh2h",
+    "title": "MLAI Hackathon 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://mlai-hackathon.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-10-16",
+    "eventDate": "Sep 18 - Oct 16, 2026",
+    "prize": "$0",
+    "techTags": [
+      "databases",
+      "machine-learning-ai"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1muyh2h"
+  },
+  {
+    "id": "dp-1gh2hmu",
+    "title": "SVYCA Youth for Earth (Y4E) Hackathon",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://svycay4e.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Stanford University",
+    "registrationDeadline": "2026-10-18",
+    "eventDate": "Sep 20 - Oct 18, 2026",
+    "prize": "$2,700",
+    "techTags": [
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1gh2hmu"
+  },
+  {
+    "id": "dp-6lz3ei",
+    "title": "AI Lodge Hackathon 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://ai-lodge-hackathon-2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-10-19",
+    "eventDate": "Sep 22 - Oct 19, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-6lz3ei"
   }
 ]

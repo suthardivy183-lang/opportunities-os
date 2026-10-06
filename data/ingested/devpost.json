@@ -1,46 +1,5 @@
 [
   {
-    "id": "dp-1hwlpdk",
-    "title": "Graphiques Innovation Challenge ",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://graphiques-challenge.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-10-05",
-    "eventDate": "Aug 21 - Oct 05, 2026",
-    "prize": "$0",
-    "techTags": [
-      "enterprise",
-      "fintech",
-      "productivity"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1hwlpdk"
-  },
-  {
-    "id": "dp-qjimf0",
-    "title": "UIUC Product Hackathon - Hack to the Future",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://product-hackathon-uiuc.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Campus Instructional Facility",
-    "registrationDeadline": "2026-10-05",
-    "eventDate": "Sep 29 - Oct 05, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly",
-      "design",
-      "low-no-code"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-qjimf0"
-  },
-  {
     "id": "dp-t2zvq8",
     "title": "Databricks AI Social Impact (DAISI) Challenge - Singapore",
     "organizer": "Devpost host",
@@ -81,6 +40,24 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-t6qe6o"
+  },
+  {
+    "id": "dp-tqcu9p",
+    "title": "Affinda AI Innovation Challenge",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://affinda-challenge.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-10-05",
+    "eventDate": "Oct 05 - 08, 2026",
+    "prize": "$1,000",
+    "techTags": [
+      "beginner-friendly"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-tqcu9p"
   },
   {
     "id": "dp-1p88iwd",
@@ -152,7 +129,7 @@
     "isOnline": true,
     "registrationDeadline": "2026-10-01",
     "eventDate": "Oct 01 - 10, 2026",
-    "prize": "$1,097,385",
+    "prize": "$1,218,635",
     "techTags": [
       "beginner-friendly",
       "lifehacks",
@@ -173,7 +150,7 @@
     "city": "IIT Guwahati",
     "registrationDeadline": "2026-10-10",
     "eventDate": "Sep 25 - Oct 10, 2026",
-    "prize": "$0",
+    "prize": "₹ 447,500",
     "techTags": [
       "beginner-friendly",
       "open-ended",
@@ -182,6 +159,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1v0dea0"
+  },
+  {
+    "id": "dp-1hwlpdk",
+    "title": "Graphiques Innovation Challenge ",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://graphiques-challenge.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-10-10",
+    "eventDate": "Aug 21 - Oct 10, 2026",
+    "prize": "$0",
+    "techTags": [
+      "enterprise",
+      "fintech",
+      "productivity"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1hwlpdk"
   },
   {
     "id": "dp-we7rgo",
@@ -201,6 +198,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-we7rgo"
+  },
+  {
+    "id": "dp-8exw3e",
+    "title": "United Hackathons V1",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://devonomicsv1.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-10-06",
+    "eventDate": "Oct 06 - 12, 2026",
+    "prize": "$0",
+    "techTags": [
+      "machine-learning-ai",
+      "open-ended",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-8exw3e"
   },
   {
     "id": "dp-13mmuwy",
@@ -518,25 +535,5 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-q2e34p"
-  },
-  {
-    "id": "dp-gwm9l0",
-    "title": "IEEE ClimateChain Global Hackathon",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://ieee-climatechain-hack.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-10-05",
-    "eventDate": "Oct 05 - 25, 2026",
-    "prize": "$3,000",
-    "techTags": [
-      "blockchain",
-      "machine-learning-ai",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-gwm9l0"
   }
 ]

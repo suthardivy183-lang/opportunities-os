@@ -1,83 +1,24 @@
 [
   {
-    "id": "dp-t2zvq8",
-    "title": "Databricks AI Social Impact (DAISI) Challenge - Singapore",
+    "id": "dp-tcm9w5",
+    "title": "HACK PRADESH – RVIT Hackathon",
     "organizer": "Devpost host",
     "category": "hackathon",
-    "url": "https://daisisg26.devpost.com/",
+    "url": "https://hackpradesh.devpost.com/",
     "source": "Devpost",
     "isOnline": false,
-    "city": "Databricks Singapore",
+    "city": "RV Institute of Technology (RVIT)",
     "registrationDeadline": "2026-10-06",
-    "eventDate": "Sep 16 - Oct 06, 2026",
-    "prize": "$0",
+    "eventDate": "Oct 06 - 08, 2026",
+    "prize": "₹ 50,000",
     "techTags": [
-      "education",
-      "machine-learning-ai",
-      "social-good"
+      "cybersecurity",
+      "iot",
+      "machine-learning-ai"
     ],
     "status": "open",
     "confidence": "verify",
-    "rawHash": "dp-t2zvq8"
-  },
-  {
-    "id": "dp-t6qe6o",
-    "title": "Bharat Innovation Challenge 2.0",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://bic.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Lovely Professional University",
-    "registrationDeadline": "2026-10-06",
-    "eventDate": "Sep 18 - Oct 06, 2026",
-    "prize": "$10,600",
-    "techTags": [
-      "beginner-friendly",
-      "communication",
-      "education"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-t6qe6o"
-  },
-  {
-    "id": "dp-tqcu9p",
-    "title": "Affinda AI Innovation Challenge",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://affinda-challenge.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-10-05",
-    "eventDate": "Oct 05 - 08, 2026",
-    "prize": "$1,000",
-    "techTags": [
-      "beginner-friendly"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-tqcu9p"
-  },
-  {
-    "id": "dp-1p88iwd",
-    "title": "ImpactHack 2026",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://impacthack26.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-10-01",
-    "eventDate": "Oct 01 - 08, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly",
-      "education",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1p88iwd"
+    "rawHash": "dp-tcm9w5"
   },
   {
     "id": "dp-kbkyr",
@@ -98,6 +39,47 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-kbkyr"
+  },
+  {
+    "id": "dp-15ty9qm",
+    "title": "Prompt2Product: MLH Hack Day @ AITR",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://prompt2product.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "AITR Indore",
+    "registrationDeadline": "2026-10-08",
+    "eventDate": "Oct 08 - 09, 2026",
+    "prize": "₹ 0",
+    "techTags": [
+      "devops",
+      "education"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-15ty9qm"
+  },
+  {
+    "id": "dp-t6qe6o",
+    "title": "Bharat Innovation Challenge 2.0",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://bic.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Lovely Professional University",
+    "registrationDeadline": "2026-10-09",
+    "eventDate": "Sep 18 - Oct 09, 2026",
+    "prize": "$10,600",
+    "techTags": [
+      "beginner-friendly",
+      "communication",
+      "education"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-t6qe6o"
   },
   {
     "id": "dp-1vt00bt",
@@ -129,7 +111,7 @@
     "isOnline": true,
     "registrationDeadline": "2026-10-01",
     "eventDate": "Oct 01 - 10, 2026",
-    "prize": "$1,218,635",
+    "prize": "$1,382,700",
     "techTags": [
       "beginner-friendly",
       "lifehacks",
@@ -218,6 +200,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-8exw3e"
+  },
+  {
+    "id": "dp-gogn8i",
+    "title": "All you can do with AI ",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://all-you-can-do-with-ai.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-10-07",
+    "eventDate": "Oct 07 - 12, 2026",
+    "prize": "$0",
+    "techTags": [
+      "blockchain",
+      "databases",
+      "serverless"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-gogn8i"
   },
   {
     "id": "dp-13mmuwy",

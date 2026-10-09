@@ -1,66 +1,5 @@
 [
   {
-    "id": "dp-tcm9w5",
-    "title": "HACK PRADESH – RVIT Hackathon",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://hackpradesh.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "RV Institute of Technology (RVIT)",
-    "registrationDeadline": "2026-10-06",
-    "eventDate": "Oct 06 - 08, 2026",
-    "prize": "₹ 50,000",
-    "techTags": [
-      "cybersecurity",
-      "iot",
-      "machine-learning-ai"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-tcm9w5"
-  },
-  {
-    "id": "dp-kbkyr",
-    "title": "Hack Away Hunger: Food Insecurity Challenge",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://hack-away-hunger.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Corteva's Pioneer Shull Building",
-    "registrationDeadline": "2026-10-08",
-    "eventDate": "Jul 18 - Oct 08, 2026",
-    "prize": "$5,000",
-    "techTags": [
-      "open-ended",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-kbkyr"
-  },
-  {
-    "id": "dp-15ty9qm",
-    "title": "Prompt2Product: MLH Hack Day @ AITR",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://prompt2product.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "AITR Indore",
-    "registrationDeadline": "2026-10-08",
-    "eventDate": "Oct 08 - 09, 2026",
-    "prize": "₹ 0",
-    "techTags": [
-      "devops",
-      "education"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-15ty9qm"
-  },
-  {
     "id": "dp-t6qe6o",
     "title": "Bharat Innovation Challenge 2.0",
     "organizer": "Devpost host",
@@ -82,6 +21,25 @@
     "rawHash": "dp-t6qe6o"
   },
   {
+    "id": "dp-o2lqgg",
+    "title": "Shiva Tech -Prompt Wars",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://shiva-tech-prompt-wars.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Shivalik University",
+    "registrationDeadline": "2026-10-09",
+    "eventDate": "Oct 09, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-o2lqgg"
+  },
+  {
     "id": "dp-1vt00bt",
     "title": "ML Empowerment Build Challenge 3.0 - ($400,000 in prizes!)",
     "organizer": "Devpost host",
@@ -100,6 +58,47 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1vt00bt"
+  },
+  {
+    "id": "dp-en1qeg",
+    "title": "Ensign Build",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://ensign-build.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Ensign College Building",
+    "registrationDeadline": "2026-10-09",
+    "eventDate": "Oct 09 - 10, 2026",
+    "prize": "$0",
+    "techTags": [
+      "cybersecurity",
+      "design",
+      "machine-learning-ai"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-en1qeg"
+  },
+  {
+    "id": "dp-evlt0a",
+    "title": "Caribbean AI Summit Hackathon",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://caribbean-ai-summit-hackathon.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Puerto Rico Convention Center",
+    "registrationDeadline": "2026-10-08",
+    "eventDate": "Oct 08 - 10, 2026",
+    "prize": "$10,000",
+    "techTags": [
+      "health",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-evlt0a"
   },
   {
     "id": "dp-vlaz6s",

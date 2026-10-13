@@ -1,45 +1,5 @@
 [
   {
-    "id": "dp-1hwlpdk",
-    "title": "Graphiques Innovation Challenge ",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://graphiques-challenge.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-10-12",
-    "eventDate": "Aug 21 - Oct 12, 2026",
-    "prize": "$0",
-    "techTags": [
-      "enterprise",
-      "fintech",
-      "productivity"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1hwlpdk"
-  },
-  {
-    "id": "dp-gogn8i",
-    "title": "All you can do with AI ",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://all-you-can-do-with-ai.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-10-07",
-    "eventDate": "Oct 07 - 12, 2026",
-    "prize": "$0",
-    "techTags": [
-      "blockchain",
-      "databases",
-      "serverless"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-gogn8i"
-  },
-  {
     "id": "dp-1jhzbey",
     "title": "WarriorHacks 2.0",
     "organizer": "Devpost host",
@@ -76,6 +36,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1c3ysno"
+  },
+  {
+    "id": "dp-k0s1ra",
+    "title": "Child Safety in AI",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://child-safety-in-ai.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-10-12",
+    "eventDate": "Oct 12 - 14, 2026",
+    "prize": "$0",
+    "techTags": [
+      "machine-learning-ai",
+      "beginner-friendly",
+      "low-no-code"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-k0s1ra"
   },
   {
     "id": "dp-jvbu42",
@@ -157,6 +137,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-6gcelw"
+  },
+  {
+    "id": "dp-1adsmqi",
+    "title": "RESPAWN",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://respawn.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-10-12",
+    "eventDate": "Oct 12 - 15, 2026",
+    "prize": "₹ 15,000",
+    "techTags": [
+      "beginner-friendly",
+      "design",
+      "gaming"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1adsmqi"
   },
   {
     "id": "dp-171dt8l",
@@ -396,6 +396,26 @@
     "rawHash": "dp-q2e34p"
   },
   {
+    "id": "dp-fanv2y",
+    "title": "Pumpkin Playground",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://pumpkin-playground.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-10-12",
+    "eventDate": "Oct 12 - 23, 2026",
+    "prize": "$30",
+    "techTags": [
+      "design",
+      "gaming",
+      "web"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-fanv2y"
+  },
+  {
     "id": "dp-1i72hlo",
     "title": "Black Code Collective Hacktoberfest",
     "organizer": "Devpost host",
@@ -516,25 +536,5 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-8gem7v"
-  },
-  {
-    "id": "dp-rcznj4",
-    "title": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://aws-cds-partner.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-10-28",
-    "eventDate": "Sep 14 - Oct 28, 2026",
-    "prize": "$40,000",
-    "techTags": [
-      "communication",
-      "mobile",
-      "machine-learning-ai"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-rcznj4"
   }
 ]

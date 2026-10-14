@@ -1,25 +1,5 @@
 [
   {
-    "id": "dp-1jhzbey",
-    "title": "WarriorHacks 2.0",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://warriorhacks-2-0.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-10-14",
-    "eventDate": "Sep 28 - Oct 14, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly",
-      "machine-learning-ai",
-      "open-ended"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1jhzbey"
-  },
-  {
     "id": "dp-1c3ysno",
     "title": "Multimodal AI Hackathon 2026",
     "organizer": "Devpost host",
@@ -235,6 +215,27 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-6lz3ei"
+  },
+  {
+    "id": "dp-1ursogh",
+    "title": "HackGB",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://hackgb-2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Brown County STEM Innovation Center",
+    "registrationDeadline": "2026-10-13",
+    "eventDate": "Oct 13 - 18, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly",
+      "education",
+      "health"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1ursogh"
   },
   {
     "id": "dp-1gh2hmu",

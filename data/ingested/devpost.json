@@ -1,63 +1,5 @@
 [
   {
-    "id": "dp-1c3ysno",
-    "title": "Multimodal AI Hackathon 2026",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://multimodal-ai-hackathon-2026-7.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-10-14",
-    "eventDate": "Sep 29 - Oct 14, 2026",
-    "prize": "₹ 100,000",
-    "techTags": [
-      "machine-learning-ai"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1c3ysno"
-  },
-  {
-    "id": "dp-k0s1ra",
-    "title": "Child Safety in AI",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://child-safety-in-ai.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-10-12",
-    "eventDate": "Oct 12 - 14, 2026",
-    "prize": "$0",
-    "techTags": [
-      "machine-learning-ai",
-      "beginner-friendly",
-      "low-no-code"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-k0s1ra"
-  },
-  {
-    "id": "dp-jvbu42",
-    "title": "HACK47: OFFGRID",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://hack47-offgrid.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-10-15",
-    "eventDate": "Sep 15 - Oct 15, 2026",
-    "prize": "$0",
-    "techTags": [
-      "enterprise",
-      "open-ended",
-      "robotic-process-automation"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-jvbu42"
-  },
-  {
     "id": "dp-bd3z8e",
     "title": "INDUX 5.0-2026",
     "organizer": "Devpost host",
@@ -160,6 +102,27 @@
     "rawHash": "dp-171dt8l"
   },
   {
+    "id": "dp-t8sdmi",
+    "title": "ThunderHacks II",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://thunderhacks-ii.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Algoma University, Brampton Campus",
+    "registrationDeadline": "2026-10-14",
+    "eventDate": "Oct 14 - 16, 2026",
+    "prize": "$CAD 5,000",
+    "techTags": [
+      "beginner-friendly",
+      "gaming",
+      "open-ended"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-t8sdmi"
+  },
+  {
     "id": "dp-1muyh2h",
     "title": "MLAI Hackathon 2026",
     "organizer": "Devpost host",
@@ -236,25 +199,6 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1ursogh"
-  },
-  {
-    "id": "dp-1gh2hmu",
-    "title": "SVYCA Youth for Earth (Y4E) Hackathon",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://svycay4e.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Stanford University",
-    "registrationDeadline": "2026-10-18",
-    "eventDate": "Sep 20 - Oct 18, 2026",
-    "prize": "$2,700",
-    "techTags": [
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1gh2hmu"
   },
   {
     "id": "dp-v81oqf",
@@ -397,24 +341,23 @@
     "rawHash": "dp-q2e34p"
   },
   {
-    "id": "dp-fanv2y",
-    "title": "Pumpkin Playground",
+    "id": "dp-1gh2hmu",
+    "title": "SVYCA Youth for Earth (Y4E) Hackathon",
     "organizer": "Devpost host",
     "category": "hackathon",
-    "url": "https://pumpkin-playground.devpost.com/",
+    "url": "https://svycay4e.devpost.com/",
     "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-10-12",
-    "eventDate": "Oct 12 - 23, 2026",
-    "prize": "$30",
+    "isOnline": false,
+    "city": "Stanford University",
+    "registrationDeadline": "2026-10-23",
+    "eventDate": "Sep 20 - Oct 23, 2026",
+    "prize": "$550",
     "techTags": [
-      "design",
-      "gaming",
-      "web"
+      "social-good"
     ],
     "status": "open",
     "confidence": "verify",
-    "rawHash": "dp-fanv2y"
+    "rawHash": "dp-1gh2hmu"
   },
   {
     "id": "dp-1i72hlo",
@@ -537,5 +480,65 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-8gem7v"
+  },
+  {
+    "id": "dp-rcznj4",
+    "title": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://aws-cds-partner.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-10-28",
+    "eventDate": "Sep 14 - Oct 28, 2026",
+    "prize": "$40,000",
+    "techTags": [
+      "communication",
+      "mobile",
+      "machine-learning-ai"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-rcznj4"
+  },
+  {
+    "id": "dp-h0lhsx",
+    "title": "2026 International CodeTheCure Hackathon",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://codethecure-hackathon-26.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-10-10",
+    "eventDate": "Oct 10 - 28, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly",
+      "education",
+      "health"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-h0lhsx"
+  },
+  {
+    "id": "dp-17c291u",
+    "title": "Girls Who Code HHS Hackathon 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://gwchhs-hackathon-2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-10-15",
+    "eventDate": "Oct 15 - 29, 2026",
+    "prize": "$50",
+    "techTags": [
+      "beginner-friendly",
+      "gaming",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-17c291u"
   }
 ]

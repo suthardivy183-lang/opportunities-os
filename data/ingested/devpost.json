@@ -1,23 +1,23 @@
 [
   {
-    "id": "dp-ccrwg5",
-    "title": "Hyperbloom October- UI/UX and Web Design",
+    "id": "dp-1dooyfp",
+    "title": "InternWell Hack 2.0",
     "organizer": "Devpost host",
     "category": "hackathon",
-    "url": "https://hyperbloom-october.devpost.com/",
+    "url": "https://interwell-hack2-0.devpost.com/",
     "source": "Devpost",
     "isOnline": true,
-    "registrationDeadline": "2026-10-01",
-    "eventDate": "Oct 01 - 19, 2026",
-    "prize": "$9,117",
+    "registrationDeadline": "2026-10-03",
+    "eventDate": "Oct 03 - 20, 2026",
+    "prize": "₹ 1,000",
     "techTags": [
-      "design",
-      "productivity",
+      "communication",
+      "machine-learning-ai",
       "web"
     ],
     "status": "open",
     "confidence": "verify",
-    "rawHash": "dp-ccrwg5"
+    "rawHash": "dp-1dooyfp"
   },
   {
     "id": "dp-1siompm",
@@ -192,7 +192,7 @@
     "city": "Tripura Vasini Palace Grounds, Bengaluru",
     "registrationDeadline": "2026-10-23",
     "eventDate": "Sep 01 - Oct 23, 2026",
-    "prize": "₹ 40,000",
+    "prize": "₹ 0",
     "techTags": [
       "ar-vr",
       "iot",
@@ -302,25 +302,6 @@
     "rawHash": "dp-1yajwnv"
   },
   {
-    "id": "dp-8z7nbu",
-    "title": "Taskforge",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://taskforge.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-10-17",
-    "eventDate": "Oct 17 - 24, 2026",
-    "prize": "$200",
-    "techTags": [
-      "beginner-friendly",
-      "quantum"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-8z7nbu"
-  },
-  {
     "id": "dp-v0bnwq",
     "title": "uXperience Design Jam sponsored by Sunlife ",
     "organizer": "Devpost host",
@@ -340,6 +321,25 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-v0bnwq"
+  },
+  {
+    "id": "dp-8z7nbu",
+    "title": "Taskforge",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://taskforge.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-10-17",
+    "eventDate": "Oct 17 - 24, 2026",
+    "prize": "$200",
+    "techTags": [
+      "beginner-friendly",
+      "quantum"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-8z7nbu"
   },
   {
     "id": "dp-gzz93c",
@@ -401,6 +401,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-gwm9l0"
+  },
+  {
+    "id": "dp-fvbyiv",
+    "title": "HowdyHack 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://hh26.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Texas A＆M - Memorial Student Center",
+    "registrationDeadline": "2026-10-19",
+    "eventDate": "Oct 19 - 25, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly",
+      "open-ended"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-fvbyiv"
   },
   {
     "id": "dp-1f7x1xh",
@@ -484,6 +504,24 @@
     "rawHash": "dp-ywmovr"
   },
   {
+    "id": "dp-1391uim",
+    "title": "Hack to the Future",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://hack-to-the-missing-future-ai.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-10-20",
+    "eventDate": "Oct 20 - 27, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1391uim"
+  },
+  {
     "id": "dp-8gem7v",
     "title": "HTCJ × PROOF Aviation Futures Challenge",
     "organizer": "Devpost host",
@@ -503,45 +541,5 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-8gem7v"
-  },
-  {
-    "id": "dp-rcznj4",
-    "title": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://aws-cds-partner.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-10-28",
-    "eventDate": "Sep 14 - Oct 28, 2026",
-    "prize": "$40,000",
-    "techTags": [
-      "communication",
-      "mobile",
-      "machine-learning-ai"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-rcznj4"
-  },
-  {
-    "id": "dp-h0lhsx",
-    "title": "2026 International CodeTheCure Hackathon",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://codethecure-hackathon-26.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-10-10",
-    "eventDate": "Oct 10 - 28, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly",
-      "education",
-      "health"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-h0lhsx"
   }
 ]

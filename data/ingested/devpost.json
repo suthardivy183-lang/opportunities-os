@@ -1,63 +1,22 @@
 [
   {
-    "id": "dp-vcxg94",
-    "title": "United Arab Emirates vs France",
+    "id": "dp-1emt3mt",
+    "title": "United Arab Emirates vs France (REMATCH)",
     "organizer": "Devpost host",
     "category": "hackathon",
-    "url": "https://aevsfr.devpost.com/",
+    "url": "https://uaevsfrance.devpost.com/",
     "source": "Devpost",
     "isOnline": false,
     "city": "Abu Dhabi ",
-    "registrationDeadline": "2026-10-21",
-    "eventDate": "Oct 21, 2026",
+    "registrationDeadline": "2026-10-22",
+    "eventDate": "Oct 22, 2026",
     "prize": "$10,000",
     "techTags": [
-      "cybersecurity",
-      "serverless",
-      "web"
+      "cybersecurity"
     ],
     "status": "open",
     "confidence": "verify",
-    "rawHash": "dp-vcxg94"
-  },
-  {
-    "id": "dp-1i5hd2q",
-    "title": "HACK INSIGHT",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://hack-insight.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-10-18",
-    "eventDate": "Oct 18 - 21, 2026",
-    "prize": "$144",
-    "techTags": [
-      "machine-learning-ai",
-      "voice-skills",
-      "education"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1i5hd2q"
-  },
-  {
-    "id": "dp-v81oqf",
-    "title": "IEEE Hack For Humanity",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://ieee-ai-hack-for-humanity.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-10-11",
-    "eventDate": "Oct 11 - 21, 2026",
-    "prize": "$0",
-    "techTags": [
-      "machine-learning-ai",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-v81oqf"
+    "rawHash": "dp-1emt3mt"
   },
   {
     "id": "dp-ab7pqy",
@@ -79,6 +38,27 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-ab7pqy"
+  },
+  {
+    "id": "dp-1qu06s9",
+    "title": "CapCut x EAST2046 University of Cambridge Creator Lab Free Learning Campus",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://cambridge-creator-lab.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "IfM, University of Cambridge",
+    "registrationDeadline": "2026-10-22",
+    "eventDate": "Oct 22, 2026",
+    "prize": "$0",
+    "techTags": [
+      "machine-learning-ai",
+      "music-art",
+      "web"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1qu06s9"
   },
   {
     "id": "dp-g4oe9",
@@ -364,6 +344,26 @@
     "rawHash": "dp-15esuc9"
   },
   {
+    "id": "dp-ztzwa",
+    "title": "NextSpark Hacks",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://nextspark-hacks.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-10-21",
+    "eventDate": "Oct 21 - 26, 2026",
+    "prize": "$100",
+    "techTags": [
+      "beginner-friendly",
+      "machine-learning-ai",
+      "open-ended"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-ztzwa"
+  },
+  {
     "id": "dp-ewq3cj",
     "title": "OpenCV AI Competition 2026, powered by AWS",
     "organizer": "Devpost host",
@@ -522,23 +522,23 @@
     "rawHash": "dp-17c291u"
   },
   {
-    "id": "dp-fanv2y",
-    "title": "Pumpkin Playground",
+    "id": "dp-4m6xb0",
+    "title": "Hybrid Micro Mouse Challenge ",
     "organizer": "Devpost host",
     "category": "hackathon",
-    "url": "https://pumpkin-playground.devpost.com/",
+    "url": "https://hybrid-micro-mouse-challenge.devpost.com/",
     "source": "Devpost",
     "isOnline": true,
-    "registrationDeadline": "2026-10-12",
-    "eventDate": "Oct 12 - 30, 2026",
-    "prize": "$30",
+    "registrationDeadline": "2026-10-22",
+    "eventDate": "Oct 22 - 29, 2026",
+    "prize": "₹ 55,000",
     "techTags": [
-      "design",
-      "gaming",
-      "web"
+      "education",
+      "iot",
+      "open-ended"
     ],
     "status": "open",
     "confidence": "verify",
-    "rawHash": "dp-fanv2y"
+    "rawHash": "dp-4m6xb0"
   }
 ]

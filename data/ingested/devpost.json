@@ -1,85 +1,24 @@
 [
   {
-    "id": "dp-1emt3mt",
-    "title": "United Arab Emirates vs France (REMATCH)",
+    "id": "dp-y1tuli",
+    "title": "United Arab Emirates vs Germany",
     "organizer": "Devpost host",
     "category": "hackathon",
-    "url": "https://uaevsfrance.devpost.com/",
+    "url": "https://aevsge.devpost.com/",
     "source": "Devpost",
     "isOnline": false,
     "city": "Abu Dhabi ",
     "registrationDeadline": "2026-10-22",
-    "eventDate": "Oct 22, 2026",
+    "eventDate": "Oct 22 - 23, 2026",
     "prize": "$10,000",
     "techTags": [
-      "cybersecurity"
+      "education",
+      "gaming",
+      "mobile"
     ],
     "status": "open",
     "confidence": "verify",
-    "rawHash": "dp-1emt3mt"
-  },
-  {
-    "id": "dp-ab7pqy",
-    "title": "HackOctober MLH X Tech4hack",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://hackoctober-mlh-x-tech4hack.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Microsoft",
-    "registrationDeadline": "2026-10-18",
-    "eventDate": "Oct 18 - 22, 2026",
-    "prize": "$0",
-    "techTags": [
-      "devops",
-      "health",
-      "machine-learning-ai"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-ab7pqy"
-  },
-  {
-    "id": "dp-1qu06s9",
-    "title": "CapCut x EAST2046 University of Cambridge Creator Lab Free Learning Campus",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://cambridge-creator-lab.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "IfM, University of Cambridge",
-    "registrationDeadline": "2026-10-22",
-    "eventDate": "Oct 22, 2026",
-    "prize": "$0",
-    "techTags": [
-      "machine-learning-ai",
-      "music-art",
-      "web"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1qu06s9"
-  },
-  {
-    "id": "dp-g4oe9",
-    "title": "Build The Next Big Thing with AI - Devmarketplace",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://build-next-big-thing-with-ai.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "NED University",
-    "registrationDeadline": "2026-10-19",
-    "eventDate": "Oct 19 - 22, 2026",
-    "prize": "₹ 100,000",
-    "techTags": [
-      "databases",
-      "machine-learning-ai",
-      "web"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-g4oe9"
+    "rawHash": "dp-y1tuli"
   },
   {
     "id": "dp-rpd4x9",
@@ -161,6 +100,25 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1gh2hmu"
+  },
+  {
+    "id": "dp-v81oqf",
+    "title": "IEEE Hack For Humanity",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://ieee-ai-hack-for-humanity.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-10-11",
+    "eventDate": "Oct 11 - 23, 2026",
+    "prize": "$0",
+    "techTags": [
+      "machine-learning-ai",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-v81oqf"
   },
   {
     "id": "dp-1i72hlo",
@@ -540,5 +498,45 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-4m6xb0"
+  },
+  {
+    "id": "dp-fanv2y",
+    "title": "Pumpkin Playground",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://pumpkin-playground.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-10-12",
+    "eventDate": "Oct 12 - 30, 2026",
+    "prize": "$30",
+    "techTags": [
+      "design",
+      "gaming",
+      "web"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-fanv2y"
+  },
+  {
+    "id": "dp-10e2ab",
+    "title": "CodeSprint by Elite Coders",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://codesprint-by-elitecoders.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-10-30",
+    "eventDate": "Sep 25 - Oct 30, 2026",
+    "prize": "₹ 30,000",
+    "techTags": [
+      "beginner-friendly",
+      "open-ended",
+      "web"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-10e2ab"
   }
 ]

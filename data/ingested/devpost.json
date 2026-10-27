@@ -1,65 +1,5 @@
 [
   {
-    "id": "dp-15esuc9",
-    "title": "Build With AI: Basics",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://learn-ai-basics.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-10-26",
-    "eventDate": "Sep 22 - Oct 26, 2026",
-    "prize": "$2,500",
-    "techTags": [
-      "machine-learning-ai",
-      "beginner-friendly",
-      "education"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-15esuc9"
-  },
-  {
-    "id": "dp-ztzwa",
-    "title": "NextSpark Hacks",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://nextspark-hacks.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-10-21",
-    "eventDate": "Oct 21 - 26, 2026",
-    "prize": "$100",
-    "techTags": [
-      "beginner-friendly",
-      "machine-learning-ai",
-      "open-ended"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-ztzwa"
-  },
-  {
-    "id": "dp-ewq3cj",
-    "title": "OpenCV AI Competition 2026, powered by AWS",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://opencv26.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-10-27",
-    "eventDate": "Aug 26 - Oct 27, 2026",
-    "prize": "$20,250",
-    "techTags": [
-      "iot",
-      "machine-learning-ai",
-      "serverless"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-ewq3cj"
-  },
-  {
     "id": "dp-1tuq4ze",
     "title": "Engage 6.0 – Code with AI Hackathon",
     "organizer": "Devpost host",
@@ -138,6 +78,27 @@
     "rawHash": "dp-8gem7v"
   },
   {
+    "id": "dp-1lfdqjr",
+    "title": "SUSTAIN-A-THON 2.0",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://sustain-a-thon-2-0-31534.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Block 45, Sharda University, ",
+    "registrationDeadline": "2026-10-27",
+    "eventDate": "Oct 27 - 28, 2026",
+    "prize": "$150,000",
+    "techTags": [
+      "blockchain",
+      "cybersecurity",
+      "iot"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1lfdqjr"
+  },
+  {
     "id": "dp-rcznj4",
     "title": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon",
     "organizer": "Devpost host",
@@ -178,6 +139,27 @@
     "rawHash": "dp-h0lhsx"
   },
   {
+    "id": "dp-nb8f3u",
+    "title": "Solix AI Hackathon 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://solix-ai-hackathon-2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Qualcomm Institute, UC San Diego",
+    "registrationDeadline": "2026-10-26",
+    "eventDate": "Oct 26 - 28, 2026",
+    "prize": "$48,000",
+    "techTags": [
+      "health",
+      "machine-learning-ai",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-nb8f3u"
+  },
+  {
     "id": "dp-17c291u",
     "title": "Girls Who Code HHS Hackathon 2026",
     "organizer": "Devpost host",
@@ -216,26 +198,6 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-4m6xb0"
-  },
-  {
-    "id": "dp-fanv2y",
-    "title": "Pumpkin Playground",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://pumpkin-playground.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-10-12",
-    "eventDate": "Oct 12 - 30, 2026",
-    "prize": "$30",
-    "techTags": [
-      "design",
-      "gaming",
-      "web"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-fanv2y"
   },
   {
     "id": "dp-10e2ab",
@@ -338,6 +300,24 @@
     "rawHash": "dp-1dwbnwo"
   },
   {
+    "id": "dp-7jceuy",
+    "title": "FUSE Society Blueprint 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://fuse-society-blueprint-2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-10-24",
+    "eventDate": "Oct 24 - 31, 2026",
+    "prize": "$250",
+    "techTags": [
+      "beginner-friendly"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-7jceuy"
+  },
+  {
     "id": "dp-f46vao",
     "title": "Health Hackathon 3.0",
     "organizer": "Devpost host",
@@ -355,24 +335,6 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-f46vao"
-  },
-  {
-    "id": "dp-7jceuy",
-    "title": "FUSE Society Blueprint 2026",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://fuse-society-blueprint-2026.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-10-24",
-    "eventDate": "Oct 24 - 31, 2026",
-    "prize": "$250",
-    "techTags": [
-      "beginner-friendly"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-7jceuy"
   },
   {
     "id": "dp-1blk55c",
@@ -515,23 +477,62 @@
     "rawHash": "dp-1i3advh"
   },
   {
-    "id": "dp-1sq3t5q",
-    "title": "Mathematics for systems security",
+    "id": "dp-tq9oey",
+    "title": "YouCam API Skin AI & eCommerce VTO Hackathon",
     "organizer": "Devpost host",
     "category": "hackathon",
-    "url": "https://mathematics-systems-security.devpost.com/",
+    "url": "https://youcam-api-skin-ai-ecommerce.devpost.com/",
     "source": "Devpost",
     "isOnline": true,
-    "registrationDeadline": "2026-11-01",
-    "eventDate": "Oct 16 - Nov 01, 2026",
-    "prize": "$0",
+    "registrationDeadline": "2026-11-02",
+    "eventDate": "Sep 29 - Nov 02, 2026",
+    "prize": "$6,000",
     "techTags": [
-      "communication",
-      "cybersecurity",
+      "ar-vr",
+      "e-commerce-retail",
       "machine-learning-ai"
     ],
     "status": "open",
     "confidence": "verify",
-    "rawHash": "dp-1sq3t5q"
+    "rawHash": "dp-tq9oey"
+  },
+  {
+    "id": "dp-1rhf9vt",
+    "title": "Codex x TwitchCon Hackathon",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://twitchcon-codex.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-11-02",
+    "eventDate": "Oct 23 - Nov 02, 2026",
+    "prize": "$25,000",
+    "techTags": [
+      "communication",
+      "gaming",
+      "machine-learning-ai"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1rhf9vt"
+  },
+  {
+    "id": "dp-r20q2i",
+    "title": "ICC - Proyecto Destacado 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://icc-proyecto-destacado-2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Centro de enseñanza técnica y superior",
+    "registrationDeadline": "2026-11-03",
+    "eventDate": "Oct 13 - Nov 03, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-r20q2i"
   }
 ]

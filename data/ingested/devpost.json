@@ -1,83 +1,5 @@
 [
   {
-    "id": "dp-1tuq4ze",
-    "title": "Engage 6.0 – Code with AI Hackathon",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://engage6.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "The NorthCap University",
-    "registrationDeadline": "2026-10-21",
-    "eventDate": "Oct 21 - 27, 2026",
-    "prize": "$45,000",
-    "techTags": [
-      "machine-learning-ai"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1tuq4ze"
-  },
-  {
-    "id": "dp-ywmovr",
-    "title": "Life After Code",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://gitlab-transcend.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-10-05",
-    "eventDate": "Oct 05 - 27, 2026",
-    "prize": "$45,000",
-    "techTags": [
-      "devops",
-      "machine-learning-ai",
-      "productivity"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-ywmovr"
-  },
-  {
-    "id": "dp-1391uim",
-    "title": "Hack to the Future",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://hack-to-the-missing-future-ai.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-10-20",
-    "eventDate": "Oct 20 - 27, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1391uim"
-  },
-  {
-    "id": "dp-8gem7v",
-    "title": "HTCJ × PROOF Aviation Futures Challenge",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://htcj-aviation-futures.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Boston Venture Week",
-    "registrationDeadline": "2026-10-27",
-    "eventDate": "Jun 25 - Oct 27, 2026",
-    "prize": "$0",
-    "techTags": [
-      "enterprise",
-      "machine-learning-ai",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-8gem7v"
-  },
-  {
     "id": "dp-1lfdqjr",
     "title": "SUSTAIN-A-THON 2.0",
     "organizer": "Devpost host",
@@ -149,7 +71,7 @@
     "city": "Qualcomm Institute, UC San Diego",
     "registrationDeadline": "2026-10-26",
     "eventDate": "Oct 26 - 28, 2026",
-    "prize": "$48,000",
+    "prize": "$0",
     "techTags": [
       "health",
       "machine-learning-ai",
@@ -158,26 +80,6 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-nb8f3u"
-  },
-  {
-    "id": "dp-17c291u",
-    "title": "Girls Who Code HHS Hackathon 2026",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://gwchhs-hackathon-2026.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-10-15",
-    "eventDate": "Oct 15 - 29, 2026",
-    "prize": "$50",
-    "techTags": [
-      "beginner-friendly",
-      "gaming",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-17c291u"
   },
   {
     "id": "dp-4m6xb0",
@@ -282,6 +184,44 @@
     "rawHash": "dp-16orwt6"
   },
   {
+    "id": "dp-sm2j4u",
+    "title": "Code-con",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://code-con.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-10-28",
+    "eventDate": "Oct 28 - 30, 2026",
+    "prize": "₹ 0",
+    "techTags": [
+      "blockchain",
+      "fintech",
+      "machine-learning-ai"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-sm2j4u"
+  },
+  {
+    "id": "dp-2ngcu4",
+    "title": "LancerHacks",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://lancerhacks2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-10-27",
+    "eventDate": "Oct 27 - 30, 2026",
+    "prize": "$600",
+    "techTags": [
+      "beginner-friendly"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-2ngcu4"
+  },
+  {
     "id": "dp-1dwbnwo",
     "title": "Qloo Agentic Hackathon",
     "organizer": "Devpost host",
@@ -378,24 +318,6 @@
     "rawHash": "dp-1j073cq"
   },
   {
-    "id": "dp-1w8whlh",
-    "title": "CreateAThon",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://graph-hacks.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-10-14",
-    "eventDate": "Oct 14 - 31, 2026",
-    "prize": "$0",
-    "techTags": [
-      "machine-learning-ai"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1w8whlh"
-  },
-  {
     "id": "dp-aztxk4",
     "title": "Next Byte Hacks V5",
     "organizer": "Devpost host",
@@ -414,6 +336,24 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-aztxk4"
+  },
+  {
+    "id": "dp-1w8whlh",
+    "title": "CreateAThon",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://graph-hacks.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-10-14",
+    "eventDate": "Oct 14 - 31, 2026",
+    "prize": "$0",
+    "techTags": [
+      "machine-learning-ai"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1w8whlh"
   },
   {
     "id": "dp-n6hrm5",
@@ -534,5 +474,65 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-r20q2i"
+  },
+  {
+    "id": "dp-17c291u",
+    "title": "Girls Who Code HHS Hackathon 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://gwchhs-hackathon-2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-11-05",
+    "eventDate": "Oct 15 - Nov 05, 2026",
+    "prize": "$50",
+    "techTags": [
+      "beginner-friendly",
+      "gaming",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-17c291u"
+  },
+  {
+    "id": "dp-fanv2y",
+    "title": "Pumpkin Playground",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://pumpkin-playground.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-11-06",
+    "eventDate": "Oct 12 - Nov 06, 2026",
+    "prize": "$50",
+    "techTags": [
+      "design",
+      "gaming",
+      "web"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-fanv2y"
+  },
+  {
+    "id": "dp-1k640xx",
+    "title": "Learn AR with SPECS",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://learn-specs.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-11-09",
+    "eventDate": "Oct 15 - Nov 09, 2026",
+    "prize": "$2,500",
+    "techTags": [
+      "ar-vr",
+      "machine-learning-ai",
+      "design"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1k640xx"
   }
 ]

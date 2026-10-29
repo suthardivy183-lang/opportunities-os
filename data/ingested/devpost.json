@@ -1,87 +1,5 @@
 [
   {
-    "id": "dp-1lfdqjr",
-    "title": "SUSTAIN-A-THON 2.0",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://sustain-a-thon-2-0-31534.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Block 45, Sharda University, ",
-    "registrationDeadline": "2026-10-27",
-    "eventDate": "Oct 27 - 28, 2026",
-    "prize": "$150,000",
-    "techTags": [
-      "blockchain",
-      "cybersecurity",
-      "iot"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1lfdqjr"
-  },
-  {
-    "id": "dp-rcznj4",
-    "title": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://aws-cds-partner.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-10-28",
-    "eventDate": "Sep 14 - Oct 28, 2026",
-    "prize": "$40,000",
-    "techTags": [
-      "communication",
-      "mobile",
-      "machine-learning-ai"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-rcznj4"
-  },
-  {
-    "id": "dp-h0lhsx",
-    "title": "2026 International CodeTheCure Hackathon",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://codethecure-hackathon-26.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-10-10",
-    "eventDate": "Oct 10 - 28, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly",
-      "education",
-      "health"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-h0lhsx"
-  },
-  {
-    "id": "dp-nb8f3u",
-    "title": "Solix AI Hackathon 2026",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://solix-ai-hackathon-2026.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Qualcomm Institute, UC San Diego",
-    "registrationDeadline": "2026-10-26",
-    "eventDate": "Oct 26 - 28, 2026",
-    "prize": "$0",
-    "techTags": [
-      "health",
-      "machine-learning-ai",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-nb8f3u"
-  },
-  {
     "id": "dp-4m6xb0",
     "title": "Hybrid Micro Mouse Challenge ",
     "organizer": "Devpost host",
@@ -213,7 +131,7 @@
     "isOnline": true,
     "registrationDeadline": "2026-10-27",
     "eventDate": "Oct 27 - 30, 2026",
-    "prize": "$600",
+    "prize": "$800",
     "techTags": [
       "beginner-friendly"
     ],
@@ -318,6 +236,24 @@
     "rawHash": "dp-1j073cq"
   },
   {
+    "id": "dp-1w8whlh",
+    "title": "CreateAThon",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://graph-hacks.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-10-14",
+    "eventDate": "Oct 14 - 31, 2026",
+    "prize": "$0",
+    "techTags": [
+      "machine-learning-ai"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1w8whlh"
+  },
+  {
     "id": "dp-aztxk4",
     "title": "Next Byte Hacks V5",
     "organizer": "Devpost host",
@@ -336,24 +272,6 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-aztxk4"
-  },
-  {
-    "id": "dp-1w8whlh",
-    "title": "CreateAThon",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://graph-hacks.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-10-14",
-    "eventDate": "Oct 14 - 31, 2026",
-    "prize": "$0",
-    "techTags": [
-      "machine-learning-ai"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1w8whlh"
   },
   {
     "id": "dp-n6hrm5",
@@ -534,5 +452,85 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1k640xx"
+  },
+  {
+    "id": "dp-z85ae2",
+    "title": "DATANOVA 2026 GLOBAL DATA-THON",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://datanova-2026-global-data-thon.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-11-10",
+    "eventDate": "Oct 26 - Nov 10, 2026",
+    "prize": "$1,750",
+    "techTags": [
+      "e-commerce-retail",
+      "fintech",
+      "health"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-z85ae2"
+  },
+  {
+    "id": "dp-1ro1byy",
+    "title": "Herhack",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://herhack.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-11-10",
+    "eventDate": "Oct 17 - Nov 10, 2026",
+    "prize": "₹ 200,000",
+    "techTags": [
+      "beginner-friendly",
+      "blockchain",
+      "open-ended"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1ro1byy"
+  },
+  {
+    "id": "dp-a8okx6",
+    "title": "PayPal AI Hackathon",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://paypalaihackathon.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-11-12",
+    "eventDate": "Oct 01 - Nov 12, 2026",
+    "prize": "$67,500",
+    "techTags": [
+      "low-no-code",
+      "machine-learning-ai",
+      "web"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-a8okx6"
+  },
+  {
+    "id": "dp-qac2rh",
+    "title": "DSH Hacks V2 ($100k+ in prizes!)",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://dsh-hacks-v2.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-11-15",
+    "eventDate": "Jun 24 - Nov 15, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly",
+      "low-no-code",
+      "open-ended"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-qac2rh"
   }
 ]

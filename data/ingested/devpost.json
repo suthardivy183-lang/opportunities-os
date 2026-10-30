@@ -1,25 +1,5 @@
 [
   {
-    "id": "dp-4m6xb0",
-    "title": "Hybrid Micro Mouse Challenge ",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://hybrid-micro-mouse-challenge.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-10-22",
-    "eventDate": "Oct 22 - 29, 2026",
-    "prize": "₹ 55,000",
-    "techTags": [
-      "education",
-      "iot",
-      "open-ended"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-4m6xb0"
-  },
-  {
     "id": "dp-10e2ab",
     "title": "CodeSprint by Elite Coders",
     "organizer": "Devpost host",
@@ -59,27 +39,6 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1n1a2cy"
-  },
-  {
-    "id": "dp-1kjtg0s",
-    "title": "Buksi SITE (STEM Innovation & Talent Expo) 2026 - ONLY FOR BUKIT SION STUDENTS",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://buksi-site-2026.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Bukit Sion Highschool ",
-    "registrationDeadline": "2026-10-24",
-    "eventDate": "Oct 24 - 30, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly",
-      "enterprise",
-      "education"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1kjtg0s"
   },
   {
     "id": "dp-16orwt6",
@@ -122,24 +81,6 @@
     "rawHash": "dp-sm2j4u"
   },
   {
-    "id": "dp-2ngcu4",
-    "title": "LancerHacks",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://lancerhacks2026.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-10-27",
-    "eventDate": "Oct 27 - 30, 2026",
-    "prize": "$800",
-    "techTags": [
-      "beginner-friendly"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-2ngcu4"
-  },
-  {
     "id": "dp-1dwbnwo",
     "title": "Qloo Agentic Hackathon",
     "organizer": "Devpost host",
@@ -156,24 +97,6 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1dwbnwo"
-  },
-  {
-    "id": "dp-7jceuy",
-    "title": "FUSE Society Blueprint 2026",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://fuse-society-blueprint-2026.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-10-24",
-    "eventDate": "Oct 24 - 31, 2026",
-    "prize": "$250",
-    "techTags": [
-      "beginner-friendly"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-7jceuy"
   },
   {
     "id": "dp-f46vao",
@@ -195,6 +118,24 @@
     "rawHash": "dp-f46vao"
   },
   {
+    "id": "dp-7jceuy",
+    "title": "FUSE Society Blueprint 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://fuse-society-blueprint-2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-10-24",
+    "eventDate": "Oct 24 - 31, 2026",
+    "prize": "$250",
+    "techTags": [
+      "beginner-friendly"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-7jceuy"
+  },
+  {
     "id": "dp-1blk55c",
     "title": "AI Build India",
     "organizer": "Devpost host",
@@ -213,6 +154,27 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1blk55c"
+  },
+  {
+    "id": "dp-1kjtg0s",
+    "title": "Buksi SITE (STEM Innovation & Talent Expo) 2026 - ONLY FOR BUKIT SION STUDENTS",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://buksi-site-2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Bukit Sion Highschool ",
+    "registrationDeadline": "2026-10-24",
+    "eventDate": "Oct 24 - 31, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly",
+      "enterprise",
+      "education"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1kjtg0s"
   },
   {
     "id": "dp-1j073cq",
@@ -333,6 +295,27 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1i3advh"
+  },
+  {
+    "id": "dp-1mrzire",
+    "title": "Hack With Karthik",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://hack-with-karthik.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Al-Amen",
+    "registrationDeadline": "2026-11-01",
+    "eventDate": "Oct 30 - Nov 01, 2026",
+    "prize": "₹ 0",
+    "techTags": [
+      "design",
+      "education",
+      "music-art"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1mrzire"
   },
   {
     "id": "dp-tq9oey",
@@ -532,5 +515,25 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-qac2rh"
+  },
+  {
+    "id": "dp-1sq3t5q",
+    "title": "Mathematics for systems security",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://mathematics-systems-security.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-11-15",
+    "eventDate": "Oct 16 - Nov 15, 2026",
+    "prize": "$0",
+    "techTags": [
+      "communication",
+      "cybersecurity",
+      "machine-learning-ai"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1sq3t5q"
   }
 ]

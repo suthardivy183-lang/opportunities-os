@@ -1,161 +1,5 @@
 [
   {
-    "id": "dp-10e2ab",
-    "title": "CodeSprint by Elite Coders",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://codesprint-by-elitecoders.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-10-30",
-    "eventDate": "Sep 25 - Oct 30, 2026",
-    "prize": "₹ 30,000",
-    "techTags": [
-      "beginner-friendly",
-      "open-ended",
-      "web"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-10e2ab"
-  },
-  {
-    "id": "dp-1n1a2cy",
-    "title": "HackFW: MADE Challenge",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://hackfw.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Fort Worth",
-    "registrationDeadline": "2026-10-01",
-    "eventDate": "Oct 01 - 30, 2026",
-    "prize": "$1,900",
-    "techTags": [
-      "iot",
-      "machine-learning-ai",
-      "robotic-process-automation"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1n1a2cy"
-  },
-  {
-    "id": "dp-16orwt6",
-    "title": "Nebius x NVIDIA Global AI Hackathon",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://nebiusglobalaihackathon.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-10-30",
-    "eventDate": "Aug 26 - Oct 30, 2026",
-    "prize": "$50,000",
-    "techTags": [
-      "machine-learning-ai",
-      "beginner-friendly",
-      "robotic-process-automation"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-16orwt6"
-  },
-  {
-    "id": "dp-sm2j4u",
-    "title": "Code-con",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://code-con.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-10-28",
-    "eventDate": "Oct 28 - 30, 2026",
-    "prize": "₹ 0",
-    "techTags": [
-      "blockchain",
-      "fintech",
-      "machine-learning-ai"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-sm2j4u"
-  },
-  {
-    "id": "dp-1dwbnwo",
-    "title": "Qloo Agentic Hackathon",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://qloo.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-10-30",
-    "eventDate": "Sep 30 - Oct 30, 2026",
-    "prize": "$25,000",
-    "techTags": [
-      "machine-learning-ai"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1dwbnwo"
-  },
-  {
-    "id": "dp-f46vao",
-    "title": "Health Hackathon 3.0",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://health-hackathon-3-0.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "VIT Bhopal University",
-    "registrationDeadline": "2026-10-24",
-    "eventDate": "Oct 24 - 31, 2026",
-    "prize": "₹ 200,000",
-    "techTags": [
-      "health"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-f46vao"
-  },
-  {
-    "id": "dp-7jceuy",
-    "title": "FUSE Society Blueprint 2026",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://fuse-society-blueprint-2026.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-10-24",
-    "eventDate": "Oct 24 - 31, 2026",
-    "prize": "$250",
-    "techTags": [
-      "beginner-friendly"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-7jceuy"
-  },
-  {
-    "id": "dp-1blk55c",
-    "title": "AI Build India",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://sphinx-26.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "jaipur",
-    "registrationDeadline": "2026-10-14",
-    "eventDate": "Oct 14 - 31, 2026",
-    "prize": "$0",
-    "techTags": [
-      "machine-learning-ai",
-      "open-ended"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1blk55c"
-  },
-  {
     "id": "dp-1kjtg0s",
     "title": "Buksi SITE (STEM Innovation & Talent Expo) 2026 - ONLY FOR BUKIT SION STUDENTS",
     "organizer": "Devpost host",
@@ -175,6 +19,46 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1kjtg0s"
+  },
+  {
+    "id": "dp-slhycu",
+    "title": "Vaani Agent Buildathon",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://vaani-agent-buildathon.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Leap HQ, Incubex 14 HSR",
+    "registrationDeadline": "2026-10-31",
+    "eventDate": "Oct 31, 2026",
+    "prize": "₹ 60,000",
+    "techTags": [
+      "low-no-code",
+      "voice-skills",
+      "machine-learning-ai"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-slhycu"
+  },
+  {
+    "id": "dp-1fqifa1",
+    "title": "Zoftware Hackathon",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://zoftware-agenthack.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Spring House Workspaces SHGU001",
+    "registrationDeadline": "2026-10-31",
+    "eventDate": "Oct 31, 2026",
+    "prize": "$500",
+    "techTags": [
+      "enterprise"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1fqifa1"
   },
   {
     "id": "dp-1j073cq",
@@ -275,6 +159,44 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-lfcf8r"
+  },
+  {
+    "id": "dp-vurnev",
+    "title": "INCEPTION 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://inception2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-11-01",
+    "eventDate": "Oct 31 - Nov 01, 2026",
+    "prize": "$0",
+    "techTags": [
+      "machine-learning-ai",
+      "mobile",
+      "web"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-vurnev"
+  },
+  {
+    "id": "dp-1kbec9e",
+    "title": "Mergetober",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://mergetober.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-11-01",
+    "eventDate": "Oct 31 - Nov 01, 2026",
+    "prize": "$0",
+    "techTags": [
+      "open-ended"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1kbec9e"
   },
   {
     "id": "dp-1i3advh",
@@ -395,6 +317,24 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-17c291u"
+  },
+  {
+    "id": "dp-166dh6",
+    "title": "Remote Control AI",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://remote-control-ai.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-11-05",
+    "eventDate": "Oct 31 - Nov 05, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-166dh6"
   },
   {
     "id": "dp-fanv2y",
@@ -535,5 +475,64 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1sq3t5q"
+  },
+  {
+    "id": "dp-19etoo9",
+    "title": "STEMergent Hacks 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://stemergent-hacks.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-11-15",
+    "eventDate": "Oct 31 - Nov 15, 2026",
+    "prize": "$0",
+    "techTags": [
+      "low-no-code",
+      "machine-learning-ai",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-19etoo9"
+  },
+  {
+    "id": "dp-1qajc7c",
+    "title": "UGREEN Hackathon 2026 on AI NAS",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://ugreenhackathon.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-11-16",
+    "eventDate": "Oct 22 - Nov 16, 2026",
+    "prize": "$46,000",
+    "techTags": [
+      "lifehacks",
+      "machine-learning-ai",
+      "productivity"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1qajc7c"
+  },
+  {
+    "id": "dp-15jcyyi",
+    "title": "Green Shift Hacks",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://green-shift-hacks.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-11-17",
+    "eventDate": "Oct 18 - Nov 17, 2026",
+    "prize": "$125",
+    "techTags": [
+      "beginner-friendly",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-15jcyyi"
   }
 ]

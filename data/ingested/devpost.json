@@ -1,82 +1,22 @@
 [
   {
-    "id": "dp-tq9oey",
-    "title": "YouCam API Skin AI & eCommerce VTO Hackathon",
+    "id": "dp-1pzazay",
+    "title": "Mock PlutoHacks",
     "organizer": "Devpost host",
     "category": "hackathon",
-    "url": "https://youcam-api-skin-ai-ecommerce.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-11-02",
-    "eventDate": "Sep 29 - Nov 02, 2026",
-    "prize": "$6,000",
-    "techTags": [
-      "ar-vr",
-      "e-commerce-retail",
-      "machine-learning-ai"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-tq9oey"
-  },
-  {
-    "id": "dp-1rhf9vt",
-    "title": "Codex x TwitchCon Hackathon",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://twitchcon-codex.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-11-02",
-    "eventDate": "Oct 23 - Nov 02, 2026",
-    "prize": "$25,000",
-    "techTags": [
-      "communication",
-      "gaming",
-      "machine-learning-ai"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1rhf9vt"
-  },
-  {
-    "id": "dp-wd8hh6",
-    "title": "BDBI x SpaceXSI Grokathon",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://bdbi-x-spacexsi.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-11-02",
-    "eventDate": "Nov 02, 2026",
-    "prize": "$0",
-    "techTags": [
-      "machine-learning-ai",
-      "open-ended",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-wd8hh6"
-  },
-  {
-    "id": "dp-r20q2i",
-    "title": "ICC - Proyecto Destacado 2026",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://icc-proyecto-destacado-2026.devpost.com/",
+    "url": "https://mock-plutohacks.devpost.com/",
     "source": "Devpost",
     "isOnline": false,
-    "city": "Centro de enseñanza técnica y superior",
-    "registrationDeadline": "2026-11-03",
-    "eventDate": "Oct 13 - Nov 03, 2026",
+    "city": "Davie, FL, USA",
+    "registrationDeadline": "2026-11-02",
+    "eventDate": "Nov 02 - 03, 2026",
     "prize": "$0",
     "techTags": [
       "beginner-friendly"
     ],
     "status": "open",
     "confidence": "verify",
-    "rawHash": "dp-r20q2i"
+    "rawHash": "dp-1pzazay"
   },
   {
     "id": "dp-1ueo5m5",
@@ -98,6 +38,25 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1ueo5m5"
+  },
+  {
+    "id": "dp-1nke6y1",
+    "title": "Neural Storm",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://neuralstorm.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-11-02",
+    "eventDate": "Nov 02 - 04, 2026",
+    "prize": "₹ 20,000",
+    "techTags": [
+      "beginner-friendly",
+      "machine-learning-ai"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1nke6y1"
   },
   {
     "id": "dp-17c291u",
@@ -178,6 +137,26 @@
     "rawHash": "dp-fanv2y"
   },
   {
+    "id": "dp-v6qh6z",
+    "title": "2026 UXC NYU Fall Design-a-thon ",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://uxc-fall-2026-design-a-thon.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-11-02",
+    "eventDate": "Nov 02 - 07, 2026",
+    "prize": "$1,000",
+    "techTags": [
+      "beginner-friendly",
+      "design",
+      "education"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-v6qh6z"
+  },
+  {
     "id": "dp-aztxk4",
     "title": "Next Byte Hacks V5",
     "organizer": "Devpost host",
@@ -236,6 +215,25 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1cp2bqy"
+  },
+  {
+    "id": "dp-hilvy2",
+    "title": "WWC Hackathon",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://wwc-hackathon.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Fiji",
+    "registrationDeadline": "2026-11-03",
+    "eventDate": "Nov 03 - 09, 2026",
+    "prize": "$0",
+    "techTags": [
+      "gaming"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-hilvy2"
   },
   {
     "id": "dp-1k640xx",
@@ -497,25 +495,6 @@
     "rawHash": "dp-5bmery"
   },
   {
-    "id": "dp-1xi2lru",
-    "title": "LaunchPad Hacks",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://launchpad-hacks.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-11-20",
-    "eventDate": "Oct 16 - Nov 20, 2026",
-    "prize": "$300",
-    "techTags": [
-      "beginner-friendly",
-      "open-ended"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1xi2lru"
-  },
-  {
     "id": "dp-16ih8tm",
     "title": "AccessED Hacks",
     "organizer": "Devpost host",
@@ -534,5 +513,24 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-16ih8tm"
+  },
+  {
+    "id": "dp-1xi2lru",
+    "title": "LaunchPad Hacks",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://launchpad-hacks.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-11-20",
+    "eventDate": "Oct 16 - Nov 20, 2026",
+    "prize": "$300",
+    "techTags": [
+      "beginner-friendly",
+      "open-ended"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1xi2lru"
   }
 ]

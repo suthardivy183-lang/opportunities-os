@@ -1,45 +1,5 @@
 [
   {
-    "id": "dp-1pzazay",
-    "title": "Mock PlutoHacks",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://mock-plutohacks.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Davie, FL, USA",
-    "registrationDeadline": "2026-11-02",
-    "eventDate": "Nov 02 - 03, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1pzazay"
-  },
-  {
-    "id": "dp-1ueo5m5",
-    "title": "FSB AI Build-a-thon Event 02",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://fsb-ai-buildathon-02.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Farmer School of Business",
-    "registrationDeadline": "2026-11-01",
-    "eventDate": "Nov 01 - 03, 2026",
-    "prize": "$500",
-    "techTags": [
-      "beginner-friendly",
-      "low-no-code",
-      "open-ended"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1ueo5m5"
-  },
-  {
     "id": "dp-1nke6y1",
     "title": "Neural Storm",
     "organizer": "Devpost host",
@@ -48,7 +8,7 @@
     "source": "Devpost",
     "isOnline": true,
     "registrationDeadline": "2026-11-02",
-    "eventDate": "Nov 02 - 04, 2026",
+    "eventDate": "Nov 02 - 05, 2026",
     "prize": "₹ 20,000",
     "techTags": [
       "beginner-friendly",
@@ -59,24 +19,25 @@
     "rawHash": "dp-1nke6y1"
   },
   {
-    "id": "dp-17c291u",
-    "title": "Girls Who Code HHS Hackathon 2026",
+    "id": "dp-3i7tha",
+    "title": "Mini VikingHacks",
     "organizer": "Devpost host",
     "category": "hackathon",
-    "url": "https://gwchhs-hackathon-2026.devpost.com/",
+    "url": "https://mini-vikinghacks.devpost.com/",
     "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-11-05",
-    "eventDate": "Oct 15 - Nov 05, 2026",
-    "prize": "$50",
+    "isOnline": false,
+    "city": "Irvington High School",
+    "registrationDeadline": "2026-11-03",
+    "eventDate": "Nov 03 - 05, 2026",
+    "prize": "$0",
     "techTags": [
-      "beginner-friendly",
-      "gaming",
+      "e-commerce-retail",
+      "low-no-code",
       "social-good"
     ],
     "status": "open",
     "confidence": "verify",
-    "rawHash": "dp-17c291u"
+    "rawHash": "dp-3i7tha"
   },
   {
     "id": "dp-egc93x",
@@ -135,6 +96,27 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-fanv2y"
+  },
+  {
+    "id": "dp-1pn1nr1",
+    "title": "Asymmetric Reframed Reality Hackathon & Co-Creation Workshop",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://arr-hackathon-co-creation.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Caroline Graveson Building",
+    "registrationDeadline": "2026-11-04",
+    "eventDate": "Nov 04 - 06, 2026",
+    "prize": "£0",
+    "techTags": [
+      "ar-vr",
+      "health",
+      "music-art"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1pn1nr1"
   },
   {
     "id": "dp-v6qh6z",
@@ -316,6 +298,27 @@
     "rawHash": "dp-1ro1byy"
   },
   {
+    "id": "dp-1gvw9vr",
+    "title": "Health Hackathon 3.0",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://health-hack-3.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "VIT Bhopal University",
+    "registrationDeadline": "2026-11-04",
+    "eventDate": "Nov 04 - 11, 2026",
+    "prize": "$200,000",
+    "techTags": [
+      "health",
+      "lifehacks",
+      "machine-learning-ai"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1gvw9vr"
+  },
+  {
     "id": "dp-a8okx6",
     "title": "PayPal AI Hackathon",
     "organizer": "Devpost host",
@@ -495,6 +498,25 @@
     "rawHash": "dp-5bmery"
   },
   {
+    "id": "dp-1xi2lru",
+    "title": "LaunchPad Hacks",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://launchpad-hacks.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-11-20",
+    "eventDate": "Oct 16 - Nov 20, 2026",
+    "prize": "$300",
+    "techTags": [
+      "beginner-friendly",
+      "open-ended"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1xi2lru"
+  },
+  {
     "id": "dp-16ih8tm",
     "title": "AccessED Hacks",
     "organizer": "Devpost host",
@@ -513,24 +535,5 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-16ih8tm"
-  },
-  {
-    "id": "dp-1xi2lru",
-    "title": "LaunchPad Hacks",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://launchpad-hacks.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-11-20",
-    "eventDate": "Oct 16 - Nov 20, 2026",
-    "prize": "$300",
-    "techTags": [
-      "beginner-friendly",
-      "open-ended"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1xi2lru"
   }
 ]

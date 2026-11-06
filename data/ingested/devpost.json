@@ -1,103 +1,5 @@
 [
   {
-    "id": "dp-1nke6y1",
-    "title": "Neural Storm",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://neuralstorm.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-11-02",
-    "eventDate": "Nov 02 - 05, 2026",
-    "prize": "₹ 20,000",
-    "techTags": [
-      "beginner-friendly",
-      "machine-learning-ai"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1nke6y1"
-  },
-  {
-    "id": "dp-3i7tha",
-    "title": "Mini VikingHacks",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://mini-vikinghacks.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Irvington High School",
-    "registrationDeadline": "2026-11-03",
-    "eventDate": "Nov 03 - 05, 2026",
-    "prize": "$0",
-    "techTags": [
-      "e-commerce-retail",
-      "low-no-code",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-3i7tha"
-  },
-  {
-    "id": "dp-egc93x",
-    "title": "Ostad Presents YUNet AIgnite Buildathon 2026",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://yunet-aignite26.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-11-01",
-    "eventDate": "Nov 01 - 05, 2026",
-    "prize": "$0",
-    "techTags": [
-      "education",
-      "low-no-code",
-      "machine-learning-ai"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-egc93x"
-  },
-  {
-    "id": "dp-166dh6",
-    "title": "Remote Control AI",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://remote-control-ai.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-11-05",
-    "eventDate": "Oct 31 - Nov 05, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-166dh6"
-  },
-  {
-    "id": "dp-fanv2y",
-    "title": "Pumpkin Playground",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://pumpkin-playground.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-11-06",
-    "eventDate": "Oct 12 - Nov 06, 2026",
-    "prize": "$50",
-    "techTags": [
-      "design",
-      "gaming",
-      "web"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-fanv2y"
-  },
-  {
     "id": "dp-1pn1nr1",
     "title": "Asymmetric Reframed Reality Hackathon & Co-Creation Workshop",
     "organizer": "Devpost host",
@@ -137,6 +39,25 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-v6qh6z"
+  },
+  {
+    "id": "dp-ns0ij9",
+    "title": "NUSH Hack 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://nh26.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "NUS High School of Math and Science",
+    "registrationDeadline": "2026-11-06",
+    "eventDate": "Nov 06 - 07, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-ns0ij9"
   },
   {
     "id": "dp-aztxk4",
@@ -238,6 +159,24 @@
     "rawHash": "dp-1k640xx"
   },
   {
+    "id": "dp-12127r4",
+    "title": "IBM Db2Hack 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://ibm-db2hack-2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-11-05",
+    "eventDate": "Nov 05 - 10, 2026",
+    "prize": "₹ 0",
+    "techTags": [
+      "databases"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-12127r4"
+  },
+  {
     "id": "dp-1nrs8oq",
     "title": "Agentic Hackathon",
     "organizer": "Devpost host",
@@ -256,6 +195,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1nrs8oq"
+  },
+  {
+    "id": "dp-r1xs3d",
+    "title": "Ctrl+V Hackathon",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://ctrl-v-hackathon-31831.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-11-06",
+    "eventDate": "Nov 06 - 10, 2026",
+    "prize": "$28,000",
+    "techTags": [
+      "beginner-friendly",
+      "machine-learning-ai",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-r1xs3d"
   },
   {
     "id": "dp-z85ae2",
@@ -337,6 +296,27 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-a8okx6"
+  },
+  {
+    "id": "dp-13th3u",
+    "title": "Build, Demo, and Take Home a Working AI Support Bot",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://build-a-working-ai-support-bot.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "eGain Corp.",
+    "registrationDeadline": "2026-11-06",
+    "eventDate": "Nov 06 - 12, 2026",
+    "prize": "$750",
+    "techTags": [
+      "beginner-friendly",
+      "machine-learning-ai",
+      "productivity"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-13th3u"
   },
   {
     "id": "dp-1mxszmo",
@@ -535,5 +515,25 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-16ih8tm"
+  },
+  {
+    "id": "dp-46surp",
+    "title": "STEM2Connect AI Hackathon",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://stem2connect-online-hackathon.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-11-21",
+    "eventDate": "Oct 17 - Nov 21, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly",
+      "education",
+      "web"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-46surp"
   }
 ]

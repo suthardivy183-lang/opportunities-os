@@ -1,25 +1,5 @@
 [
   {
-    "id": "dp-1k640xx",
-    "title": "Learn AR with SPECS",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://learn-specs.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-11-09",
-    "eventDate": "Oct 15 - Nov 09, 2026",
-    "prize": "$2,500",
-    "techTags": [
-      "ar-vr",
-      "machine-learning-ai",
-      "design"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1k640xx"
-  },
-  {
     "id": "dp-12127r4",
     "title": "IBM Db2Hack 2026",
     "organizer": "Devpost host",
@@ -36,46 +16,6 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-12127r4"
-  },
-  {
-    "id": "dp-1nrs8oq",
-    "title": "Agentic Hackathon",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://agentic-hackathon.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-11-01",
-    "eventDate": "Nov 01 - 10, 2026",
-    "prize": "$480",
-    "techTags": [
-      "machine-learning-ai",
-      "open-ended",
-      "web"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1nrs8oq"
-  },
-  {
-    "id": "dp-r1xs3d",
-    "title": "Ctrl+V Hackathon",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://ctrl-v-hackathon-31831.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-11-06",
-    "eventDate": "Nov 06 - 10, 2026",
-    "prize": "$28,000",
-    "techTags": [
-      "beginner-friendly",
-      "machine-learning-ai",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-r1xs3d"
   },
   {
     "id": "dp-z85ae2",
@@ -98,6 +38,26 @@
     "rawHash": "dp-z85ae2"
   },
   {
+    "id": "dp-r1xs3d",
+    "title": "Ctrl+V Hackathon",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://ctrl-v-hackathon-31831.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-11-06",
+    "eventDate": "Nov 06 - 10, 2026",
+    "prize": "$28,000",
+    "techTags": [
+      "beginner-friendly",
+      "machine-learning-ai",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-r1xs3d"
+  },
+  {
     "id": "dp-1ro1byy",
     "title": "Herhack",
     "organizer": "Devpost host",
@@ -116,6 +76,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1ro1byy"
+  },
+  {
+    "id": "dp-1nrs8oq",
+    "title": "Agentic Hackathon",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://agentic-hackathon.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-11-01",
+    "eventDate": "Nov 01 - 11, 2026",
+    "prize": "$480",
+    "techTags": [
+      "machine-learning-ai",
+      "open-ended",
+      "web"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1nrs8oq"
   },
   {
     "id": "dp-1gvw9vr",
@@ -377,6 +357,26 @@
     "rawHash": "dp-15jcyyi"
   },
   {
+    "id": "dp-pidquh",
+    "title": "CRC Hacks ",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://crc-student-hackathon.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-11-09",
+    "eventDate": "Nov 09 - 17, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly",
+      "design",
+      "machine-learning-ai"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-pidquh"
+  },
+  {
     "id": "dp-113w4xt",
     "title": "Meta VR Start Developer Competition 2026",
     "organizer": "Devpost host",
@@ -395,6 +395,25 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-113w4xt"
+  },
+  {
+    "id": "dp-1ky3nz8",
+    "title": "GWC Projects Program Fall 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://projects-program-fall-2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-11-09",
+    "eventDate": "Nov 09 - 18, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly",
+      "open-ended"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1ky3nz8"
   },
   {
     "id": "dp-1yxv2s2",
@@ -453,25 +472,6 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-16ih8tm"
-  },
-  {
-    "id": "dp-1xi2lru",
-    "title": "LaunchPad Hacks",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://launchpad-hacks.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-11-20",
-    "eventDate": "Oct 16 - Nov 20, 2026",
-    "prize": "$300",
-    "techTags": [
-      "beginner-friendly",
-      "open-ended"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1xi2lru"
   },
   {
     "id": "dp-46surp",

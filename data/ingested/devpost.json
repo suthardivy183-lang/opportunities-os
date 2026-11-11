@@ -1,81 +1,21 @@
 [
   {
-    "id": "dp-12127r4",
-    "title": "IBM Db2Hack 2026",
+    "id": "dp-1bjfuw5",
+    "title": "The Atomiq Hackathon | Qiskit Fall Fest 2026 at IEM",
     "organizer": "Devpost host",
     "category": "hackathon",
-    "url": "https://ibm-db2hack-2026.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-11-05",
-    "eventDate": "Nov 05 - 10, 2026",
-    "prize": "₹ 0",
-    "techTags": [
-      "databases"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-12127r4"
-  },
-  {
-    "id": "dp-z85ae2",
-    "title": "DATANOVA 2026 GLOBAL DATA-THON",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://datanova-2026-global-data-thon.devpost.com/",
+    "url": "https://atomiq-hackathon-qff-26-iem.devpost.com/",
     "source": "Devpost",
     "isOnline": true,
     "registrationDeadline": "2026-11-10",
-    "eventDate": "Oct 26 - Nov 10, 2026",
-    "prize": "$1,750",
+    "eventDate": "Nov 10 - 11, 2026",
+    "prize": "₹ 10,000",
     "techTags": [
-      "e-commerce-retail",
-      "fintech",
-      "health"
+      "quantum"
     ],
     "status": "open",
     "confidence": "verify",
-    "rawHash": "dp-z85ae2"
-  },
-  {
-    "id": "dp-r1xs3d",
-    "title": "Ctrl+V Hackathon",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://ctrl-v-hackathon-31831.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-11-06",
-    "eventDate": "Nov 06 - 10, 2026",
-    "prize": "$28,000",
-    "techTags": [
-      "beginner-friendly",
-      "machine-learning-ai",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-r1xs3d"
-  },
-  {
-    "id": "dp-1ro1byy",
-    "title": "Herhack",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://herhack.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-11-10",
-    "eventDate": "Oct 17 - Nov 10, 2026",
-    "prize": "₹ 200,000",
-    "techTags": [
-      "beginner-friendly",
-      "blockchain",
-      "open-ended"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1ro1byy"
+    "rawHash": "dp-1bjfuw5"
   },
   {
     "id": "dp-1nrs8oq",
@@ -236,6 +176,27 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-qac2rh"
+  },
+  {
+    "id": "dp-30cms2",
+    "title": "Emory Hacks 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://emory-hacks-2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Emory Univ. - Goizueta Business School",
+    "registrationDeadline": "2026-11-10",
+    "eventDate": "Nov 10 - 15, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly",
+      "education",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-30cms2"
   },
   {
     "id": "dp-1sq3t5q",
@@ -531,5 +492,44 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-8z7nbu"
+  },
+  {
+    "id": "dp-1lxyotj",
+    "title": "Hackathon Agéntico SoftwareChido 2026B",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://hackathon-agentico-2026b.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-11-25",
+    "eventDate": "Oct 05 - Nov 25, 2026",
+    "prize": "$0",
+    "techTags": [
+      "education",
+      "machine-learning-ai"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1lxyotj"
+  },
+  {
+    "id": "dp-g815w4",
+    "title": "HackWithAditya",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://hackwithaditya.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-11-25",
+    "eventDate": "Oct 16 - Nov 25, 2026",
+    "prize": "₹ 500,000",
+    "techTags": [
+      "education",
+      "health",
+      "machine-learning-ai"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-g815w4"
   }
 ]

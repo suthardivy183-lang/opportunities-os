@@ -1,64 +1,5 @@
 [
   {
-    "id": "dp-1bjfuw5",
-    "title": "The Atomiq Hackathon | Qiskit Fall Fest 2026 at IEM",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://atomiq-hackathon-qff-26-iem.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-11-10",
-    "eventDate": "Nov 10 - 11, 2026",
-    "prize": "₹ 10,000",
-    "techTags": [
-      "quantum"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1bjfuw5"
-  },
-  {
-    "id": "dp-1nrs8oq",
-    "title": "Agentic Hackathon",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://agentic-hackathon.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-11-01",
-    "eventDate": "Nov 01 - 11, 2026",
-    "prize": "$480",
-    "techTags": [
-      "machine-learning-ai",
-      "open-ended",
-      "web"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1nrs8oq"
-  },
-  {
-    "id": "dp-1gvw9vr",
-    "title": "Health Hackathon 3.0",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://health-hack-3.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "VIT Bhopal University",
-    "registrationDeadline": "2026-11-04",
-    "eventDate": "Nov 04 - 11, 2026",
-    "prize": "$200,000",
-    "techTags": [
-      "health",
-      "lifehacks",
-      "machine-learning-ai"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1gvw9vr"
-  },
-  {
     "id": "dp-a8okx6",
     "title": "PayPal AI Hackathon",
     "organizer": "Devpost host",
@@ -77,6 +18,25 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-a8okx6"
+  },
+  {
+    "id": "dp-uwdjqv",
+    "title": "Deltahacks X Backboard.io",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://deltahacksxbackboard.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Marinucci Entrepreneurial Bridge",
+    "registrationDeadline": "2026-11-12",
+    "eventDate": "Nov 12, 2026",
+    "prize": "$0",
+    "techTags": [
+      "machine-learning-ai"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-uwdjqv"
   },
   {
     "id": "dp-13th3u",
@@ -118,6 +78,27 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-ibisro"
+  },
+  {
+    "id": "dp-m4a6ll",
+    "title": "CodeCoogs x CenterPoint Hackathon",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://codecoogsxcenterpointhackathon.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "University of Houston PGH/Student Center",
+    "registrationDeadline": "2026-11-12",
+    "eventDate": "Nov 12 - 13, 2026",
+    "prize": "$0",
+    "techTags": [
+      "enterprise",
+      "machine-learning-ai",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-m4a6ll"
   },
   {
     "id": "dp-1mxszmo",
@@ -176,27 +157,6 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-qac2rh"
-  },
-  {
-    "id": "dp-30cms2",
-    "title": "Emory Hacks 2026",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://emory-hacks-2026.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Emory Univ. - Goizueta Business School",
-    "registrationDeadline": "2026-11-10",
-    "eventDate": "Nov 10 - 15, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly",
-      "education",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-30cms2"
   },
   {
     "id": "dp-1sq3t5q",
@@ -531,5 +491,45 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-g815w4"
+  },
+  {
+    "id": "dp-185jxq4",
+    "title": "Code For DFW",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://code-for-dfw.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-11-25",
+    "eventDate": "Oct 20 - Nov 25, 2026",
+    "prize": "$0",
+    "techTags": [
+      "open-ended",
+      "social-good",
+      "beginner-friendly"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-185jxq4"
+  },
+  {
+    "id": "dp-5nowbe",
+    "title": "Build Your First AI App",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://build-your-first-ai-app.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-11-27",
+    "eventDate": "Oct 27 - Nov 27, 2026",
+    "prize": "$0",
+    "techTags": [
+      "education",
+      "machine-learning-ai",
+      "web"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-5nowbe"
   }
 ]

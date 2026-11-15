@@ -1,287 +1,24 @@
 [
   {
-    "id": "dp-1gtcrbs",
-    "title": "WiseStart 2026 Hackathon: Tallinn",
+    "id": "dp-12kqw8m",
+    "title": "DurHack 2026",
     "organizer": "Devpost host",
     "category": "hackathon",
-    "url": "https://wisestart-2026-tll.devpost.com/",
+    "url": "https://durhack-26.devpost.com/",
     "source": "Devpost",
     "isOnline": false,
-    "city": "Wise Tallinn",
-    "registrationDeadline": "2026-11-13",
-    "eventDate": "Nov 13 - 14, 2026",
-    "prize": "€0",
-    "techTags": [
-      "open-ended",
-      "fintech",
-      "beginner-friendly"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1gtcrbs"
-  },
-  {
-    "id": "dp-123u262",
-    "title": "CIVIC Hack 2026",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://civic-hack-2026.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-11-12",
-    "eventDate": "Nov 12 - 14, 2026",
-    "prize": "$CAD 1,500",
-    "techTags": [
-      "beginner-friendly",
-      "machine-learning-ai",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-123u262"
-  },
-  {
-    "id": "dp-9fm4ji",
-    "title": "HackED Beta 2026",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://hacked-beta-2026.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "University of Alberta - UComms",
-    "registrationDeadline": "2026-11-13",
-    "eventDate": "Nov 13 - 14, 2026",
-    "prize": "$CAD 1,100",
-    "techTags": [
-      "beginner-friendly",
-      "open-ended"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-9fm4ji"
-  },
-  {
-    "id": "dp-lzdve1",
-    "title": "Unfair Weekend 2026",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://unfair-weekend.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "ISM University, Vilnius",
-    "registrationDeadline": "2026-11-12",
-    "eventDate": "Nov 12 - 14, 2026",
-    "prize": "€7,000",
-    "techTags": [
-      "low-no-code",
-      "machine-learning-ai",
-      "open-ended"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-lzdve1"
-  },
-  {
-    "id": "dp-1sf4jwa",
-    "title": "System Public Challenge",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://system-public-challenge.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "System HQ",
-    "registrationDeadline": "2026-11-12",
-    "eventDate": "Nov 12 - 14, 2026",
-    "prize": "$7,500",
-    "techTags": [
-      "health",
-      "machine-learning-ai",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1sf4jwa"
-  },
-  {
-    "id": "dp-9p34zw",
-    "title": "Black CS Summit 2026 Hackathon",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://black-cs-summit-2026-hackathon.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Chicago, Illinois, USA",
-    "registrationDeadline": "2026-11-13",
-    "eventDate": "Nov 13 - 14, 2026",
-    "prize": "$0",
-    "techTags": [
-      "quantum",
-      "social-good",
-      "machine-learning-ai"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-9p34zw"
-  },
-  {
-    "id": "dp-1mxszmo",
-    "title": "Scope-AI-Thon 2026 - AI for Detection of Acute Patient Deterioration",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://scope-ai-thon-2026.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-11-01",
-    "eventDate": "Nov 01 - 14, 2026",
-    "prize": "$CAD 1,400",
-    "techTags": [
-      "design",
-      "health",
-      "machine-learning-ai"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1mxszmo"
-  },
-  {
-    "id": "dp-mx8vqv",
-    "title": "BYU-Idaho: i-Hack 2026: Reinventing the Past",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://ihack-2026.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Science &amp; Technology Building (STC) ",
-    "registrationDeadline": "2026-11-13",
-    "eventDate": "Nov 13 - 14, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly",
-      "design",
-      "open-ended"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-mx8vqv"
-  },
-  {
-    "id": "dp-1318ad9",
-    "title": "EVOLVE: 8090 AI Hackathon",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://evolve-8090.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "8090 office",
-    "registrationDeadline": "2026-11-13",
-    "eventDate": "Nov 13 - 14, 2026",
-    "prize": "$0",
-    "techTags": [
-      "devops",
-      "enterprise",
-      "machine-learning-ai"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1318ad9"
-  },
-  {
-    "id": "dp-c4objs",
-    "title": "Haven Philly",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://haven-philly.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Drexel University CCI Building",
-    "registrationDeadline": "2026-11-14",
-    "eventDate": "Nov 14, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly",
-      "gaming"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-c4objs"
-  },
-  {
-    "id": "dp-1yigxbj",
-    "title": "BUHACK 2.0",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://buhack-2.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-11-12",
-    "eventDate": "Nov 12 - 14, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly",
-      "low-no-code",
-      "web"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1yigxbj"
-  },
-  {
-    "id": "dp-1rqkw9s",
-    "title": "DataJam 2026",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://datajam-2026.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-11-09",
-    "eventDate": "Nov 09 - 15, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1rqkw9s"
-  },
-  {
-    "id": "dp-qac2rh",
-    "title": "DSH Hacks V2 ($100k+ in prizes!)",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://dsh-hacks-v2.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-11-15",
-    "eventDate": "Jun 24 - Nov 15, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly",
-      "low-no-code",
-      "open-ended"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-qac2rh"
-  },
-  {
-    "id": "dp-jn0pay",
-    "title": "Hack Club Haven (Hong Kong)",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://hack-club-haven-hong-kong.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Canadian International School Hong Kong",
+    "city": "Teaching and Learning Centre",
     "registrationDeadline": "2026-11-14",
     "eventDate": "Nov 14 - 15, 2026",
-    "prize": "$0",
+    "prize": "£0",
     "techTags": [
       "beginner-friendly",
-      "gaming"
+      "open-ended",
+      "social-good"
     ],
     "status": "open",
     "confidence": "verify",
-    "rawHash": "dp-jn0pay"
+    "rawHash": "dp-12kqw8m"
   },
   {
     "id": "dp-1k9f66y",
@@ -302,26 +39,6 @@
     "rawHash": "dp-1k9f66y"
   },
   {
-    "id": "dp-11vowz8",
-    "title": "USCxIBM Qiskit Fall Fest 2026",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://uscibm-qff26.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Darla Moore School of Business, USC",
-    "registrationDeadline": "2026-11-13",
-    "eventDate": "Nov 13 - 15, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly",
-      "quantum"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-11vowz8"
-  },
-  {
     "id": "dp-1qtllui",
     "title": "Engage Test",
     "organizer": "Devpost host",
@@ -340,6 +57,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1qtllui"
+  },
+  {
+    "id": "dp-11vowz8",
+    "title": "USCxIBM Qiskit Fall Fest 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://uscibm-qff26.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Darla Moore School of Business, USC",
+    "registrationDeadline": "2026-11-13",
+    "eventDate": "Nov 13 - 15, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly",
+      "quantum"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-11vowz8"
   },
   {
     "id": "dp-vyz61k",
@@ -373,7 +110,7 @@
     "city": "JRR, LAS, Robertson, Friend",
     "registrationDeadline": "2026-11-13",
     "eventDate": "Nov 13 - 15, 2026",
-    "prize": "$0",
+    "prize": "$10,312",
     "techTags": [
       "education",
       "machine-learning-ai",
@@ -382,6 +119,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-cww9ui"
+  },
+  {
+    "id": "dp-1sq3t5q",
+    "title": "Mathematics for systems security",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://mathematics-systems-security.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-11-15",
+    "eventDate": "Oct 16 - Nov 15, 2026",
+    "prize": "$0",
+    "techTags": [
+      "communication",
+      "cybersecurity",
+      "machine-learning-ai"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1sq3t5q"
   },
   {
     "id": "dp-lozugq",
@@ -405,24 +162,25 @@
     "rawHash": "dp-lozugq"
   },
   {
-    "id": "dp-1sq3t5q",
-    "title": "Mathematics for systems security",
+    "id": "dp-k13cbe",
+    "title": "HackUMass XIV",
     "organizer": "Devpost host",
     "category": "hackathon",
-    "url": "https://mathematics-systems-security.devpost.com/",
+    "url": "https://hackumass-xiv.devpost.com/",
     "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-11-15",
-    "eventDate": "Oct 16 - Nov 15, 2026",
+    "isOnline": false,
+    "city": "Integrative Learning Center",
+    "registrationDeadline": "2026-11-13",
+    "eventDate": "Nov 13 - 15, 2026",
     "prize": "$0",
     "techTags": [
-      "communication",
-      "cybersecurity",
-      "machine-learning-ai"
+      "beginner-friendly",
+      "machine-learning-ai",
+      "web"
     ],
     "status": "open",
     "confidence": "verify",
-    "rawHash": "dp-1sq3t5q"
+    "rawHash": "dp-k13cbe"
   },
   {
     "id": "dp-3wg4xx",
@@ -445,25 +203,24 @@
     "rawHash": "dp-3wg4xx"
   },
   {
-    "id": "dp-k13cbe",
-    "title": "HackUMass XIV",
+    "id": "dp-72iwk6",
+    "title": "DevHacks",
     "organizer": "Devpost host",
     "category": "hackathon",
-    "url": "https://hackumass-xiv.devpost.com/",
+    "url": "https://devhacks2026.devpost.com/",
     "source": "Devpost",
     "isOnline": false,
-    "city": "Integrative Learning Center",
-    "registrationDeadline": "2026-11-13",
-    "eventDate": "Nov 13 - 15, 2026",
+    "city": "The Ohio State University",
+    "registrationDeadline": "2026-11-14",
+    "eventDate": "Nov 14 - 15, 2026",
     "prize": "$0",
     "techTags": [
       "beginner-friendly",
-      "machine-learning-ai",
-      "web"
+      "gaming"
     ],
     "status": "open",
     "confidence": "verify",
-    "rawHash": "dp-k13cbe"
+    "rawHash": "dp-72iwk6"
   },
   {
     "id": "dp-1fuf25s",
@@ -507,25 +264,204 @@
     "rawHash": "dp-gpztay"
   },
   {
-    "id": "dp-r55ebq",
-    "title": "Immerse the Bay 2026",
+    "id": "dp-1rqkw9s",
+    "title": "DataJam 2026",
     "organizer": "Devpost host",
     "category": "hackathon",
-    "url": "https://immerse-the-bay-2026.devpost.com/",
+    "url": "https://datajam-2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-11-09",
+    "eventDate": "Nov 09 - 15, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1rqkw9s"
+  },
+  {
+    "id": "dp-1j0dal6",
+    "title": "Central Hacks",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://central-hacks.devpost.com/",
     "source": "Devpost",
     "isOnline": false,
-    "city": "Stanford University",
+    "city": "Central Michigan University Pearce Hall",
     "registrationDeadline": "2026-11-14",
     "eventDate": "Nov 14 - 15, 2026",
-    "prize": "$1,000",
+    "prize": "$1,750",
     "techTags": [
-      "ar-vr",
       "beginner-friendly",
+      "open-ended"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1j0dal6"
+  },
+  {
+    "id": "dp-1sd6p7g",
+    "title": "Hack the Harvest",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://hack-the-harvest.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Aggie Square",
+    "registrationDeadline": "2026-11-14",
+    "eventDate": "Nov 14 - 15, 2026",
+    "prize": "$5,000",
+    "techTags": [
+      "education",
+      "enterprise",
       "machine-learning-ai"
     ],
     "status": "open",
     "confidence": "verify",
-    "rawHash": "dp-r55ebq"
+    "rawHash": "dp-1sd6p7g"
+  },
+  {
+    "id": "dp-81vxui",
+    "title": "Hack The Nest",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://hack-the-nest.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "EMU Student Center and Halle Library",
+    "registrationDeadline": "2026-11-14",
+    "eventDate": "Nov 14 - 15, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly",
+      "machine-learning-ai",
+      "open-ended"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-81vxui"
+  },
+  {
+    "id": "dp-u135x2",
+    "title": "HackUTA '26",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://hackuta-8.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "University of Texas at Arlington",
+    "registrationDeadline": "2026-11-14",
+    "eventDate": "Nov 14 - 15, 2026",
+    "prize": "$0",
+    "techTags": [
+      "open-ended"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-u135x2"
+  },
+  {
+    "id": "dp-1ivga9m",
+    "title": "sunhacks 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://sunhacks-2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "ASU Tempe Campus - Student Pavilion",
+    "registrationDeadline": "2026-11-14",
+    "eventDate": "Nov 14 - 15, 2026",
+    "prize": "$0",
+    "techTags": [
+      "design",
+      "open-ended",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1ivga9m"
+  },
+  {
+    "id": "dp-ncmn80",
+    "title": "MadHacks 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://madhacks-fall-2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Morgridge Hall",
+    "registrationDeadline": "2026-11-14",
+    "eventDate": "Nov 14 - 15, 2026",
+    "prize": "$0",
+    "techTags": [
+      "open-ended"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-ncmn80"
+  },
+  {
+    "id": "dp-1pn2ioq",
+    "title": "Hack-a-ton with Friends",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://hack-a-ton-with-friends.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "DOW Theatre",
+    "registrationDeadline": "2026-11-14",
+    "eventDate": "Nov 14 - 15, 2026",
+    "prize": "$CAD 0",
+    "techTags": [
+      "education",
+      "beginner-friendly"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1pn2ioq"
+  },
+  {
+    "id": "dp-1tx82u2",
+    "title": "AI@USC",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://ai-usc.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Ginsburg Hall, USC",
+    "registrationDeadline": "2026-11-14",
+    "eventDate": "Nov 14 - 15, 2026",
+    "prize": "$14,000",
+    "techTags": [
+      "beginner-friendly",
+      "machine-learning-ai",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1tx82u2"
+  },
+  {
+    "id": "dp-1q7clw6",
+    "title": "DevFest Hackathon 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://ucsc-devfest2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-11-14",
+    "eventDate": "Nov 14 - 15, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly",
+      "machine-learning-ai",
+      "open-ended"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1q7clw6"
   },
   {
     "id": "dp-14eo54k",
@@ -546,5 +482,67 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-14eo54k"
+  },
+  {
+    "id": "dp-1lb5uhi",
+    "title": "Opportunity Hack 2026 | ASU Fall Hackathon 2026 | Tempe Arizona - Nov 14-15",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://opportunity-hack-2026-arizona.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "ASU Engineering Center G Wing",
+    "registrationDeadline": "2026-11-14",
+    "eventDate": "Nov 14 - 15, 2026",
+    "prize": "$5,100",
+    "techTags": [
+      "beginner-friendly",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1lb5uhi"
+  },
+  {
+    "id": "dp-1d03xo9",
+    "title": "SanD Hacks",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://sand-hacks-26.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Qualcomm Conference Room",
+    "registrationDeadline": "2026-11-14",
+    "eventDate": "Nov 14 - 15, 2026",
+    "prize": "$2,250",
+    "techTags": [
+      "databases",
+      "machine-learning-ai",
+      "web"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1d03xo9"
+  },
+  {
+    "id": "dp-uzmrfv",
+    "title": "UBC eProjects x n8n LOOP Hackathon",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://loop.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "University of British Columbia",
+    "registrationDeadline": "2026-11-14",
+    "eventDate": "Nov 14 - 15, 2026",
+    "prize": "$CAD 1,000",
+    "techTags": [
+      "beginner-friendly",
+      "machine-learning-ai",
+      "web"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-uzmrfv"
   }
 ]

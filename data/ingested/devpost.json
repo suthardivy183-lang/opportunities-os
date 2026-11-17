@@ -1,23 +1,5 @@
 [
   {
-    "id": "dp-jswbwg",
-    "title": "Fall 2026 Projects",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://fall-2026-projects.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-11-15",
-    "eventDate": "Nov 15 - 16, 2026",
-    "prize": "$0",
-    "techTags": [
-      "low-no-code"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-jswbwg"
-  },
-  {
     "id": "dp-160j9qs",
     "title": "Bharat Builds Tour",
     "organizer": "Devpost host",
@@ -452,26 +434,6 @@
     "rawHash": "dp-1x5ocud"
   },
   {
-    "id": "dp-ge98e2",
-    "title": "IdeaLab Hacks",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://idealab-hacks.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-11-04",
-    "eventDate": "Nov 04 - 30, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly",
-      "design",
-      "open-ended"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-ge98e2"
-  },
-  {
     "id": "dp-vkq01e",
     "title": "305 Veterans Hackathon Edition November 2026 — 305Hackathons.vercel.app",
     "organizer": "Devpost host",
@@ -490,6 +452,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-vkq01e"
+  },
+  {
+    "id": "dp-ge98e2",
+    "title": "IdeaLab Hacks",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://idealab-hacks.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-11-04",
+    "eventDate": "Nov 04 - 30, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly",
+      "design",
+      "open-ended"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-ge98e2"
   },
   {
     "id": "dp-17ry04q",
@@ -530,5 +512,24 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-mmksvo"
+  },
+  {
+    "id": "dp-spjfy5",
+    "title": "LaunchPad Hacks (580k In Prizes!)",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://launchpad-hacks.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-12-04",
+    "eventDate": "Oct 16 - Dec 04, 2026",
+    "prize": "$300",
+    "techTags": [
+      "beginner-friendly",
+      "open-ended"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-spjfy5"
   }
 ]

@@ -1,44 +1,24 @@
 [
   {
-    "id": "dp-160j9qs",
-    "title": "Bharat Builds Tour",
+    "id": "dp-1xncovd",
+    "title": "HudHackHer 2026",
     "organizer": "Devpost host",
     "category": "hackathon",
-    "url": "https://bharat-builds-tour.devpost.com/",
+    "url": "https://hudhackher.devpost.com/",
     "source": "Devpost",
     "isOnline": false,
-    "city": "jaipur",
-    "registrationDeadline": "2026-11-16",
-    "eventDate": "Nov 16 - 17, 2026",
-    "prize": "$0",
+    "city": "Study Mill, Haslett Building",
+    "registrationDeadline": "2026-11-18",
+    "eventDate": "Nov 18, 2026",
+    "prize": "£0",
     "techTags": [
-      "blockchain",
       "cybersecurity",
-      "devops"
+      "social-good",
+      "beginner-friendly"
     ],
     "status": "open",
     "confidence": "verify",
-    "rawHash": "dp-160j9qs"
-  },
-  {
-    "id": "dp-pidquh",
-    "title": "CRC Hacks ",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://crc-student-hackathon.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-11-09",
-    "eventDate": "Nov 09 - 17, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly",
-      "design",
-      "machine-learning-ai"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-pidquh"
+    "rawHash": "dp-1xncovd"
   },
   {
     "id": "dp-113w4xt",
@@ -177,6 +157,24 @@
     "rawHash": "dp-5bmery"
   },
   {
+    "id": "dp-hn21w4",
+    "title": "AI@UCF Semester Sprint",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://semester-sprint.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-11-17",
+    "eventDate": "Nov 17 - 20, 2026",
+    "prize": "$0",
+    "techTags": [
+      "machine-learning-ai"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-hn21w4"
+  },
+  {
     "id": "dp-1l5dfwy",
     "title": "Build with Gemma - Innovate in Windsor",
     "organizer": "Devpost host",
@@ -274,6 +272,27 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-7kahru"
+  },
+  {
+    "id": "dp-1e9vk6s",
+    "title": "Diwali Festiverse: The Agent-to-Agent Hackathon (India Edition)",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://theagent-to-agent-hackathon.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "OJone Building, Bengaluru. ",
+    "registrationDeadline": "2026-11-17",
+    "eventDate": "Nov 17 - 24, 2026",
+    "prize": "$700",
+    "techTags": [
+      "devops",
+      "machine-learning-ai",
+      "robotic-process-automation"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1e9vk6s"
   },
   {
     "id": "dp-8z7nbu",
@@ -512,24 +531,5 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-mmksvo"
-  },
-  {
-    "id": "dp-spjfy5",
-    "title": "LaunchPad Hacks (580k In Prizes!)",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://launchpad-hacks.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-12-04",
-    "eventDate": "Oct 16 - Dec 04, 2026",
-    "prize": "$300",
-    "techTags": [
-      "beginner-friendly",
-      "open-ended"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-spjfy5"
   }
 ]

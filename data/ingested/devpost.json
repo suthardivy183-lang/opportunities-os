@@ -1,65 +1,5 @@
 [
   {
-    "id": "dp-1xncovd",
-    "title": "HudHackHer 2026",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://hudhackher.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Study Mill, Haslett Building",
-    "registrationDeadline": "2026-11-18",
-    "eventDate": "Nov 18, 2026",
-    "prize": "£0",
-    "techTags": [
-      "cybersecurity",
-      "social-good",
-      "beginner-friendly"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1xncovd"
-  },
-  {
-    "id": "dp-113w4xt",
-    "title": "Meta VR Start Developer Competition 2026",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://start-developer-competition-26.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-11-18",
-    "eventDate": "Sep 24 - Nov 18, 2026",
-    "prize": "$1,000,000",
-    "techTags": [
-      "ar-vr",
-      "machine-learning-ai",
-      "web"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-113w4xt"
-  },
-  {
-    "id": "dp-1ky3nz8",
-    "title": "GWC Projects Program Fall 2026",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://projects-program-fall-2026.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-11-09",
-    "eventDate": "Nov 09 - 18, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly",
-      "open-ended"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1ky3nz8"
-  },
-  {
     "id": "dp-9xji8b",
     "title": "ESE1110 Fall 2026",
     "organizer": "Devpost host",
@@ -175,6 +115,26 @@
     "rawHash": "dp-hn21w4"
   },
   {
+    "id": "dp-171fd60",
+    "title": "SMBP FinHack",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://smbp-finhack.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-11-18",
+    "eventDate": "Nov 18 - 20, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly",
+      "fintech",
+      "open-ended"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-171fd60"
+  },
+  {
     "id": "dp-1l5dfwy",
     "title": "Build with Gemma - Innovate in Windsor",
     "organizer": "Devpost host",
@@ -212,6 +172,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1777mm0"
+  },
+  {
+    "id": "dp-cc5b66",
+    "title": "Creators AI Winter Challenge ",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://creators-ai-winter-challenge.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-11-19",
+    "eventDate": "Nov 19 - 21, 2026",
+    "prize": "$0",
+    "techTags": [
+      "enterprise",
+      "fintech",
+      "productivity"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-cc5b66"
   },
   {
     "id": "dp-tj56zs",
@@ -272,6 +252,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-7kahru"
+  },
+  {
+    "id": "dp-1p0ak1v",
+    "title": "OBSCURA: Satellite AI Research Challenge",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://obscura.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-11-18",
+    "eventDate": "Nov 18 - 24, 2026",
+    "prize": "$50",
+    "techTags": [
+      "education",
+      "machine-learning-ai",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1p0ak1v"
   },
   {
     "id": "dp-1e9vk6s",

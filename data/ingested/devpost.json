@@ -1,85 +1,5 @@
 [
   {
-    "id": "dp-1eoz5qy",
-    "title": "BuildyourOwnWebsite",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://buildyourownwebsite.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-11-16",
-    "eventDate": "Nov 16 - 25, 2026",
-    "prize": "₹ 0",
-    "techTags": [
-      "beginner-friendly",
-      "education",
-      "web"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1eoz5qy"
-  },
-  {
-    "id": "dp-g815w4",
-    "title": "HackWithAditya",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://hackwithaditya.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-11-25",
-    "eventDate": "Oct 16 - Nov 25, 2026",
-    "prize": "₹ 500,000",
-    "techTags": [
-      "education",
-      "health",
-      "machine-learning-ai"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-g815w4"
-  },
-  {
-    "id": "dp-cc5b66",
-    "title": "Creators AI Winter Challenge ",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://creators-ai-winter-challenge.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-11-19",
-    "eventDate": "Nov 19 - 25, 2026",
-    "prize": "$0",
-    "techTags": [
-      "enterprise",
-      "fintech",
-      "productivity"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-cc5b66"
-  },
-  {
-    "id": "dp-ho7fsq",
-    "title": "STEM Innovation Challenge 2026",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://stem-innovation-challenge-2026.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-11-24",
-    "eventDate": "Nov 24 - 26, 2026",
-    "prize": "$100",
-    "techTags": [
-      "beginner-friendly",
-      "open-ended",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-ho7fsq"
-  },
-  {
     "id": "dp-1mclg27",
     "title": "Free AWS Courses & Certifications for Students – NASSCOM Initiative",
     "organizer": "Devpost host",
@@ -99,6 +19,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1mclg27"
+  },
+  {
+    "id": "dp-cc5b66",
+    "title": "Creators AI Winter Challenge ",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://creators-ai-winter-challenge.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-11-19",
+    "eventDate": "Nov 19 - 27, 2026",
+    "prize": "$0",
+    "techTags": [
+      "enterprise",
+      "fintech",
+      "productivity"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-cc5b66"
   },
   {
     "id": "dp-171fd60",
@@ -320,26 +260,6 @@
     "rawHash": "dp-vkq01e"
   },
   {
-    "id": "dp-ge98e2",
-    "title": "IdeaLab Hacks",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://idealab-hacks.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-11-04",
-    "eventDate": "Nov 04 - 30, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly",
-      "design",
-      "open-ended"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-ge98e2"
-  },
-  {
     "id": "dp-cg0bbh",
     "title": "Acodemic X KeebsforWater Global SDG Hackathon",
     "organizer": "Devpost host",
@@ -358,6 +278,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-cg0bbh"
+  },
+  {
+    "id": "dp-ge98e2",
+    "title": "IdeaLab Hacks",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://idealab-hacks.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-11-04",
+    "eventDate": "Nov 04 - 30, 2026",
+    "prize": "$0",
+    "techTags": [
+      "beginner-friendly",
+      "design",
+      "open-ended"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-ge98e2"
   },
   {
     "id": "dp-1c8kzzi",
@@ -439,6 +379,24 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-17xczow"
+  },
+  {
+    "id": "dp-1e252sy",
+    "title": "Fanshawe Hacks",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://fanshawe-hacks.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-12-03",
+    "eventDate": "Nov 25 - Dec 03, 2026",
+    "prize": "$0",
+    "techTags": [
+      "machine-learning-ai"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1e252sy"
   },
   {
     "id": "dp-spjfy5",
@@ -539,5 +497,45 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-s316e6"
+  },
+  {
+    "id": "dp-1k640xx",
+    "title": "Learn AR with SPECS",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://learn-specs.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-12-07",
+    "eventDate": "Nov 10 - Dec 07, 2026",
+    "prize": "$2,500",
+    "techTags": [
+      "ar-vr",
+      "design",
+      "machine-learning-ai"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1k640xx"
+  },
+  {
+    "id": "dp-1cbevwx",
+    "title": "SLAY HACKS",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://slayy-hacks.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-12-07",
+    "eventDate": "Nov 07 - Dec 07, 2026",
+    "prize": "$4,500",
+    "techTags": [
+      "beginner-friendly",
+      "open-ended",
+      "machine-learning-ai"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1cbevwx"
   }
 ]

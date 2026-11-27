@@ -1,24 +1,22 @@
 [
   {
-    "id": "dp-1mclg27",
-    "title": "Free AWS Courses & Certifications for Students – NASSCOM Initiative",
+    "id": "dp-1lxyotj",
+    "title": "Hackathon Agéntico SoftwareChido 2026B",
     "organizer": "Devpost host",
     "category": "hackathon",
-    "url": "https://free-aws-courses.devpost.com/",
+    "url": "https://hackathon-agentico-2026b.devpost.com/",
     "source": "Devpost",
-    "isOnline": false,
-    "city": "REMOTE",
-    "registrationDeadline": "2026-11-19",
-    "eventDate": "Nov 19 - 26, 2026",
+    "isOnline": true,
+    "registrationDeadline": "2026-11-27",
+    "eventDate": "Oct 05 - Nov 27, 2026",
     "prize": "$0",
     "techTags": [
       "education",
-      "productivity",
-      "web"
+      "machine-learning-ai"
     ],
     "status": "open",
     "confidence": "verify",
-    "rawHash": "dp-1mclg27"
+    "rawHash": "dp-1lxyotj"
   },
   {
     "id": "dp-cc5b66",
@@ -200,6 +198,26 @@
     "rawHash": "dp-1uhmb7e"
   },
   {
+    "id": "dp-6pfqi9",
+    "title": "National Hackathon 2026: AWS Student Builder Group COMSATS Sahiwal × ILC×Devsinc",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://aws-sbg-cui-sahiwal-hack-2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-11-26",
+    "eventDate": "Nov 26 - 30, 2026",
+    "prize": "$0",
+    "techTags": [
+      "machine-learning-ai",
+      "open-ended",
+      "productivity"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-6pfqi9"
+  },
+  {
     "id": "dp-1x5ocud",
     "title": "#BuildHybridAI 2026",
     "organizer": "Devpost host",
@@ -240,6 +258,27 @@
     "rawHash": "dp-185jxq4"
   },
   {
+    "id": "dp-19kgugw",
+    "title": "KickStart 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://kickstart-2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "UBC Sauder (Demo Day)",
+    "registrationDeadline": "2026-11-26",
+    "eventDate": "Nov 26 - 30, 2026",
+    "prize": "$CAD 1,500",
+    "techTags": [
+      "beginner-friendly",
+      "enterprise",
+      "open-ended"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-19kgugw"
+  },
+  {
     "id": "dp-vkq01e",
     "title": "305 Veterans Hackathon Edition November 2026 — 305Hackathons.vercel.app",
     "organizer": "Devpost host",
@@ -260,26 +299,6 @@
     "rawHash": "dp-vkq01e"
   },
   {
-    "id": "dp-cg0bbh",
-    "title": "Acodemic X KeebsforWater Global SDG Hackathon",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://hackathon-draft-32215.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-11-23",
-    "eventDate": "Nov 23 - 30, 2026",
-    "prize": "$35",
-    "techTags": [
-      "beginner-friendly",
-      "education",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-cg0bbh"
-  },
-  {
     "id": "dp-ge98e2",
     "title": "IdeaLab Hacks",
     "organizer": "Devpost host",
@@ -298,6 +317,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-ge98e2"
+  },
+  {
+    "id": "dp-cg0bbh",
+    "title": "Acodemic X KeebsforWater Global SDG Hackathon",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://hackathon-draft-32215.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-11-23",
+    "eventDate": "Nov 23 - 30, 2026",
+    "prize": "$35",
+    "techTags": [
+      "beginner-friendly",
+      "education",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-cg0bbh"
   },
   {
     "id": "dp-1c8kzzi",
@@ -339,6 +378,26 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1iisjfx"
+  },
+  {
+    "id": "dp-setgw3",
+    "title": "thanksgiving thank you hackathon",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://thanksgiving-hackathon.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-12-01",
+    "eventDate": "Nov 27 - Dec 01, 2026",
+    "prize": "$0",
+    "techTags": [
+      "low-no-code",
+      "social-good",
+      "web"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-setgw3"
   },
   {
     "id": "dp-17ry04q",
@@ -476,66 +535,5 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1dq12xu"
-  },
-  {
-    "id": "dp-s316e6",
-    "title": "2026-2027 Fall ESE Senior Design",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://ese4500f26.devpost.com/",
-    "source": "Devpost",
-    "isOnline": false,
-    "city": "Amy Gutman Hall",
-    "registrationDeadline": "2026-12-07",
-    "eventDate": "Sep 22 - Dec 07, 2026",
-    "prize": "$0",
-    "techTags": [
-      "ar-vr",
-      "fintech",
-      "quantum"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-s316e6"
-  },
-  {
-    "id": "dp-1k640xx",
-    "title": "Learn AR with SPECS",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://learn-specs.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-12-07",
-    "eventDate": "Nov 10 - Dec 07, 2026",
-    "prize": "$2,500",
-    "techTags": [
-      "ar-vr",
-      "design",
-      "machine-learning-ai"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1k640xx"
-  },
-  {
-    "id": "dp-1cbevwx",
-    "title": "SLAY HACKS",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://slayy-hacks.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-12-07",
-    "eventDate": "Nov 07 - Dec 07, 2026",
-    "prize": "$4,500",
-    "techTags": [
-      "beginner-friendly",
-      "open-ended",
-      "machine-learning-ai"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1cbevwx"
   }
 ]

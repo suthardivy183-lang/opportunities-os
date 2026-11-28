@@ -1,62 +1,64 @@
 [
   {
-    "id": "dp-1lxyotj",
-    "title": "Hackathon Agéntico SoftwareChido 2026B",
+    "id": "dp-yh7gii",
+    "title": "Build AI on Kaspa",
     "organizer": "Devpost host",
     "category": "hackathon",
-    "url": "https://hackathon-agentico-2026b.devpost.com/",
+    "url": "https://build-ai-on-kaspa.devpost.com/",
     "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-11-27",
-    "eventDate": "Oct 05 - Nov 27, 2026",
-    "prize": "$0",
+    "isOnline": false,
+    "city": "EPITA Kremlin-Bicêtre",
+    "registrationDeadline": "2026-11-28",
+    "eventDate": "Nov 28, 2026",
+    "prize": "€1,000",
     "techTags": [
-      "education",
+      "beginner-friendly",
+      "blockchain",
       "machine-learning-ai"
     ],
     "status": "open",
     "confidence": "verify",
-    "rawHash": "dp-1lxyotj"
+    "rawHash": "dp-yh7gii"
   },
   {
-    "id": "dp-cc5b66",
-    "title": "Creators AI Winter Challenge ",
+    "id": "dp-huarqv",
+    "title": "Project-ZH Hack Day",
     "organizer": "Devpost host",
     "category": "hackathon",
-    "url": "https://creators-ai-winter-challenge.devpost.com/",
+    "url": "https://project-zh.devpost.com/",
     "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-11-19",
-    "eventDate": "Nov 19 - 27, 2026",
-    "prize": "$0",
-    "techTags": [
-      "enterprise",
-      "fintech",
-      "productivity"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-cc5b66"
-  },
-  {
-    "id": "dp-171fd60",
-    "title": "SMBP FinHack",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://smbp-finhack.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-11-18",
-    "eventDate": "Nov 18 - 27, 2026",
+    "isOnline": false,
+    "city": "Innoland Incubation Center, Baku",
+    "registrationDeadline": "2026-11-28",
+    "eventDate": "Nov 28, 2026",
     "prize": "$0",
     "techTags": [
       "beginner-friendly",
-      "fintech",
+      "machine-learning-ai",
       "open-ended"
     ],
     "status": "open",
     "confidence": "verify",
-    "rawHash": "dp-171fd60"
+    "rawHash": "dp-huarqv"
+  },
+  {
+    "id": "dp-nc93de",
+    "title": "Alan x Qovery x AWS: AI Health Hack 2",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://ai-health-hack-2.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Alan HQ",
+    "registrationDeadline": "2026-11-28",
+    "eventDate": "Nov 28, 2026",
+    "prize": "€4,700",
+    "techTags": [
+      "health"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-nc93de"
   },
   {
     "id": "dp-103mktx",
@@ -100,6 +102,26 @@
     "rawHash": "dp-1xkmz2y"
   },
   {
+    "id": "dp-cc5b66",
+    "title": "Creators AI Winter Challenge ",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://creators-ai-winter-challenge.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-11-19",
+    "eventDate": "Nov 19 - 28, 2026",
+    "prize": "$0",
+    "techTags": [
+      "enterprise",
+      "fintech",
+      "productivity"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-cc5b66"
+  },
+  {
     "id": "dp-1bs8l3z",
     "title": "Global AI Builder’s Challenge",
     "organizer": "Devpost host",
@@ -116,6 +138,110 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-1bs8l3z"
+  },
+  {
+    "id": "dp-t3f7wa",
+    "title": "HackEPS2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://hackeps2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Universitat de Lleida",
+    "registrationDeadline": "2026-11-28",
+    "eventDate": "Nov 28 - 29, 2026",
+    "prize": "€0",
+    "techTags": [
+      "beginner-friendly",
+      "machine-learning-ai",
+      "web"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-t3f7wa"
+  },
+  {
+    "id": "dp-2iiro4",
+    "title": "Mosque & Madrassah Hackathon 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://mosque-expo-hackathon-2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Thistle London Heathrow Terminal 5",
+    "registrationDeadline": "2026-11-27",
+    "eventDate": "Nov 27 - 29, 2026",
+    "prize": "£0",
+    "techTags": [
+      "beginner-friendly",
+      "education",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-2iiro4"
+  },
+  {
+    "id": "dp-9jphbg",
+    "title": "Hackathon 2026",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://dtit-hackathon-2026.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Technical University of Košice - Library",
+    "registrationDeadline": "2026-11-28",
+    "eventDate": "Nov 28 - 29, 2026",
+    "prize": "€10,000",
+    "techTags": [
+      "beginner-friendly",
+      "open-ended"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-9jphbg"
+  },
+  {
+    "id": "dp-1lyhxly",
+    "title": "LooHacks",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://loohacks.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Spur Innovation Center - SPUR Campus",
+    "registrationDeadline": "2026-11-27",
+    "eventDate": "Nov 27 - 29, 2026",
+    "prize": "$CAD 0",
+    "techTags": [
+      "e-commerce-retail",
+      "enterprise",
+      "robotic-process-automation"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1lyhxly"
+  },
+  {
+    "id": "dp-wjum56",
+    "title": "K-Dub Hacks",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://k-dub-hacks.devpost.com/",
+    "source": "Devpost",
+    "isOnline": false,
+    "city": "Spur Innovation Center",
+    "registrationDeadline": "2026-11-27",
+    "eventDate": "Nov 27 - 29, 2026",
+    "prize": "$CAD 448,000",
+    "techTags": [
+      "beginner-friendly",
+      "open-ended",
+      "enterprise"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-wjum56"
   },
   {
     "id": "dp-46surp",
@@ -279,6 +405,26 @@
     "rawHash": "dp-19kgugw"
   },
   {
+    "id": "dp-cg0bbh",
+    "title": "Acodemic X KeebsforWater Global SDG Hackathon",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://hackathon-draft-32215.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-11-23",
+    "eventDate": "Nov 23 - 30, 2026",
+    "prize": "$35",
+    "techTags": [
+      "beginner-friendly",
+      "education",
+      "social-good"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-cg0bbh"
+  },
+  {
     "id": "dp-vkq01e",
     "title": "305 Veterans Hackathon Edition November 2026 — 305Hackathons.vercel.app",
     "organizer": "Devpost host",
@@ -319,45 +465,44 @@
     "rawHash": "dp-ge98e2"
   },
   {
-    "id": "dp-cg0bbh",
-    "title": "Acodemic X KeebsforWater Global SDG Hackathon",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://hackathon-draft-32215.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-11-23",
-    "eventDate": "Nov 23 - 30, 2026",
-    "prize": "$35",
-    "techTags": [
-      "beginner-friendly",
-      "education",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-cg0bbh"
-  },
-  {
-    "id": "dp-1c8kzzi",
-    "title": "Westside High School Build Challenge",
+    "id": "dp-1reye5c",
+    "title": "Westside Build Challenge",
     "organizer": "Devpost host",
     "category": "hackathon",
     "url": "https://whs-build.devpost.com/",
     "source": "Devpost",
-    "isOnline": false,
-    "city": "Westside High School",
+    "isOnline": true,
     "registrationDeadline": "2026-12-01",
     "eventDate": "Nov 24 - Dec 01, 2026",
     "prize": "$0",
     "techTags": [
       "beginner-friendly",
       "low-no-code",
+      "education"
+    ],
+    "status": "open",
+    "confidence": "verify",
+    "rawHash": "dp-1reye5c"
+  },
+  {
+    "id": "dp-lmrynb",
+    "title": "Agents that act. Systems that answer.",
+    "organizer": "Devpost host",
+    "category": "hackathon",
+    "url": "https://accountable-agents.devpost.com/",
+    "source": "Devpost",
+    "isOnline": true,
+    "registrationDeadline": "2026-12-01",
+    "eventDate": "Nov 28 - Dec 01, 2026",
+    "prize": "$0",
+    "techTags": [
+      "education",
+      "machine-learning-ai",
       "open-ended"
     ],
     "status": "open",
     "confidence": "verify",
-    "rawHash": "dp-1c8kzzi"
+    "rawHash": "dp-lmrynb"
   },
   {
     "id": "dp-1iisjfx",
@@ -398,142 +543,5 @@
     "status": "open",
     "confidence": "verify",
     "rawHash": "dp-setgw3"
-  },
-  {
-    "id": "dp-17ry04q",
-    "title": "Code for Change",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://code-for-change-global.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-12-01",
-    "eventDate": "Nov 05 - Dec 01, 2026",
-    "prize": "$200",
-    "techTags": [
-      "beginner-friendly",
-      "open-ended",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-17ry04q"
-  },
-  {
-    "id": "dp-17xczow",
-    "title": "ML Empowerment Build Challenge 4.0 (250K IN PRIZES!)",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://ml-build-challenge-4.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-12-02",
-    "eventDate": "Nov 01 - Dec 02, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly",
-      "machine-learning-ai",
-      "social-good"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-17xczow"
-  },
-  {
-    "id": "dp-1e252sy",
-    "title": "Fanshawe Hacks",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://fanshawe-hacks.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-12-03",
-    "eventDate": "Nov 25 - Dec 03, 2026",
-    "prize": "$0",
-    "techTags": [
-      "machine-learning-ai"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1e252sy"
-  },
-  {
-    "id": "dp-spjfy5",
-    "title": "LaunchPad Hacks (580k In Prizes!)",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://launchpad-hacks.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-12-04",
-    "eventDate": "Oct 16 - Dec 04, 2026",
-    "prize": "$300",
-    "techTags": [
-      "beginner-friendly",
-      "open-ended"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-spjfy5"
-  },
-  {
-    "id": "dp-p7ygnd",
-    "title": "Kiroween 2026",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://kiroween.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-12-04",
-    "eventDate": "Oct 30 - Dec 04, 2026",
-    "prize": "$100,000",
-    "techTags": [
-      "beginner-friendly",
-      "machine-learning-ai",
-      "open-ended"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-p7ygnd"
-  },
-  {
-    "id": "dp-1xndfh2",
-    "title": "AI for Medicine: A Global Student Hackathon on the Future of Care",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://ai-for-medicine.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-12-04",
-    "eventDate": "Nov 04 - Dec 04, 2026",
-    "prize": "$0",
-    "techTags": [
-      "beginner-friendly",
-      "health",
-      "machine-learning-ai"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1xndfh2"
-  },
-  {
-    "id": "dp-1dq12xu",
-    "title": "Deck the Pixels",
-    "organizer": "Devpost host",
-    "category": "hackathon",
-    "url": "https://deckthepixels.devpost.com/",
-    "source": "Devpost",
-    "isOnline": true,
-    "registrationDeadline": "2026-12-07",
-    "eventDate": "Nov 10 - Dec 07, 2026",
-    "prize": "$25,000",
-    "techTags": [
-      "design",
-      "machine-learning-ai",
-      "low-no-code"
-    ],
-    "status": "open",
-    "confidence": "verify",
-    "rawHash": "dp-1dq12xu"
   }
 ]
